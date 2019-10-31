@@ -1,0 +1,11 @@
+<div class="mcNameInput">
+  <mat-form-field class="example-full-width">
+    <input type="text" matInput placeholder="MC 1" [(ngModel)]="scoreData.Mc1.name" (keyup.enter)="acceptNames()" />
+  </mat-form-field>
+
+  <mat-form-field class="example-full-width">
+    <input matInput placeholder="MC 2" [(ngModel)]="scoreData.Mc2.name" (keyup.enter)="acceptNames()"/>
+  </mat-form-field>
+
+  <button mat-button style="width: 100%;" type="button" (click)="acceptNames()">Continuar</button>
+</div>
