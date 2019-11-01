@@ -8,8 +8,8 @@ const app = express();
 app.use(express.static('./dist/fms-votes'));
 
 app.get('/*', function(req,res) {
-    
-res.sendFile(path.join(__dirname,'/dist/fms-votes/index.html'));
+
+res.sendFile(path.join(__dirname,'/dist/FMS-Votes/index.html'));
 });
 
 // Start the app by listening on the default Heroku port

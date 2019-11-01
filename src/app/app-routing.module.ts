@@ -8,7 +8,8 @@ import { HardComponent } from './components/hard/hard.component';
 const routes: Routes = [
   {path: 'McSelector', component: McSelectorComponent},
   {path: 'Easy', component: EasyComponent},
-  {path: 'Hard', component: HardComponent}
+  {path: 'Hard', component: HardComponent},
+  {path: '', component: McSelectorComponent}
 ];
 
 @NgModule({
