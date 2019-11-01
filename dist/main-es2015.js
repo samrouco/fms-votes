@@ -45,7 +45,20 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"scoreTable\">\n\n  <tbody>\n    <tr>\n      <td>\n        {{ scoreData.Mc1.name }}\n      </td>\n\n      <td *ngFor=\"let patron of scoreData.Mc1.easyMode.patrons\">\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\n        </mat-form-field>\n      </td>\n\n      <td>\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\n          <input type=\"text\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.skills\" />\n        </mat-form-field>\n      </td>\n      <td>\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.flow\" />\n        </mat-form-field>\n      </td>\n      <td>\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.scene\" />\n        </mat-form-field>\n      </td>\n    </tr>\n    <tr>\n      <td>\n        {{ scoreData.Mc2.name }}\n      </td>\n      <td *ngFor=\"let patron of scoreData.Mc2.easyMode.patrons\">\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\n        </mat-form-field>\n      </td>\n\n      <td>\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\n            <input type=\"text\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.skills\" />\n          </mat-form-field>\n        </td>\n        <td>\n          <mat-form-field class=\"scoreInput\">\n            <input type=\"text\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.flow\" />\n          </mat-form-field>\n        </td>\n        <td>\n          <mat-form-field class=\"scoreInput\">\n            <input type=\"text\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.scene\" />\n          </mat-form-field>\n        </td>\n    </tr>\n  </tbody>\n</table>\n\n<button></button>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"scoreTable\">\n\n  <tbody>\n    <tr>\n      <td>\n        {{ scoreData.Mc1.name }}\n      </td>\n\n      <td *ngFor=\"let patron of scoreData.Mc1.easyMode.patrons\">\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\n        </mat-form-field>\n      </td>\n\n      <td>\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\n          <input type=\"text\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.skills\" />\n        </mat-form-field>\n      </td>\n      <td>\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.flow\" />\n        </mat-form-field>\n      </td>\n      <td>\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.scene\" />\n        </mat-form-field>\n      </td>\n    </tr>\n    <tr>\n      <td>\n        {{ scoreData.Mc2.name }}\n      </td>\n      <td *ngFor=\"let patron of scoreData.Mc2.easyMode.patrons\">\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\n        </mat-form-field>\n      </td>\n\n      <td>\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\n            <input type=\"text\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.skills\" />\n          </mat-form-field>\n        </td>\n        <td>\n          <mat-form-field class=\"scoreInput\">\n            <input type=\"text\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.flow\" />\n          </mat-form-field>\n        </td>\n        <td>\n          <mat-form-field class=\"scoreInput\">\n            <input type=\"text\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.scene\" />\n          </mat-form-field>\n        </td>\n    </tr>\n  </tbody>\n</table>\n\n<button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"navigateToHardMode()\">HardMode</button>\n");
+
+/***/ }),
+
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/components/hard/hard.component.html":
+/*!*******************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/hard/hard.component.html ***!
+  \*******************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"scoreTable\">\n\n  <tbody>\n    <tr>\n      <td>\n        {{ scoreData.Mc1.name }}\n      </td>\n\n      <td *ngFor=\"let patron of scoreData.Mc1.hardMode.patrons\">\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\n        </mat-form-field>\n      </td>\n\n      <td>\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\n          <input type=\"text\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.hardMode.extraScore.skills\" />\n        </mat-form-field>\n      </td>\n      <td>\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.hardMode.extraScore.flow\" />\n        </mat-form-field>\n      </td>\n      <td>\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.hardMode.extraScore.scene\" />\n        </mat-form-field>\n      </td>\n    </tr>\n    <tr>\n      <td>\n        {{ scoreData.Mc2.name }}\n      </td>\n      <td *ngFor=\"let patron of scoreData.Mc2.hardMode.patrons\">\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\n        </mat-form-field>\n      </td>\n\n      <td>\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\n            <input type=\"text\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.hardMode.extraScore.skills\" />\n          </mat-form-field>\n        </td>\n        <td>\n          <mat-form-field class=\"scoreInput\">\n            <input type=\"text\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.hardMode.extraScore.flow\" />\n          </mat-form-field>\n        </td>\n        <td>\n          <mat-form-field class=\"scoreInput\">\n            <input type=\"text\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.hardMode.extraScore.scene\" />\n          </mat-form-field>\n        </td>\n    </tr>\n  </tbody>\n</table>\n\n<button></button>\n");
 
 /***/ }),
 
@@ -306,6 +319,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
 /* harmony import */ var _components_mc_selector_mc_selector_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components/mc-selector/mc-selector.component */ "./src/app/components/mc-selector/mc-selector.component.ts");
 /* harmony import */ var _components_easy_easy_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./components/easy/easy.component */ "./src/app/components/easy/easy.component.ts");
+/* harmony import */ var _components_hard_hard_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./components/hard/hard.component */ "./src/app/components/hard/hard.component.ts");
+
 
 
 
@@ -313,7 +328,9 @@ __webpack_require__.r(__webpack_exports__);
 
 const routes = [
     { path: 'McSelector', component: _components_mc_selector_mc_selector_component__WEBPACK_IMPORTED_MODULE_3__["McSelectorComponent"] },
-    { path: 'Easy-Hard', component: _components_easy_easy_component__WEBPACK_IMPORTED_MODULE_4__["EasyComponent"] }
+    { path: 'Easy', component: _components_easy_easy_component__WEBPACK_IMPORTED_MODULE_4__["EasyComponent"] },
+    { path: 'Hard', component: _components_hard_hard_component__WEBPACK_IMPORTED_MODULE_5__["HardComponent"] },
+    { path: '', component: _components_mc_selector_mc_selector_component__WEBPACK_IMPORTED_MODULE_3__["McSelectorComponent"] }
 ];
 let AppRoutingModule = class AppRoutingModule {
 };
@@ -396,6 +413,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_easy_easy_component__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./components/easy/easy.component */ "./src/app/components/easy/easy.component.ts");
 /* harmony import */ var _components_base_patron_number_directive__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./components/base/patron-number-directive */ "./src/app/components/base/patron-number-directive.ts");
 /* harmony import */ var _components_base_extra_score_directive__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./components/base/extra-score-directive */ "./src/app/components/base/extra-score-directive.ts");
+/* harmony import */ var _components_hard_hard_component__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./components/hard/hard.component */ "./src/app/components/hard/hard.component.ts");
+
 
 
 
@@ -419,7 +438,8 @@ AppModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
             _components_mc_selector_mc_selector_component__WEBPACK_IMPORTED_MODULE_5__["McSelectorComponent"],
             _components_easy_easy_component__WEBPACK_IMPORTED_MODULE_11__["EasyComponent"],
             _components_base_patron_number_directive__WEBPACK_IMPORTED_MODULE_12__["PatronNumberDirective"],
-            _components_base_extra_score_directive__WEBPACK_IMPORTED_MODULE_13__["ExtraScoreNumberDirective"]
+            _components_base_extra_score_directive__WEBPACK_IMPORTED_MODULE_13__["ExtraScoreNumberDirective"],
+            _components_hard_hard_component__WEBPACK_IMPORTED_MODULE_14__["HardComponent"]
         ],
         imports: [
             _angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["BrowserModule"],
@@ -434,27 +454,6 @@ AppModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     })
 ], AppModule);
 
-
-
-/***/ }),
-
-/***/ "./src/app/components/base/base-component.ts":
-/*!***************************************************!*\
-  !*** ./src/app/components/base/base-component.ts ***!
-  \***************************************************/
-/*! exports provided: BaseComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "BaseComponent", function() { return BaseComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-
-class BaseComponent {
-    keydownPatron(event) {
-        console.log('keydown');
-    }
-}
 
 
 /***/ }),
@@ -572,21 +571,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
 /* harmony import */ var _services_SharingService__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../services/SharingService */ "./src/app/services/SharingService.ts");
 /* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
-/* harmony import */ var _base_base_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../base/base-component */ "./src/app/components/base/base-component.ts");
 
 
 
 
-
-let EasyComponent = class EasyComponent extends _base_base_component__WEBPACK_IMPORTED_MODULE_4__["BaseComponent"] {
+let EasyComponent = class EasyComponent {
     constructor(sharingService, router) {
-        super();
         this.sharingService = sharingService;
         this.router = router;
         this.scoreData = sharingService.getData();
         if (this.scoreData.Mc1.name === undefined || this.scoreData.Mc2.name === undefined) {
             this.router.navigate(['/McSelector']);
         }
+    }
+    navigateToHardMode() {
+        this.sharingService.setData(this.scoreData);
+        this.router.navigate(['/Hard']);
     }
     ngOnInit() {
     }
@@ -602,6 +602,65 @@ EasyComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
         styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./easy.component.scss */ "./src/app/components/easy/easy.component.scss")).default]
     })
 ], EasyComponent);
+
+
+
+/***/ }),
+
+/***/ "./src/app/components/hard/hard.component.scss":
+/*!*****************************************************!*\
+  !*** ./src/app/components/hard/hard.component.scss ***!
+  \*****************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvaGFyZC9oYXJkLmNvbXBvbmVudC5zY3NzIn0= */");
+
+/***/ }),
+
+/***/ "./src/app/components/hard/hard.component.ts":
+/*!***************************************************!*\
+  !*** ./src/app/components/hard/hard.component.ts ***!
+  \***************************************************/
+/*! exports provided: HardComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "HardComponent", function() { return HardComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _services_SharingService__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../services/SharingService */ "./src/app/services/SharingService.ts");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
+
+
+
+
+let HardComponent = class HardComponent {
+    constructor(sharingService, router) {
+        this.sharingService = sharingService;
+        this.router = router;
+        this.scoreData = sharingService.getData();
+        if (this.scoreData.Mc1.name === undefined || this.scoreData.Mc2.name === undefined) {
+            this.router.navigate(['/McSelector']);
+        }
+    }
+    ngOnInit() {
+    }
+};
+HardComponent.ctorParameters = () => [
+    { type: _services_SharingService__WEBPACK_IMPORTED_MODULE_2__["SharingService"] },
+    { type: _angular_router__WEBPACK_IMPORTED_MODULE_3__["Router"] }
+];
+HardComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+        selector: 'app-hard',
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./hard.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/components/hard/hard.component.html")).default,
+        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./hard.component.scss */ "./src/app/components/hard/hard.component.scss")).default]
+    })
+], HardComponent);
 
 
 
@@ -647,7 +706,7 @@ let McSelectorComponent = class McSelectorComponent {
     }
     acceptNames() {
         this.sharingService.setData(this.scoreData);
-        this.router.navigate(['/Easy-Hard']);
+        this.router.navigate(['/Easy']);
     }
     ngOnInit() {
         this.scoreData = this.sharingService.getData();
