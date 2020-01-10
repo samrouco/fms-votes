@@ -10,10 +10,14 @@ import { MatButtonModule } from '@angular/material/button';
 import { SharingService } from './services/SharingService';
 import { FormsModule } from '@angular/forms';
 import { EasyComponent } from './components/easy/easy.component';
-import { areAllEquivalent } from '@angular/compiler/src/output/output_ast';
 import { PatronNumberDirective } from './components/base/patron-number-directive';
 import { ExtraScoreNumberDirective } from './components/base/extra-score-directive';
 import { HardComponent } from './components/hard/hard.component';
+import { ThematicComponent } from './components/thematic/thematic.component';
+import { BloodComponent } from './components/blood/blood.component';
+import { CharactersComponent } from './components/characters/characters.component';
+import { DeluxeComponent } from './components/deluxe/deluxe.component';
+import { ResultsComponent } from './components/results/results.component';
 
 
 @NgModule({
@@ -23,7 +27,12 @@ import { HardComponent } from './components/hard/hard.component';
     EasyComponent,
     PatronNumberDirective,
     ExtraScoreNumberDirective,
-    HardComponent
+    HardComponent,
+    ThematicComponent,
+    BloodComponent,
+    CharactersComponent,
+    DeluxeComponent,
+    ResultsComponent
   ],
   imports: [
     BrowserModule,

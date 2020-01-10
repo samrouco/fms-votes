@@ -22,6 +22,11 @@ export class HardComponent implements OnInit {
     }
   }
 
+  navigateToThematic() {
+    this.sharingService.setData(this.scoreData);
+    this.router.navigate(['/Thematic']);
+  }
+
   ngOnInit() {
   }
 

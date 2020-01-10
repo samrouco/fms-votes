@@ -8,6 +8,6 @@ export class PatronModel {
   }
 
   getTotalScore(): number {
-    return this.extra ? this.score + 1 : this.score;
+    return +(this.extra ? this.score + 1 : this.score);
   }
 }

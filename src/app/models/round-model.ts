@@ -16,8 +16,13 @@ export class RoundModel {
 
   getRoundScore(): number {
     let result = 0;
-    this.patrons.forEach(x => result += x.getTotalScore());
-    result += this.extraScore.getTotal();
+    this.patrons.forEach( patron => {
+
+      if (patron.score !== undefined && patron.getTotalScore !== undefined) {
+        result += patron.getTotalScore();
+      }
+    } );
+    result += +(this.extraScore.getTotal());
     return result;
   }
 }

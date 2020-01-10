@@ -10,8 +10,6 @@ import { Router } from '@angular/router';
 })
 export class McSelectorComponent implements OnInit {
 
-  mcName1 = '';
-  mcName2 = '';
   scoreData: ScoreModel;
 
   constructor(

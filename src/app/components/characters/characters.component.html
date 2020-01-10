@@ -1,0 +1,62 @@
+<table class="scoreTable">
+  <tbody>
+    <tr>
+      <td>
+        {{ scoreData.Mc1.name }}
+      </td>
+
+      <td *ngFor="let patron of scoreData.Mc1.characters.patrons">
+        <mat-form-field class="scoreInput">
+          <input type="text" patronNumber maxlength="1" matInput [(ngModel)]="patron.score"  />
+        </mat-form-field>
+      </td>
+
+      <td>
+        <mat-form-field class="scoreInput" style="margin-left: 20px;">
+          <input type="text" placeholder="Sk" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.characters.extraScore.skills" />
+        </mat-form-field>
+      </td>
+      <td>
+        <mat-form-field class="scoreInput">
+          <input type="text" placeholder="Fl" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.characters.extraScore.flow" />
+        </mat-form-field>
+      </td>
+      <td>
+        <mat-form-field class="scoreInput">
+          <input type="text" placeholder="Es" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.characters.extraScore.scene" />
+        </mat-form-field>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        {{ scoreData.Mc2.name }}
+      </td>
+      <td *ngFor="let patron of scoreData.Mc2.characters.patrons">
+        <mat-form-field class="scoreInput">
+          <input type="text" patronNumber maxlength="1" matInput [(ngModel)]="patron.score"  />
+        </mat-form-field>
+      </td>
+
+      <td>
+          <mat-form-field class="scoreInput" style="margin-left: 20px;">
+            <input type="text" placeholder="Sk" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.characters.extraScore.skills" />
+          </mat-form-field>
+        </td>
+        <td>
+          <mat-form-field class="scoreInput">
+            <input type="text" placeholder="Fl" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.characters.extraScore.flow" />
+          </mat-form-field>
+        </td>
+        <td>
+          <mat-form-field class="scoreInput">
+            <input type="text" placeholder="Es" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.characters.extraScore.scene" />
+          </mat-form-field>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="10">
+            <button mat-button style="width: 100%;" type="button" (click)="navigateToBlood()">Sangre</button>
+        </td>
+    </tr>
+  </tbody>
+</table>

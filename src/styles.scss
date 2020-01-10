@@ -29,15 +29,18 @@ $FMS-Votes-theme: mat-light-theme($FMS-Votes-primary, $FMS-Votes-accent, $FMS-Vo
 /* You can add global styles to this file, and also import other style files */
 
 html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+body { margin: 0; padding: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
-.scoreInput { width: 25px; }
+.scoreInput { width: 25px;}
+
+.inputTextCenter {text-align: center !important;}
 
 .scoreTable {
   display: grid;
   margin: 0;
+  padding: 0;
   place-items: center center;
-  height: 100vh;
+  height: 100%;
 }
 
 .mcNameInput {
