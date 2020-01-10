@@ -36,6 +36,45 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/components/blood/blood.component.html":
+/*!*********************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/blood/blood.component.html ***!
+  \*********************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"scoreTable\">\r\n  <tbody>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc1.blood1.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.blood1.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.blood1.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.blood1.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.blood1.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.blood1.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.blood1.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.blood1.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <!--SECOND THEMATIC-->\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc2.blood2.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.blood2.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.blood2.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.blood2.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc1.blood2.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n          <br/>\r\n          <input type=\"checkbox\"/>\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.blood2.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.blood2.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.blood2.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td colspan=\"10\">\r\n            <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"navigateToDeluxe()\">Deluxe</button>\r\n        </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n");
+
+/***/ }),
+
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/components/characters/characters.component.html":
+/*!*******************************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/characters/characters.component.html ***!
+  \*******************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"scoreTable\">\r\n  <tbody>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc1.characters.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.characters.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.characters.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.characters.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.characters.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.characters.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.characters.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.characters.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td colspan=\"10\">\r\n            <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"navigateToBlood()\">Sangre</button>\r\n        </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n");
+
+/***/ }),
+
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/components/deluxe/deluxe.component.html":
+/*!***********************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/deluxe/deluxe.component.html ***!
+  \***********************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"scoreTable\">\r\n  <tbody>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc1.deluxe.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.deluxe.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.deluxe.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.deluxe.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.deluxe.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.deluxe.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.deluxe.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.deluxe.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td colspan=\"10\">\r\n            <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"navigateToResults()\">Resultados</button>\r\n        </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n");
+
+/***/ }),
+
 /***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/components/easy/easy.component.html":
 /*!*******************************************************************************************!*\
   !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/easy/easy.component.html ***!
@@ -45,10 +84,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-<<<<<<< Updated upstream:dist/FMS-Votes/main-es2015.js
-/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"scoreTable\">\n\n  <tbody>\n    <tr>\n      <td>\n        {{ scoreData.Mc1.name }}\n      </td>\n\n      <td *ngFor=\"let patron of scoreData.Mc1.easyMode.patrons\">\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\n        </mat-form-field>\n      </td>\n\n      <td>\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\n          <input type=\"text\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.skills\" />\n        </mat-form-field>\n      </td>\n      <td>\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.flow\" />\n        </mat-form-field>\n      </td>\n      <td>\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.scene\" />\n        </mat-form-field>\n      </td>\n    </tr>\n    <tr>\n      <td>\n        {{ scoreData.Mc2.name }}\n      </td>\n      <td *ngFor=\"let patron of scoreData.Mc2.easyMode.patrons\">\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\n        </mat-form-field>\n      </td>\n\n      <td>\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\n            <input type=\"text\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.skills\" />\n          </mat-form-field>\n        </td>\n        <td>\n          <mat-form-field class=\"scoreInput\">\n            <input type=\"text\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.flow\" />\n          </mat-form-field>\n        </td>\n        <td>\n          <mat-form-field class=\"scoreInput\">\n            <input type=\"text\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.scene\" />\n          </mat-form-field>\n        </td>\n    </tr>\n  </tbody>\n</table>\n\n<button></button>\n");
-=======
-/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"scoreTable\">\n  <tbody>\n    <tr>\n      <td>\n        {{ scoreData.Mc1.name }}\n      </td>\n\n      <td *ngFor=\"let patron of scoreData.Mc1.easyMode.patrons\">\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\n        </mat-form-field>\n      </td>\n\n      <td>\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\n          <input type=\"text\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.skills\" />\n        </mat-form-field>\n      </td>\n      <td>\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.flow\" />\n        </mat-form-field>\n      </td>\n      <td>\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.scene\" />\n        </mat-form-field>\n      </td>\n    </tr>\n    <tr>\n      <td>\n        {{ scoreData.Mc2.name }}\n      </td>\n      <td *ngFor=\"let patron of scoreData.Mc2.easyMode.patrons\">\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\n        </mat-form-field>\n      </td>\n\n      <td>\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\n            <input type=\"text\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.skills\" />\n          </mat-form-field>\n        </td>\n        <td>\n          <mat-form-field class=\"scoreInput\">\n            <input type=\"text\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.flow\" />\n          </mat-form-field>\n        </td>\n        <td>\n          <mat-form-field class=\"scoreInput\">\n            <input type=\"text\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.scene\" />\n          </mat-form-field>\n        </td>\n    </tr>\n    <tr>\n        <td colspan=\"10\">\n            <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"navigateToHardMode()\">HardMode</button>\n        </td>\n    </tr>\n  </tbody>\n</table>\n\n\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"scoreTable\">\r\n  <tbody>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc1.easyMode.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.easyMode.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td colspan=\"10\">\r\n            <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"navigateToHardMode()\">HardMode</button>\r\n        </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n\r\n\r\n");
 
 /***/ }),
 
@@ -61,8 +97,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"scoreTable\">\n\n  <tbody>\n    <tr>\n      <td>\n        {{ scoreData.Mc2.name }}\n      </td>\n\n      <td *ngFor=\"let patron of scoreData.Mc2.hardMode.patrons\">\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\n        </mat-form-field>\n      </td>\n\n      <td>\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\n          <input type=\"text\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.hardMode.extraScore.skills\" />\n        </mat-form-field>\n      </td>\n      <td>\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.hardMode.extraScore.flow\" />\n        </mat-form-field>\n      </td>\n      <td>\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.hardMode.extraScore.scene\" />\n        </mat-form-field>\n      </td>\n    </tr>\n    <tr>\n      <td>\n        {{ scoreData.Mc1.name }}\n      </td>\n      <td *ngFor=\"let patron of scoreData.Mc2.hardMode.patrons\">\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\n        </mat-form-field>\n      </td>\n\n      <td>\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\n            <input type=\"text\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.hardMode.extraScore.skills\" />\n          </mat-form-field>\n        </td>\n        <td>\n          <mat-form-field class=\"scoreInput\">\n            <input type=\"text\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.hardMode.extraScore.flow\" />\n          </mat-form-field>\n        </td>\n        <td>\n          <mat-form-field class=\"scoreInput\">\n            <input type=\"text\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.hardMode.extraScore.scene\" />\n          </mat-form-field>\n        </td>\n    </tr>\n    <tr>\n        <td colspan=\"10\">\n            <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"navigateToThematic()\">Temáticas</button>\n        </td>\n    </tr>\n  </tbody>\n</table>\n\n\n");
->>>>>>> Stashed changes:dist/main-es2015.js
+/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"scoreTable\">\r\n\r\n  <tbody>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc2.hardMode.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.hardMode.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.hardMode.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.hardMode.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.hardMode.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.hardMode.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.hardMode.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.hardMode.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td colspan=\"10\">\r\n            <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"navigateToThematic()\">Temáticas</button>\r\n        </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n\r\n\r\n");
 
 /***/ }),
 
@@ -75,7 +110,20 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"mcNameInput\">\n  <mat-form-field class=\"example-full-width\">\n    <input type=\"text\" matInput placeholder=\"MC 1\" [(ngModel)]=\"scoreData.Mc1.name\" (keyup.enter)=\"acceptNames()\" />\n  </mat-form-field>\n\n  <mat-form-field class=\"example-full-width\">\n    <input matInput placeholder=\"MC 2\" [(ngModel)]=\"scoreData.Mc2.name\" (keyup.enter)=\"acceptNames()\"/>\n  </mat-form-field>\n\n  <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"acceptNames()\">Continuar</button>\n</div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"mcNameInput\">\r\n  <mat-form-field class=\"example-full-width\">\r\n    <input type=\"text\" matInput placeholder=\"MC 1\" class=\"inputTextCenter\" [(ngModel)]=\"scoreData.Mc1.name\" (keyup.enter)=\"acceptNames()\" />\r\n  </mat-form-field>\r\n\r\n  <mat-form-field class=\"example-full-width\">\r\n    <input type=\"text\" matInput placeholder=\"MC 2\" class=\"inputTextCenter\" [(ngModel)]=\"scoreData.Mc2.name\" (keyup.enter)=\"acceptNames()\"/>\r\n  </mat-form-field>\r\n\r\n  <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"acceptNames()\">Continuar</button>\r\n</div>\r\n");
+
+/***/ }),
+
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/components/results/results.component.html":
+/*!*************************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/results/results.component.html ***!
+  \*************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"scoreTable\">\r\n\r\n  <tbody>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n\r\n      <td>{{scoreData.Mc1.result}}</td>\r\n    </tr>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n\r\n      <td>{{scoreData.Mc2.result}}</td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n");
 
 /***/ }),
 
@@ -88,7 +136,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"scoreTable\">\n  <tbody>\n    <tr>\n      <td>\n        {{ scoreData.Mc1.name }}\n      </td>\n\n      <td *ngFor=\"let patron of scoreData.Mc1.thematic1.patrons\">\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\n        </mat-form-field>\n      </td>\n\n      <td>\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\n          <input type=\"text\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.skills\" />\n        </mat-form-field>\n      </td>\n      <td>\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.flow\" />\n        </mat-form-field>\n      </td>\n      <td>\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.scene\" />\n        </mat-form-field>\n      </td>\n    </tr>\n    <tr class=\"spaceUnder\">\n      <td>\n        {{ scoreData.Mc2.name }}\n      </td>\n      <td *ngFor=\"let patron of scoreData.Mc2.thematic1.patrons\">\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\n        </mat-form-field>\n      </td>\n\n      <td>\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\n            <input type=\"text\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.skills\" />\n          </mat-form-field>\n        </td>\n        <td>\n          <mat-form-field class=\"scoreInput\">\n            <input type=\"text\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.flow\" />\n          </mat-form-field>\n        </td>\n        <td>\n          <mat-form-field class=\"scoreInput\">\n            <input type=\"text\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.scene\" />\n          </mat-form-field>\n        </td>\n    </tr>\n    <!--SECOND THEMATIC-->\n    <tr>\n      <td>\n        {{ scoreData.Mc2.name }}\n      </td>\n\n      <td *ngFor=\"let patron of scoreData.Mc2.thematic2.patrons\">\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\n        </mat-form-field>\n      </td>\n\n      <td>\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\n          <input type=\"text\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.skills\" />\n        </mat-form-field>\n      </td>\n      <td>\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.flow\" />\n        </mat-form-field>\n      </td>\n      <td>\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.scene\" />\n        </mat-form-field>\n      </td>\n    </tr>\n    <tr>\n      <td>\n        {{ scoreData.Mc1.name }}\n      </td>\n      <td *ngFor=\"let patron of scoreData.Mc2.thematic2.patrons\">\n        <mat-form-field class=\"scoreInput\">\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\n        </mat-form-field>\n      </td>\n\n      <td>\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\n            <input type=\"text\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.skills\" />\n          </mat-form-field>\n        </td>\n        <td>\n          <mat-form-field class=\"scoreInput\">\n            <input type=\"text\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.flow\" />\n          </mat-form-field>\n        </td>\n        <td>\n          <mat-form-field class=\"scoreInput\">\n            <input type=\"text\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.scene\" />\n          </mat-form-field>\n        </td>\n    </tr>\n    <tr>\n      <td colspan=\"10\">\n        <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"navigateToThematic()\">Temáticas</button>\n      </td>\n    </tr>\n  </tbody>\n</table>\n\n\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"scoreTable\">\r\n  <tbody>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc1.thematic1.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr class=\"spaceUnder\">\r\n      <td>\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.thematic1.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <!--SECOND THEMATIC-->\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc2.thematic2.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.thematic2.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n      <td colspan=\"10\">\r\n        <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"navigateToCharacters()\">Personajes</button>\r\n      </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n\r\n\r\n");
 
 /***/ }),
 
@@ -336,13 +384,18 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
 /* harmony import */ var _components_mc_selector_mc_selector_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components/mc-selector/mc-selector.component */ "./src/app/components/mc-selector/mc-selector.component.ts");
 /* harmony import */ var _components_easy_easy_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./components/easy/easy.component */ "./src/app/components/easy/easy.component.ts");
-<<<<<<< Updated upstream:dist/FMS-Votes/main-es2015.js
-=======
 /* harmony import */ var _components_hard_hard_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./components/hard/hard.component */ "./src/app/components/hard/hard.component.ts");
 /* harmony import */ var _components_thematic_thematic_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./components/thematic/thematic.component */ "./src/app/components/thematic/thematic.component.ts");
+/* harmony import */ var _components_characters_characters_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./components/characters/characters.component */ "./src/app/components/characters/characters.component.ts");
+/* harmony import */ var _components_blood_blood_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./components/blood/blood.component */ "./src/app/components/blood/blood.component.ts");
+/* harmony import */ var _components_deluxe_deluxe_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./components/deluxe/deluxe.component */ "./src/app/components/deluxe/deluxe.component.ts");
+/* harmony import */ var _components_results_results_component__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./components/results/results.component */ "./src/app/components/results/results.component.ts");
 
 
->>>>>>> Stashed changes:dist/main-es2015.js
+
+
+
+
 
 
 
@@ -350,14 +403,14 @@ __webpack_require__.r(__webpack_exports__);
 
 const routes = [
     { path: 'McSelector', component: _components_mc_selector_mc_selector_component__WEBPACK_IMPORTED_MODULE_3__["McSelectorComponent"] },
-<<<<<<< Updated upstream:dist/FMS-Votes/main-es2015.js
-    { path: 'Easy-Hard', component: _components_easy_easy_component__WEBPACK_IMPORTED_MODULE_4__["EasyComponent"] }
-=======
     { path: 'Easy', component: _components_easy_easy_component__WEBPACK_IMPORTED_MODULE_4__["EasyComponent"] },
     { path: 'Hard', component: _components_hard_hard_component__WEBPACK_IMPORTED_MODULE_5__["HardComponent"] },
     { path: 'Thematic', component: _components_thematic_thematic_component__WEBPACK_IMPORTED_MODULE_6__["ThematicComponent"] },
+    { path: 'Characters', component: _components_characters_characters_component__WEBPACK_IMPORTED_MODULE_7__["CharactersComponent"] },
+    { path: 'Blood', component: _components_blood_blood_component__WEBPACK_IMPORTED_MODULE_8__["BloodComponent"] },
+    { path: 'Deluxe', component: _components_deluxe_deluxe_component__WEBPACK_IMPORTED_MODULE_9__["DeluxeComponent"] },
+    { path: 'Results', component: _components_results_results_component__WEBPACK_IMPORTED_MODULE_10__["ResultsComponent"] },
     { path: '', component: _components_mc_selector_mc_selector_component__WEBPACK_IMPORTED_MODULE_3__["McSelectorComponent"] }
->>>>>>> Stashed changes:dist/main-es2015.js
 ];
 let AppRoutingModule = class AppRoutingModule {
 };
@@ -440,13 +493,18 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_easy_easy_component__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./components/easy/easy.component */ "./src/app/components/easy/easy.component.ts");
 /* harmony import */ var _components_base_patron_number_directive__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./components/base/patron-number-directive */ "./src/app/components/base/patron-number-directive.ts");
 /* harmony import */ var _components_base_extra_score_directive__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./components/base/extra-score-directive */ "./src/app/components/base/extra-score-directive.ts");
-<<<<<<< Updated upstream:dist/FMS-Votes/main-es2015.js
-=======
 /* harmony import */ var _components_hard_hard_component__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./components/hard/hard.component */ "./src/app/components/hard/hard.component.ts");
 /* harmony import */ var _components_thematic_thematic_component__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./components/thematic/thematic.component */ "./src/app/components/thematic/thematic.component.ts");
+/* harmony import */ var _components_blood_blood_component__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./components/blood/blood.component */ "./src/app/components/blood/blood.component.ts");
+/* harmony import */ var _components_characters_characters_component__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./components/characters/characters.component */ "./src/app/components/characters/characters.component.ts");
+/* harmony import */ var _components_deluxe_deluxe_component__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./components/deluxe/deluxe.component */ "./src/app/components/deluxe/deluxe.component.ts");
+/* harmony import */ var _components_results_results_component__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./components/results/results.component */ "./src/app/components/results/results.component.ts");
 
 
->>>>>>> Stashed changes:dist/main-es2015.js
+
+
+
+
 
 
 
@@ -470,13 +528,13 @@ AppModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
             _components_mc_selector_mc_selector_component__WEBPACK_IMPORTED_MODULE_5__["McSelectorComponent"],
             _components_easy_easy_component__WEBPACK_IMPORTED_MODULE_11__["EasyComponent"],
             _components_base_patron_number_directive__WEBPACK_IMPORTED_MODULE_12__["PatronNumberDirective"],
-<<<<<<< Updated upstream:dist/FMS-Votes/main-es2015.js
-            _components_base_extra_score_directive__WEBPACK_IMPORTED_MODULE_13__["ExtraScoreNumberDirective"]
-=======
             _components_base_extra_score_directive__WEBPACK_IMPORTED_MODULE_13__["ExtraScoreNumberDirective"],
             _components_hard_hard_component__WEBPACK_IMPORTED_MODULE_14__["HardComponent"],
-            _components_thematic_thematic_component__WEBPACK_IMPORTED_MODULE_15__["ThematicComponent"]
->>>>>>> Stashed changes:dist/main-es2015.js
+            _components_thematic_thematic_component__WEBPACK_IMPORTED_MODULE_15__["ThematicComponent"],
+            _components_blood_blood_component__WEBPACK_IMPORTED_MODULE_16__["BloodComponent"],
+            _components_characters_characters_component__WEBPACK_IMPORTED_MODULE_17__["CharactersComponent"],
+            _components_deluxe_deluxe_component__WEBPACK_IMPORTED_MODULE_18__["DeluxeComponent"],
+            _components_results_results_component__WEBPACK_IMPORTED_MODULE_19__["ResultsComponent"]
         ],
         imports: [
             _angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["BrowserModule"],
@@ -491,27 +549,6 @@ AppModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     })
 ], AppModule);
 
-
-
-/***/ }),
-
-/***/ "./src/app/components/base/base-component.ts":
-/*!***************************************************!*\
-  !*** ./src/app/components/base/base-component.ts ***!
-  \***************************************************/
-/*! exports provided: BaseComponent */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "BaseComponent", function() { return BaseComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-
-class BaseComponent {
-    keydownPatron(event) {
-        console.log('keydown');
-    }
-}
 
 
 /***/ }),
@@ -602,6 +639,195 @@ PatronNumberDirective = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 
 /***/ }),
 
+/***/ "./src/app/components/blood/blood.component.scss":
+/*!*******************************************************!*\
+  !*** ./src/app/components/blood/blood.component.scss ***!
+  \*******************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvYmxvb2QvYmxvb2QuY29tcG9uZW50LnNjc3MifQ== */");
+
+/***/ }),
+
+/***/ "./src/app/components/blood/blood.component.ts":
+/*!*****************************************************!*\
+  !*** ./src/app/components/blood/blood.component.ts ***!
+  \*****************************************************/
+/*! exports provided: BloodComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "BloodComponent", function() { return BloodComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _services_SharingService__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../services/SharingService */ "./src/app/services/SharingService.ts");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
+
+
+
+
+let BloodComponent = class BloodComponent {
+    constructor(sharingService, router) {
+        this.sharingService = sharingService;
+        this.router = router;
+        this.scoreData = sharingService.getData();
+        if (this.scoreData.Mc1.name === undefined || this.scoreData.Mc2.name === undefined) {
+            this.router.navigate(['/McSelector']);
+        }
+    }
+    navigateToDeluxe() {
+        this.sharingService.setData(this.scoreData);
+        this.router.navigate(['/Deluxe']);
+    }
+    ngOnInit() {
+    }
+};
+BloodComponent.ctorParameters = () => [
+    { type: _services_SharingService__WEBPACK_IMPORTED_MODULE_2__["SharingService"] },
+    { type: _angular_router__WEBPACK_IMPORTED_MODULE_3__["Router"] }
+];
+BloodComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+        selector: 'app-blood',
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./blood.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/components/blood/blood.component.html")).default,
+        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./blood.component.scss */ "./src/app/components/blood/blood.component.scss")).default]
+    })
+], BloodComponent);
+
+
+
+/***/ }),
+
+/***/ "./src/app/components/characters/characters.component.scss":
+/*!*****************************************************************!*\
+  !*** ./src/app/components/characters/characters.component.scss ***!
+  \*****************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvY2hhcmFjdGVycy9jaGFyYWN0ZXJzLmNvbXBvbmVudC5zY3NzIn0= */");
+
+/***/ }),
+
+/***/ "./src/app/components/characters/characters.component.ts":
+/*!***************************************************************!*\
+  !*** ./src/app/components/characters/characters.component.ts ***!
+  \***************************************************************/
+/*! exports provided: CharactersComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CharactersComponent", function() { return CharactersComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _services_SharingService__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../services/SharingService */ "./src/app/services/SharingService.ts");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
+
+
+
+
+let CharactersComponent = class CharactersComponent {
+    constructor(sharingService, router) {
+        this.sharingService = sharingService;
+        this.router = router;
+        this.scoreData = sharingService.getData();
+        if (this.scoreData.Mc1.name === undefined || this.scoreData.Mc2.name === undefined) {
+            this.router.navigate(['/McSelector']);
+        }
+    }
+    navigateToBlood() {
+        this.sharingService.setData(this.scoreData);
+        this.router.navigate(['/Blood']);
+    }
+    ngOnInit() {
+    }
+};
+CharactersComponent.ctorParameters = () => [
+    { type: _services_SharingService__WEBPACK_IMPORTED_MODULE_2__["SharingService"] },
+    { type: _angular_router__WEBPACK_IMPORTED_MODULE_3__["Router"] }
+];
+CharactersComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+        selector: 'app-characters',
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./characters.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/components/characters/characters.component.html")).default,
+        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./characters.component.scss */ "./src/app/components/characters/characters.component.scss")).default]
+    })
+], CharactersComponent);
+
+
+
+/***/ }),
+
+/***/ "./src/app/components/deluxe/deluxe.component.scss":
+/*!*********************************************************!*\
+  !*** ./src/app/components/deluxe/deluxe.component.scss ***!
+  \*********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvZGVsdXhlL2RlbHV4ZS5jb21wb25lbnQuc2NzcyJ9 */");
+
+/***/ }),
+
+/***/ "./src/app/components/deluxe/deluxe.component.ts":
+/*!*******************************************************!*\
+  !*** ./src/app/components/deluxe/deluxe.component.ts ***!
+  \*******************************************************/
+/*! exports provided: DeluxeComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "DeluxeComponent", function() { return DeluxeComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _services_SharingService__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../services/SharingService */ "./src/app/services/SharingService.ts");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
+
+
+
+
+let DeluxeComponent = class DeluxeComponent {
+    constructor(sharingService, router) {
+        this.sharingService = sharingService;
+        this.router = router;
+        this.scoreData = sharingService.getData();
+        if (this.scoreData.Mc1.name === undefined || this.scoreData.Mc2.name === undefined) {
+            this.router.navigate(['/McSelector']);
+        }
+    }
+    navigateToResults() {
+        this.sharingService.setData(this.scoreData);
+        this.router.navigate(['/Results']);
+    }
+    ngOnInit() {
+    }
+};
+DeluxeComponent.ctorParameters = () => [
+    { type: _services_SharingService__WEBPACK_IMPORTED_MODULE_2__["SharingService"] },
+    { type: _angular_router__WEBPACK_IMPORTED_MODULE_3__["Router"] }
+];
+DeluxeComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+        selector: 'app-deluxe',
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./deluxe.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/components/deluxe/deluxe.component.html")).default,
+        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./deluxe.component.scss */ "./src/app/components/deluxe/deluxe.component.scss")).default]
+    })
+], DeluxeComponent);
+
+
+
+/***/ }),
+
 /***/ "./src/app/components/easy/easy.component.scss":
 /*!*****************************************************!*\
   !*** ./src/app/components/easy/easy.component.scss ***!
@@ -629,21 +855,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
 /* harmony import */ var _services_SharingService__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../services/SharingService */ "./src/app/services/SharingService.ts");
 /* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
-/* harmony import */ var _base_base_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../base/base-component */ "./src/app/components/base/base-component.ts");
 
 
 
 
-
-let EasyComponent = class EasyComponent extends _base_base_component__WEBPACK_IMPORTED_MODULE_4__["BaseComponent"] {
+let EasyComponent = class EasyComponent {
     constructor(sharingService, router) {
-        super();
         this.sharingService = sharingService;
         this.router = router;
         this.scoreData = sharingService.getData();
         if (this.scoreData.Mc1.name === undefined || this.scoreData.Mc2.name === undefined) {
             this.router.navigate(['/McSelector']);
         }
+    }
+    navigateToHardMode() {
+        this.sharingService.setData(this.scoreData);
+        this.router.navigate(['/Hard']);
     }
     ngOnInit() {
     }
@@ -664,8 +891,6 @@ EasyComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 
 /***/ }),
 
-<<<<<<< Updated upstream:dist/FMS-Votes/main-es2015.js
-=======
 /***/ "./src/app/components/hard/hard.component.scss":
 /*!*****************************************************!*\
   !*** ./src/app/components/hard/hard.component.scss ***!
@@ -729,7 +954,6 @@ HardComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 
 /***/ }),
 
->>>>>>> Stashed changes:dist/main-es2015.js
 /***/ "./src/app/components/mc-selector/mc-selector.component.scss":
 /*!*******************************************************************!*\
   !*** ./src/app/components/mc-selector/mc-selector.component.scss ***!
@@ -768,7 +992,7 @@ let McSelectorComponent = class McSelectorComponent {
     }
     acceptNames() {
         this.sharingService.setData(this.scoreData);
-        this.router.navigate(['/Easy-Hard']);
+        this.router.navigate(['/Easy']);
     }
     ngOnInit() {
         this.scoreData = this.sharingService.getData();
@@ -785,6 +1009,67 @@ McSelectorComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
         styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./mc-selector.component.scss */ "./src/app/components/mc-selector/mc-selector.component.scss")).default]
     })
 ], McSelectorComponent);
+
+
+
+/***/ }),
+
+/***/ "./src/app/components/results/results.component.scss":
+/*!***********************************************************!*\
+  !*** ./src/app/components/results/results.component.scss ***!
+  \***********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvcmVzdWx0cy9yZXN1bHRzLmNvbXBvbmVudC5zY3NzIn0= */");
+
+/***/ }),
+
+/***/ "./src/app/components/results/results.component.ts":
+/*!*********************************************************!*\
+  !*** ./src/app/components/results/results.component.ts ***!
+  \*********************************************************/
+/*! exports provided: ResultsComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ResultsComponent", function() { return ResultsComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _services_SharingService__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../services/SharingService */ "./src/app/services/SharingService.ts");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
+
+
+
+
+let ResultsComponent = class ResultsComponent {
+    constructor(sharingService, router) {
+        this.sharingService = sharingService;
+        this.router = router;
+        this.scoreData = sharingService.getData();
+        if (this.scoreData.Mc1.name === undefined || this.scoreData.Mc2.name === undefined) {
+            this.router.navigate(['/McSelector']);
+        }
+        this.scoreData.Mc1.calculateTotal();
+        this.scoreData.Mc2.calculateTotal();
+    }
+    ngOnInit() {
+    }
+};
+ResultsComponent.ctorParameters = () => [
+    { type: _services_SharingService__WEBPACK_IMPORTED_MODULE_2__["SharingService"] },
+    { type: _angular_router__WEBPACK_IMPORTED_MODULE_3__["Router"] }
+];
+ResultsComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+        selector: 'app-results',
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./results.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/components/results/results.component.html")).default,
+        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./results.component.scss */ "./src/app/components/results/results.component.scss")).default]
+    })
+], ResultsComponent);
 
 
 
@@ -830,9 +1115,9 @@ let ThematicComponent = class ThematicComponent {
             this.router.navigate(['/McSelector']);
         }
     }
-    navigateToThematic() {
+    navigateToCharacters() {
         this.sharingService.setData(this.scoreData);
-        this.router.navigate(['/Thematic']);
+        this.router.navigate(['/Characters']);
     }
     ngOnInit() {
     }
@@ -866,8 +1151,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
 
 class AdditionalScoreModel {
+    constructor() {
+        this.flow = 0;
+        this.skills = 0;
+        this.scene = 0;
+    }
     getTotal() {
-        return this.flow + this.skills + this.scene;
+        const result = this.flow + this.skills + this.scene;
+        console.log(result !== undefined ? result : 0);
+        return result !== undefined ? result : 0;
     }
 }
 
@@ -899,6 +1191,11 @@ class McModel {
         this.blood2 = new _round_model__WEBPACK_IMPORTED_MODULE_1__["RoundModel"](6);
         this.deluxe = new _round_model__WEBPACK_IMPORTED_MODULE_1__["RoundModel"](11);
     }
+    calculateTotal() {
+        this.result = +(this.easyMode.getRoundScore() + this.hardMode.getRoundScore() +
+            this.thematic1.getRoundScore() + this.thematic2.getRoundScore() + this.characters.getRoundScore() + this.blood1.getRoundScore() +
+            this.blood2.getRoundScore() + this.deluxe.getRoundScore());
+    }
 }
 
 
@@ -922,7 +1219,7 @@ class PatronModel {
         this.extra = false;
     }
     getTotalScore() {
-        return this.extra ? this.score + 1 : this.score;
+        return +(this.extra ? this.score + 1 : this.score);
     }
 }
 
@@ -955,8 +1252,12 @@ class RoundModel {
     }
     getRoundScore() {
         let result = 0;
-        this.patrons.forEach(x => result += x.getTotalScore());
-        result += this.extraScore.getTotal();
+        this.patrons.forEach(patron => {
+            if (patron.score !== undefined && patron.getTotalScore !== undefined) {
+                result += patron.getTotalScore();
+            }
+        });
+        result += +(this.extraScore.getTotal());
         return result;
     }
 }

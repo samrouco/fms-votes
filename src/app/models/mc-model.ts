@@ -1,5 +1,4 @@
 import { RoundModel } from './round-model';
-import { timingSafeEqual } from 'crypto';
 
 export class McModel {
   name: string;
