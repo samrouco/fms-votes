@@ -28,8 +28,15 @@ $FMS-Votes-theme: mat-light-theme($FMS-Votes-primary, $FMS-Votes-accent, $FMS-Vo
 
 /* You can add global styles to this file, and also import other style files */
 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Handlee', cursive;
+}
+
 html, body { height: 100%; }
-body { margin: 0; padding: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+body { margin: 0; padding: 0; }
 
 .scoreInput { width: 25px;}
 
@@ -43,10 +50,190 @@ body { margin: 0; padding: 0; font-family: Roboto, "Helvetica Neue", sans-serif;
   height: 100%;
 }
 
-.mcNameInput {
-  position:absolute; /*it can be fixed too*/
-  left:0; right:0;
-  top:0; bottom:0;
-  margin:auto;
 
+// Navigation Menu
+.wrap {
+  overflow-x: hidden;
+  background: linear-gradient(to bottom, rgba(0,0,0,.8), rgba(0,0,0,.5)), url("../src/assets/images/main.jpeg") center no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #eee;
+}
+
+header {
+  width: 100%;
+  height: 5vh;
+}
+
+.container {
+  max-width: 120rem;
+  width: 90%;
+  margin: 0 auto;
+}
+
+nav {
+  padding-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-transform: uppercase;
+  font-size: 1rem;
+  
+}
+
+.libretagallos {
+  font-size: 2rem;
+  font-weight: 300;
+  transform: translateX(-100rem);
+  animation: slideIn .5s forwards;
+}
+
+.libretagallos span {
+  color: #1F5A2E;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  list-style: none;
+  transform: translateX(100rem);
+  animation: slideIn .5s forwards;
+}
+
+nav ul li:nth-child(1){
+  animation-delay: 0s;
+}
+
+nav ul li:nth-child(2){
+  animation-delay: .5s;
+}
+
+nav ul li:nth-child(3){
+  animation-delay: 1s;
+}
+
+nav ul li:nth-child(4){
+  animation-delay: 1.5s;
+}
+
+nav ul li a {
+  padding: 1rem 0;
+  margin: 0 3rem;
+  position: relative;
+  letter-spacing: 2px;
+}
+
+nav ul li a:last-child {
+  margin-right: 0;
+}
+
+nav ul li a::before,
+nav ul li a::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background-color: #1F5A2E;
+  left: 0;
+  transform: scaleX(0);
+  transition: all .5s;
+}
+
+nav ul li a::before {
+  top: 0;
+  transform-origin: left;
+}
+
+nav ul li a::after {
+  bottom: 0;
+  transform-origin: right;
+}
+
+nav ul li a:hover::before,
+nav ul li a:hover::after {
+  transform: scaleX(1);
+}
+
+@keyframes slideIn {
+  from{
+
+  }
+  to{
+      transform: translateX(0);
+  }
+}
+
+/* HOVER GLOW EFFECT */
+.boton {
+  width: 50%;
+}
+
+.glow-on-hover {
+  width: 100px;
+  height: 30px;
+  border: none;
+  outline: none;
+  color: #fff;
+  font-size: 1rem;
+  background-color:  #1F5A2E;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  cursor: pointer;
+  position: relative;
+  z-index: 0;
+  border-radius: 10px;
+}
+
+.glow-on-hover::before {
+  content: '';
+  background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #1F5A2E, #00ffd5, #ff0000);
+  position: absolute;
+  top: -2px;
+  left:-2px;
+  background-size: 400%;
+  z-index: -1;
+  filter: blur(5px);
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+  animation: glowing 20s linear infinite;
+  opacity: 0;
+  transition: opacity .3s ease-in-out;
+  border-radius: 10px;
+}
+
+.glow-on-hover:active {
+  color: #000000;
+}
+
+.glow-on-hover:active:after {
+  background: transparent;
+}
+
+.glow-on-hover:hover:before {
+  opacity: 1;
+}
+
+.glow-on-hover:after {
+  z-index: -1;
+  content: '';
+  position: absolute;
+  background-color:  #1F5A2E;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  border-radius: 10px;
+}
+
+@keyframes glowing {
+  0% { background-position: 0 0; }
+  50% { background-position: 400% 0; }
+  100% { background-position: 0 0; }
 }
