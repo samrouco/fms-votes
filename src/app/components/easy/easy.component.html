@@ -1,12 +1,12 @@
 <table class="scoreTable">
   <tbody>
     <tr>
-      <td>
+      <td class="mc">
         {{ scoreData.Mc1.name }}
       </td>
 
       <td *ngFor="let patron of scoreData.Mc1.easyMode.patrons">
-        <mat-form-field class="scoreInput">
+        <mat-form-field class="scoreInput" style="margin-left: 5px;">
           <input type="text" class="inputTextCenter" patronNumber maxlength="1" matInput [(ngModel)]="patron.score"  />
         </mat-form-field>
       </td>
@@ -17,22 +17,22 @@
         </mat-form-field>
       </td>
       <td>
-        <mat-form-field class="scoreInput">
+        <mat-form-field class="scoreInput" style="margin-left: 5px;">
           <input type="text" class="inputTextCenter" placeholder="Fl" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.easyMode.extraScore.flow" />
         </mat-form-field>
       </td>
       <td>
-        <mat-form-field class="scoreInput">
+        <mat-form-field class="scoreInput" style="margin-left: 5px;">
           <input type="text" class="inputTextCenter" placeholder="Es" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.easyMode.extraScore.scene" />
         </mat-form-field>
       </td>
     </tr>
     <tr>
-      <td>
+      <td class="mc">
         {{ scoreData.Mc2.name }}
       </td>
       <td *ngFor="let patron of scoreData.Mc2.easyMode.patrons">
-        <mat-form-field class="scoreInput">
+        <mat-form-field class="scoreInput" style="margin-left: 5px;">
           <input type="text" class="inputTextCenter" patronNumber maxlength="1" matInput [(ngModel)]="patron.score"  />
         </mat-form-field>
       </td>
@@ -43,19 +43,21 @@
           </mat-form-field>
         </td>
         <td>
-          <mat-form-field class="scoreInput">
+          <mat-form-field class="scoreInput" style="margin-left: 5px;">
             <input type="text" class="inputTextCenter" placeholder="Fl" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.easyMode.extraScore.flow" />
           </mat-form-field>
         </td>
         <td>
-          <mat-form-field class="scoreInput">
+          <mat-form-field class="scoreInput" style="margin-left: 5px;">
             <input type="text" class="inputTextCenter" placeholder="Es" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.easyMode.extraScore.scene" />
           </mat-form-field>
         </td>
     </tr>
     <tr>
         <td colspan="10">
-            <button mat-button style="width: 100%;" type="button" (click)="navigateToHardMode()">HardMode</button>
+          <div>
+            <button class="glow-on-hover" type="button" (click)="navigateToHardMode()">HardMode</button>
+          </div>
         </td>
     </tr>
   </tbody>

@@ -1,3 +1,30 @@
-tr.spaceUnder>td {
-  padding-bottom: 12%;
+.scoreTable{
+  margin-top: 35%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.thematic {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+/*.firstThematic {
+  margin-left: -20px;
+  
+}
+*/
+.secondThematic {
+  margin-left: 150px;
+}
+
+.scoreInput {
+  text-align: center;
+}
+
+.mc {
+  text-transform: uppercase;
 }

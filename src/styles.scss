@@ -33,22 +33,17 @@ $FMS-Votes-theme: mat-light-theme($FMS-Votes-primary, $FMS-Votes-accent, $FMS-Vo
   padding: 0;
   box-sizing: border-box;
   font-family: 'Handlee', cursive;
+  color: #eee;
 }
 
 html, body { height: 100%; }
 body { margin: 0; padding: 0; }
 
-.scoreInput { width: 25px;}
+.scoreInput { 
+  width: 25px;
+}
 
 .inputTextCenter {text-align: center !important;}
-
-.scoreTable {
-  display: grid;
-  margin: 0;
-  padding: 0;
-  place-items: center center;
-  height: 100%;
-}
 
 
 // Navigation Menu
@@ -176,6 +171,7 @@ nav ul li a:hover::after {
 }
 
 .glow-on-hover {
+  margin-top: 5px;
   width: 100px;
   height: 30px;
   border: none;
@@ -213,7 +209,7 @@ nav ul li a:hover::after {
 }
 
 .glow-on-hover:active:after {
-  background: transparent;
+  background: #1F5A2E;
 }
 
 .glow-on-hover:hover:before {
