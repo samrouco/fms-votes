@@ -51,7 +51,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<router-outlet></router-outlet>\n";
+    __webpack_exports__["default"] = "<router-outlet></router-outlet>\r\n";
     /***/
   },
 
@@ -91,7 +91,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<table class=\"scoreTable\">\r\n  <tbody>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc1.characters.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.characters.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.characters.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.characters.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.characters.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.characters.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.characters.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.characters.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td colspan=\"10\">\r\n            <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"navigateToBlood()\">Sangre</button>\r\n        </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n";
+    __webpack_exports__["default"] = "<table class=\"scoreTable\">\r\n  <tbody>\r\n    <tr>\r\n      <td class=\"mc\">\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc1.characters.patrons\">\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.characters.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n          <input type=\"text\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.characters.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n          <input type=\"text\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.characters.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr>\r\n      <td class=\"mc\">\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.characters.patrons\">\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n          <input type=\"text\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.characters.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.characters.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.characters.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td colspan=\"10\">\r\n          <div>\r\n            <button class=\"glow-on-hover\" type=\"button\" (click)=\"navigateToBlood()\">Sangre</button>\r\n          </div>\r\n        </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n";
     /***/
   },
 
@@ -111,7 +111,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<table class=\"scoreTable\">\r\n  <tbody>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc1.deluxe.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.deluxe.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.deluxe.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.deluxe.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.deluxe.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.deluxe.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.deluxe.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.deluxe.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td colspan=\"10\">\r\n            <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"navigateToResults()\">Resultados</button>\r\n        </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n";
+    __webpack_exports__["default"] = "<table class=\"scoreTable\">\r\n  <tbody>\r\n    <tr>\r\n      <td class=\"mc\">\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc1.deluxe.patrons\" style=\"margin-left: 5px;\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.deluxe.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.deluxe.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.deluxe.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr>\r\n      <td class=\"mc\">\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.deluxe.patrons\">\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.deluxe.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.deluxe.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.deluxe.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td colspan=\"10\">\r\n          <div>\r\n            <button class=\"glow-on-hover deluxe\" type=\"button\" (click)=\"navigateToResults()\">Resultados</button>\r\n          </div>\r\n        </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n";
     /***/
   },
 
@@ -131,7 +131,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<table class=\"scoreTable\">\r\n  <tbody>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc1.easyMode.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.easyMode.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td colspan=\"10\">\r\n            <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"navigateToHardMode()\">HardMode</button>\r\n        </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n\r\n\r\n";
+    __webpack_exports__["default"] = "<table class=\"scoreTable\">\r\n  <tbody>\r\n    <tr>\r\n      <td class=\"mc\">\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc1.easyMode.patrons\">\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc1.easyMode.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr>\r\n      <td class=\"mc\">\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.easyMode.patrons\">\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber matInput [(ngModel)]=\"scoreData.Mc2.easyMode.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td colspan=\"10\">\r\n          <div>\r\n            <button class=\"glow-on-hover\" type=\"button\" (click)=\"navigateToHardMode()\">HardMode</button>\r\n          </div>\r\n        </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n\r\n\r\n";
     /***/
   },
 
@@ -151,7 +151,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<table class=\"scoreTable\">\r\n\r\n  <tbody>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc2.hardMode.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.hardMode.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.hardMode.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.hardMode.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.hardMode.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.hardMode.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.hardMode.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.hardMode.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td colspan=\"10\">\r\n            <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"navigateToThematic()\">Temáticas</button>\r\n        </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n\r\n\r\n";
+    __webpack_exports__["default"] = "<table class=\"scoreTable\">\r\n\r\n  <tbody>\r\n    <tr>\r\n      <td class=\"mc\">\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc2.hardMode.patrons\">\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.hardMode.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.hardMode.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.hardMode.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr>\r\n      <td class=\"mc\">\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.hardMode.patrons\">\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.hardMode.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.hardMode.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.hardMode.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td colspan=\"10\">\r\n          <div>\r\n            <button class=\"glow-on-hover\" type=\"button\" (click)=\"navigateToThematic()\">Temáticas</button>\r\n          </div>\r\n        </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n\r\n\r\n";
     /***/
   },
 
@@ -171,7 +171,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"mcNameInput\">\r\n  <mat-form-field class=\"example-full-width\">\r\n    <input type=\"text\" matInput placeholder=\"MC 1\" class=\"inputTextCenter\" [(ngModel)]=\"scoreData.Mc1.name\" (keyup.enter)=\"acceptNames()\" />\r\n  </mat-form-field>\r\n\r\n  <mat-form-field class=\"example-full-width\">\r\n    <input type=\"text\" matInput placeholder=\"MC 2\" class=\"inputTextCenter\" [(ngModel)]=\"scoreData.Mc2.name\" (keyup.enter)=\"acceptNames()\"/>\r\n  </mat-form-field>\r\n\r\n  <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"acceptNames()\">Continuar</button>\r\n</div>\r\n";
+    __webpack_exports__["default"] = "<div class=\"mcNameInput\">\r\n  <div class=\"mc1\">\r\n    <mat-form-field class=\"mcselection\">\r\n      <input type=\"text\" matInput style=\"text-transform: uppercase;\" placeholder=\"MC 1\" class=\"inputTextCenter\"\r\n        [(ngModel)]=\"scoreData.Mc1.name\" (keyup.enter)=\"acceptNames()\" />\r\n    </mat-form-field>\r\n  </div>\r\n\r\n  <div class=\"mc2\">\r\n    <mat-form-field class=\"mcselection\">\r\n      <input type=\"text\" matInput style=\"text-transform: uppercase;\" placeholder=\"MC 2\" class=\"inputTextCenter\"\r\n        [(ngModel)]=\"scoreData.Mc2.name\" (keyup.enter)=\"acceptNames()\" />\r\n    </mat-form-field>\r\n  </div>\r\n  <div class=\"boton\">\r\n    <button class=\"glow-on-hover\" type=\"button\" (click)=\"acceptNames()\">Continuar</button>\r\n  </div>\r\n</div>";
     /***/
   },
 
@@ -211,7 +211,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<table class=\"scoreTable\">\r\n  <tbody>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc1.thematic1.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr class=\"spaceUnder\">\r\n      <td>\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.thematic1.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <!--SECOND THEMATIC-->\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc2.name }}\r\n      </td>\r\n\r\n      <td *ngFor=\"let patron of scoreData.Mc2.thematic2.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.skills\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.flow\" />\r\n        </mat-form-field>\r\n      </td>\r\n      <td>\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.scene\" />\r\n        </mat-form-field>\r\n      </td>\r\n    </tr>\r\n    <tr>\r\n      <td>\r\n        {{ scoreData.Mc1.name }}\r\n      </td>\r\n      <td *ngFor=\"let patron of scoreData.Mc2.thematic2.patrons\">\r\n        <mat-form-field class=\"scoreInput\">\r\n          <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"  />\r\n        </mat-form-field>\r\n      </td>\r\n\r\n      <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n      <td colspan=\"10\">\r\n        <button mat-button style=\"width: 100%;\" type=\"button\" (click)=\"navigateToCharacters()\">Personajes</button>\r\n      </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n\r\n\r\n";
+    __webpack_exports__["default"] = "<table class=\"scoreTable\">\r\n  <tbody>\r\n    <div class=\"thematic\">\r\n      <tr class=\"firstThematic\">\r\n        <td class=\"mc\">\r\n          {{ scoreData.Mc1.name }}\r\n        </td>\r\n\r\n        <td *ngFor=\"let patron of scoreData.Mc1.thematic1.patrons\">\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\" />\r\n          </mat-form-field>\r\n        </td>\r\n\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n      </tr>\r\n      <tr class=\"secondThematic\">\r\n        <td class=\"mc\">\r\n          {{ scoreData.Mc2.name }}\r\n        </td>\r\n        <td *ngFor=\"let patron of scoreData.Mc2.thematic1.patrons\">\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\" />\r\n          </mat-form-field>\r\n        </td>\r\n\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n      </tr>\r\n    </div>\r\n    <!--SECOND THEMATIC-->\r\n    <div class=\"thematic\">\r\n      <tr class=\"firstThematic\">\r\n        <td class=\"mc\">\r\n          {{ scoreData.Mc2.name }}\r\n        </td>\r\n\r\n        <td *ngFor=\"let patron of scoreData.Mc2.thematic2.patrons\">\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\" />\r\n          </mat-form-field>\r\n        </td>\r\n\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n      </tr>\r\n      <tr class=\"secondThematic\">\r\n        <td class=\"mc\">\r\n          {{ scoreData.Mc1.name }}\r\n        </td>\r\n        <td *ngFor=\"let patron of scoreData.Mc2.thematic2.patrons\">\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\" />\r\n          </mat-form-field>\r\n        </td>\r\n\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n      </tr>\r\n    </div>\r\n    <tr>\r\n      <td colspan=\"10\">\r\n        <div>\r\n          <button class=\"glow-on-hover\" type=\"button\" (click)=\"navigateToCharacters()\">Personajes</button>\r\n        </div>\r\n      </td>\r\n    </tr>\r\n  </tbody>\r\n</table>";
     /***/
   },
 
@@ -760,13 +760,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       if (mod != null) for (var k in mod) {
         if (Object.hasOwnProperty.call(mod, k)) result[k] = mod[k];
       }
-      result.default = mod;
+      result["default"] = mod;
       return result;
     }
 
     function __importDefault(mod) {
       return mod && mod.__esModule ? mod : {
-        default: mod
+        "default": mod
       };
     }
     /***/
@@ -961,10 +961,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selector: 'app-root',
       template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! raw-loader!./app.component.html */
-      "./node_modules/raw-loader/dist/cjs.js!./src/app/app.component.html")).default,
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/app.component.html"))["default"],
       styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! ./app.component.scss */
-      "./src/app/app.component.scss")).default]
+      "./src/app/app.component.scss"))["default"]]
     })], AppComponent);
     /***/
   },
@@ -1154,9 +1154,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
 
-    var ExtraScoreNumberDirective =
-    /*#__PURE__*/
-    function () {
+    var ExtraScoreNumberDirective = /*#__PURE__*/function () {
       function ExtraScoreNumberDirective(el) {
         _classCallCheck(this, ExtraScoreNumberDirective);
 
@@ -1224,9 +1222,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
 
-    var PatronNumberDirective =
-    /*#__PURE__*/
-    function () {
+    var PatronNumberDirective = /*#__PURE__*/function () {
       function PatronNumberDirective(el) {
         _classCallCheck(this, PatronNumberDirective);
 
@@ -1326,9 +1322,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! @angular/router */
     "./node_modules/@angular/router/fesm2015/router.js");
 
-    var BloodComponent =
-    /*#__PURE__*/
-    function () {
+    var BloodComponent = /*#__PURE__*/function () {
       function BloodComponent(sharingService, router) {
         _classCallCheck(this, BloodComponent);
 
@@ -1367,10 +1361,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selector: 'app-blood',
       template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! raw-loader!./blood.component.html */
-      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/blood/blood.component.html")).default,
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/blood/blood.component.html"))["default"],
       styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! ./blood.component.scss */
-      "./src/app/components/blood/blood.component.scss")).default]
+      "./src/app/components/blood/blood.component.scss"))["default"]]
     })], BloodComponent);
     /***/
   },
@@ -1391,7 +1385,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvY2hhcmFjdGVycy9jaGFyYWN0ZXJzLmNvbXBvbmVudC5zY3NzIn0= */";
+    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 35%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9jaGFyYWN0ZXJzL0M6XFxHSVRcXGZtcy12b3Rlcy9zcmNcXGFwcFxcY29tcG9uZW50c1xcY2hhcmFjdGVyc1xcY2hhcmFjdGVycy5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvY29tcG9uZW50cy9jaGFyYWN0ZXJzL2NoYXJhY3RlcnMuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDSSxlQUFBO0VBQ0EsaUJBQUE7RUFDQSxrQkFBQTtBQ0NKOztBREVBO0VBQ0ksa0JBQUE7QUNDSjs7QURFQTtFQUNJLHlCQUFBO0FDQ0oiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2NoYXJhY3RlcnMvY2hhcmFjdGVycy5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5zY29yZVRhYmxle1xyXG4gICAgbWFyZ2luLXRvcDogMzUlO1xyXG4gICAgbWFyZ2luLWxlZnQ6IGF1dG87XHJcbiAgICBtYXJnaW4tcmlnaHQ6IGF1dG87XHJcbn1cclxuXHJcbi5zY29yZUlucHV0IHtcclxuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcclxufVxyXG5cclxuLm1jIHtcclxuICAgIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XHJcbn0iLCIuc2NvcmVUYWJsZSB7XG4gIG1hcmdpbi10b3A6IDM1JTtcbiAgbWFyZ2luLWxlZnQ6IGF1dG87XG4gIG1hcmdpbi1yaWdodDogYXV0bztcbn1cblxuLnNjb3JlSW5wdXQge1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbi5tYyB7XG4gIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XG59Il19 */";
     /***/
   },
 
@@ -1439,9 +1433,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! @angular/router */
     "./node_modules/@angular/router/fesm2015/router.js");
 
-    var CharactersComponent =
-    /*#__PURE__*/
-    function () {
+    var CharactersComponent = /*#__PURE__*/function () {
       function CharactersComponent(sharingService, router) {
         _classCallCheck(this, CharactersComponent);
 
@@ -1480,10 +1472,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selector: 'app-characters',
       template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! raw-loader!./characters.component.html */
-      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/characters/characters.component.html")).default,
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/characters/characters.component.html"))["default"],
       styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! ./characters.component.scss */
-      "./src/app/components/characters/characters.component.scss")).default]
+      "./src/app/components/characters/characters.component.scss"))["default"]]
     })], CharactersComponent);
     /***/
   },
@@ -1504,7 +1496,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvZGVsdXhlL2RlbHV4ZS5jb21wb25lbnQuc2NzcyJ9 */";
+    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 35%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n\n.deluxe {\n  margin-left: 75%;\n  margin-right: 35%;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9kZWx1eGUvQzpcXEdJVFxcZm1zLXZvdGVzL3NyY1xcYXBwXFxjb21wb25lbnRzXFxkZWx1eGVcXGRlbHV4ZS5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvY29tcG9uZW50cy9kZWx1eGUvZGVsdXhlLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksZUFBQTtFQUNBLGlCQUFBO0VBQ0Esa0JBQUE7QUNDSjs7QURFQTtFQUNJLGtCQUFBO0FDQ0o7O0FERUE7RUFDSSx5QkFBQTtBQ0NKOztBREVBO0VBQ0ksZ0JBQUE7RUFDQSxpQkFBQTtBQ0NKIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50cy9kZWx1eGUvZGVsdXhlLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLnNjb3JlVGFibGV7XHJcbiAgICBtYXJnaW4tdG9wOiAzNSU7XHJcbiAgICBtYXJnaW4tbGVmdDogYXV0bztcclxuICAgIG1hcmdpbi1yaWdodDogYXV0bztcclxufVxyXG5cclxuLnNjb3JlSW5wdXQge1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59XHJcblxyXG4ubWMge1xyXG4gICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcclxufVxyXG5cclxuLmRlbHV4ZSB7XHJcbiAgICBtYXJnaW4tbGVmdDogNzUlO1xyXG4gICAgbWFyZ2luLXJpZ2h0OiAzNSU7XHJcbn0iLCIuc2NvcmVUYWJsZSB7XG4gIG1hcmdpbi10b3A6IDM1JTtcbiAgbWFyZ2luLWxlZnQ6IGF1dG87XG4gIG1hcmdpbi1yaWdodDogYXV0bztcbn1cblxuLnNjb3JlSW5wdXQge1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbi5tYyB7XG4gIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XG59XG5cbi5kZWx1eGUge1xuICBtYXJnaW4tbGVmdDogNzUlO1xuICBtYXJnaW4tcmlnaHQ6IDM1JTtcbn0iXX0= */";
     /***/
   },
 
@@ -1552,9 +1544,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! @angular/router */
     "./node_modules/@angular/router/fesm2015/router.js");
 
-    var DeluxeComponent =
-    /*#__PURE__*/
-    function () {
+    var DeluxeComponent = /*#__PURE__*/function () {
       function DeluxeComponent(sharingService, router) {
         _classCallCheck(this, DeluxeComponent);
 
@@ -1593,10 +1583,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selector: 'app-deluxe',
       template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! raw-loader!./deluxe.component.html */
-      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/deluxe/deluxe.component.html")).default,
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/deluxe/deluxe.component.html"))["default"],
       styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! ./deluxe.component.scss */
-      "./src/app/components/deluxe/deluxe.component.scss")).default]
+      "./src/app/components/deluxe/deluxe.component.scss"))["default"]]
     })], DeluxeComponent);
     /***/
   },
@@ -1617,7 +1607,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvZWFzeS9lYXN5LmNvbXBvbmVudC5zY3NzIn0= */";
+    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 35%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9lYXN5L0M6XFxHSVRcXGZtcy12b3Rlcy9zcmNcXGFwcFxcY29tcG9uZW50c1xcZWFzeVxcZWFzeS5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvY29tcG9uZW50cy9lYXN5L2Vhc3kuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0E7RUFDSSxlQUFBO0VBQ0EsaUJBQUE7RUFDQSxrQkFBQTtBQ0FKOztBREdBO0VBQ0ksa0JBQUE7QUNBSjs7QURHQTtFQUNJLHlCQUFBO0FDQUoiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2Vhc3kvZWFzeS5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIlxyXG4uc2NvcmVUYWJsZXtcclxuICAgIG1hcmdpbi10b3A6IDM1JTtcclxuICAgIG1hcmdpbi1sZWZ0OiBhdXRvO1xyXG4gICAgbWFyZ2luLXJpZ2h0OiBhdXRvO1xyXG59XHJcblxyXG4uc2NvcmVJbnB1dCB7XHJcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbn1cclxuXHJcbi5tYyB7XHJcbiAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xyXG59IiwiLnNjb3JlVGFibGUge1xuICBtYXJnaW4tdG9wOiAzNSU7XG4gIG1hcmdpbi1sZWZ0OiBhdXRvO1xuICBtYXJnaW4tcmlnaHQ6IGF1dG87XG59XG5cbi5zY29yZUlucHV0IHtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuXG4ubWMge1xuICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xufSJdfQ== */";
     /***/
   },
 
@@ -1665,9 +1655,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! @angular/router */
     "./node_modules/@angular/router/fesm2015/router.js");
 
-    var EasyComponent =
-    /*#__PURE__*/
-    function () {
+    var EasyComponent = /*#__PURE__*/function () {
       function EasyComponent(sharingService, router) {
         _classCallCheck(this, EasyComponent);
 
@@ -1706,10 +1694,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selector: 'app-easy',
       template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! raw-loader!./easy.component.html */
-      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/easy/easy.component.html")).default,
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/easy/easy.component.html"))["default"],
       styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! ./easy.component.scss */
-      "./src/app/components/easy/easy.component.scss")).default]
+      "./src/app/components/easy/easy.component.scss"))["default"]]
     })], EasyComponent);
     /***/
   },
@@ -1730,7 +1718,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvaGFyZC9oYXJkLmNvbXBvbmVudC5zY3NzIn0= */";
+    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 35%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9oYXJkL0M6XFxHSVRcXGZtcy12b3Rlcy9zcmNcXGFwcFxcY29tcG9uZW50c1xcaGFyZFxcaGFyZC5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvY29tcG9uZW50cy9oYXJkL2hhcmQuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDSSxlQUFBO0VBQ0EsaUJBQUE7RUFDQSxrQkFBQTtBQ0NKOztBREVBO0VBQ0ksa0JBQUE7QUNDSjs7QURFQTtFQUNJLHlCQUFBO0FDQ0oiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2hhcmQvaGFyZC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5zY29yZVRhYmxle1xyXG4gICAgbWFyZ2luLXRvcDogMzUlO1xyXG4gICAgbWFyZ2luLWxlZnQ6IGF1dG87XHJcbiAgICBtYXJnaW4tcmlnaHQ6IGF1dG87XHJcbn1cclxuXHJcbi5zY29yZUlucHV0IHtcclxuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcclxufVxyXG5cclxuLm1jIHtcclxuICAgIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XHJcbn0iLCIuc2NvcmVUYWJsZSB7XG4gIG1hcmdpbi10b3A6IDM1JTtcbiAgbWFyZ2luLWxlZnQ6IGF1dG87XG4gIG1hcmdpbi1yaWdodDogYXV0bztcbn1cblxuLnNjb3JlSW5wdXQge1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbi5tYyB7XG4gIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XG59Il19 */";
     /***/
   },
 
@@ -1778,9 +1766,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! @angular/router */
     "./node_modules/@angular/router/fesm2015/router.js");
 
-    var HardComponent =
-    /*#__PURE__*/
-    function () {
+    var HardComponent = /*#__PURE__*/function () {
       function HardComponent(sharingService, router) {
         _classCallCheck(this, HardComponent);
 
@@ -1819,10 +1805,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selector: 'app-hard',
       template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! raw-loader!./hard.component.html */
-      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/hard/hard.component.html")).default,
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/hard/hard.component.html"))["default"],
       styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! ./hard.component.scss */
-      "./src/app/components/hard/hard.component.scss")).default]
+      "./src/app/components/hard/hard.component.scss"))["default"]]
     })], HardComponent);
     /***/
   },
@@ -1843,7 +1829,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = ".example-form {\n  min-width: 150px;\n  max-width: 500px;\n  width: 100%;\n}\n\n.example-full-width {\n  width: 100%;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9tYy1zZWxlY3Rvci9DOlxcVXNlcnNcXFNhbVxcRGVza3RvcFxcQW5ndWxhclxcRk1TLVZvdGVzL3NyY1xcYXBwXFxjb21wb25lbnRzXFxtYy1zZWxlY3RvclxcbWMtc2VsZWN0b3IuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvbWMtc2VsZWN0b3IvbWMtc2VsZWN0b3IuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDSSxnQkFBQTtFQUNBLGdCQUFBO0VBQ0EsV0FBQTtBQ0NKOztBREVFO0VBQ0UsV0FBQTtBQ0NKIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50cy9tYy1zZWxlY3Rvci9tYy1zZWxlY3Rvci5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5leGFtcGxlLWZvcm0ge1xyXG4gICAgbWluLXdpZHRoOiAxNTBweDtcclxuICAgIG1heC13aWR0aDogNTAwcHg7XHJcbiAgICB3aWR0aDogMTAwJTtcclxuICB9XHJcbiAgXHJcbiAgLmV4YW1wbGUtZnVsbC13aWR0aCB7XHJcbiAgICB3aWR0aDogMTAwJTtcclxuICB9XHJcbiAgIiwiLmV4YW1wbGUtZm9ybSB7XG4gIG1pbi13aWR0aDogMTUwcHg7XG4gIG1heC13aWR0aDogNTAwcHg7XG4gIHdpZHRoOiAxMDAlO1xufVxuXG4uZXhhbXBsZS1mdWxsLXdpZHRoIHtcbiAgd2lkdGg6IDEwMCU7XG59Il19 */";
+    __webpack_exports__["default"] = ".mcNameInput {\n  margin-left: 30%;\n  margin-top: 500px;\n  color: #eee;\n}\n\n.mc1 {\n  width: 50%;\n}\n\n.mc2 {\n  width: 50%;\n}\n\n.mcselection {\n  width: 100%;\n}\n\n::ng-deep .mat-form-field-label {\n  /*change color of label*/\n  color: #eee !important;\n}\n\n::ng-deep .mat-focused .mat-form-field-label {\n  /*change color of label when focused*/\n  color: #1F5A2E !important;\n}\n\n::ng-deep .mat-form-field-underline {\n  /*change color of underline*/\n  background-color: #eee !important;\n}\n\n::ng-deep .mat-form-field-ripple {\n  /*change color of underline when focused*/\n  background-color: #1F5A2E !important;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9tYy1zZWxlY3Rvci9DOlxcR0lUXFxmbXMtdm90ZXMvc3JjXFxhcHBcXGNvbXBvbmVudHNcXG1jLXNlbGVjdG9yXFxtYy1zZWxlY3Rvci5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvY29tcG9uZW50cy9tYy1zZWxlY3Rvci9tYy1zZWxlY3Rvci5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGdCQUFBO0VBQ0EsaUJBQUE7RUFDQSxXQUFBO0FDQ0Y7O0FERUE7RUFDRSxVQUFBO0FDQ0Y7O0FERUE7RUFDRSxVQUFBO0FDQ0Y7O0FERUE7RUFDSSxXQUFBO0FDQ0o7O0FERUU7RUFDRSx3QkFBQTtFQUNBLHNCQUFBO0FDQ0o7O0FERUU7RUFDRSxxQ0FBQTtFQUNBLHlCQUFBO0FDQ0o7O0FERUc7RUFDQyw0QkFBQTtFQUNBLGlDQUFBO0FDQ0o7O0FERUU7RUFDQyx5Q0FBQTtFQUNBLG9DQUFBO0FDQ0giLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL21jLXNlbGVjdG9yL21jLXNlbGVjdG9yLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLm1jTmFtZUlucHV0IHtcclxuICBtYXJnaW4tbGVmdDogMzAlO1xyXG4gIG1hcmdpbi10b3A6IDUwMHB4O1xyXG4gIGNvbG9yOiAjZWVlO1xyXG59XHJcblxyXG4ubWMxIHtcclxuICB3aWR0aDogNTAlO1xyXG59XHJcblxyXG4ubWMyIHtcclxuICB3aWR0aDogNTAlO1xyXG59XHJcbiAgXHJcbi5tY3NlbGVjdGlvbiB7XHJcbiAgICB3aWR0aDogMTAwJTtcclxuICB9XHJcblxyXG4gIDo6bmctZGVlcCAubWF0LWZvcm0tZmllbGQtbGFiZWwge1xyXG4gICAgLypjaGFuZ2UgY29sb3Igb2YgbGFiZWwqL1xyXG4gICAgY29sb3I6ICNlZWUgIWltcG9ydGFudDtcclxuICAgfVxyXG5cclxuICA6Om5nLWRlZXAgLm1hdC1mb2N1c2VkIC5tYXQtZm9ybS1maWVsZC1sYWJlbCB7XHJcbiAgICAvKmNoYW5nZSBjb2xvciBvZiBsYWJlbCB3aGVuIGZvY3VzZWQqL1xyXG4gICAgY29sb3I6ICAjMUY1QTJFICFpbXBvcnRhbnQ7XHJcbiAgIH1cclxuICBcclxuICAgOjpuZy1kZWVwIC5tYXQtZm9ybS1maWVsZC11bmRlcmxpbmUge1xyXG4gICAgLypjaGFuZ2UgY29sb3Igb2YgdW5kZXJsaW5lKi9cclxuICAgIGJhY2tncm91bmQtY29sb3I6I2VlZSAhaW1wb3J0YW50O1xyXG4gIH0gXHJcbiAgXHJcbiAgOjpuZy1kZWVwIC5tYXQtZm9ybS1maWVsZC1yaXBwbGUge1xyXG4gICAvKmNoYW5nZSBjb2xvciBvZiB1bmRlcmxpbmUgd2hlbiBmb2N1c2VkKi9cclxuICAgYmFja2dyb3VuZC1jb2xvcjogICMxRjVBMkUgIWltcG9ydGFudDtcclxuXHJcbiAgfSIsIi5tY05hbWVJbnB1dCB7XG4gIG1hcmdpbi1sZWZ0OiAzMCU7XG4gIG1hcmdpbi10b3A6IDUwMHB4O1xuICBjb2xvcjogI2VlZTtcbn1cblxuLm1jMSB7XG4gIHdpZHRoOiA1MCU7XG59XG5cbi5tYzIge1xuICB3aWR0aDogNTAlO1xufVxuXG4ubWNzZWxlY3Rpb24ge1xuICB3aWR0aDogMTAwJTtcbn1cblxuOjpuZy1kZWVwIC5tYXQtZm9ybS1maWVsZC1sYWJlbCB7XG4gIC8qY2hhbmdlIGNvbG9yIG9mIGxhYmVsKi9cbiAgY29sb3I6ICNlZWUgIWltcG9ydGFudDtcbn1cblxuOjpuZy1kZWVwIC5tYXQtZm9jdXNlZCAubWF0LWZvcm0tZmllbGQtbGFiZWwge1xuICAvKmNoYW5nZSBjb2xvciBvZiBsYWJlbCB3aGVuIGZvY3VzZWQqL1xuICBjb2xvcjogIzFGNUEyRSAhaW1wb3J0YW50O1xufVxuXG46Om5nLWRlZXAgLm1hdC1mb3JtLWZpZWxkLXVuZGVybGluZSB7XG4gIC8qY2hhbmdlIGNvbG9yIG9mIHVuZGVybGluZSovXG4gIGJhY2tncm91bmQtY29sb3I6ICNlZWUgIWltcG9ydGFudDtcbn1cblxuOjpuZy1kZWVwIC5tYXQtZm9ybS1maWVsZC1yaXBwbGUge1xuICAvKmNoYW5nZSBjb2xvciBvZiB1bmRlcmxpbmUgd2hlbiBmb2N1c2VkKi9cbiAgYmFja2dyb3VuZC1jb2xvcjogIzFGNUEyRSAhaW1wb3J0YW50O1xufSJdfQ== */";
     /***/
   },
 
@@ -1891,9 +1877,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! @angular/router */
     "./node_modules/@angular/router/fesm2015/router.js");
 
-    var McSelectorComponent =
-    /*#__PURE__*/
-    function () {
+    var McSelectorComponent = /*#__PURE__*/function () {
       function McSelectorComponent(sharingService, router) {
         _classCallCheck(this, McSelectorComponent);
 
@@ -1929,10 +1913,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selector: 'app-mc-selector',
       template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! raw-loader!./mc-selector.component.html */
-      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/mc-selector/mc-selector.component.html")).default,
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/mc-selector/mc-selector.component.html"))["default"],
       styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! ./mc-selector.component.scss */
-      "./src/app/components/mc-selector/mc-selector.component.scss")).default]
+      "./src/app/components/mc-selector/mc-selector.component.scss"))["default"]]
     })], McSelectorComponent);
     /***/
   },
@@ -2001,9 +1985,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! @angular/router */
     "./node_modules/@angular/router/fesm2015/router.js");
 
-    var ResultsComponent =
-    /*#__PURE__*/
-    function () {
+    var ResultsComponent = /*#__PURE__*/function () {
       function ResultsComponent(sharingService, router) {
         _classCallCheck(this, ResultsComponent);
 
@@ -2039,10 +2021,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selector: 'app-results',
       template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! raw-loader!./results.component.html */
-      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/results/results.component.html")).default,
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/results/results.component.html"))["default"],
       styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! ./results.component.scss */
-      "./src/app/components/results/results.component.scss")).default]
+      "./src/app/components/results/results.component.scss"))["default"]]
     })], ResultsComponent);
     /***/
   },
@@ -2063,7 +2045,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "tr.spaceUnder > td {\n  padding-bottom: 12%;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy90aGVtYXRpYy9DOlxcVXNlcnNcXFNhbVxcRGVza3RvcFxcQW5ndWxhclxcRk1TLVZvdGVzL3NyY1xcYXBwXFxjb21wb25lbnRzXFx0aGVtYXRpY1xcdGhlbWF0aWMuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvdGhlbWF0aWMvdGhlbWF0aWMuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxtQkFBQTtBQ0NGIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50cy90aGVtYXRpYy90aGVtYXRpYy5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbInRyLnNwYWNlVW5kZXI+dGQge1xyXG4gIHBhZGRpbmctYm90dG9tOiAxMiU7XHJcbn1cclxuIiwidHIuc3BhY2VVbmRlciA+IHRkIHtcbiAgcGFkZGluZy1ib3R0b206IDEyJTtcbn0iXX0= */";
+    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 35%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.thematic {\n  margin-left: auto;\n  margin-right: auto;\n  display: flex;\n  align-items: center;\n  text-align: center;\n}\n\n/*.firstThematic {\n  margin-left: -20px;\n\n}\n*/\n\n.secondThematic {\n  margin-left: 150px;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy90aGVtYXRpYy9DOlxcR0lUXFxmbXMtdm90ZXMvc3JjXFxhcHBcXGNvbXBvbmVudHNcXHRoZW1hdGljXFx0aGVtYXRpYy5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvY29tcG9uZW50cy90aGVtYXRpYy90aGVtYXRpYy5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGVBQUE7RUFDQSxpQkFBQTtFQUNBLGtCQUFBO0FDQ0Y7O0FERUE7RUFDRSxpQkFBQTtFQUNBLGtCQUFBO0VBQ0EsYUFBQTtFQUNBLG1CQUFBO0VBQ0Esa0JBQUE7QUNDRjs7QURFQTs7OztDQUFBOztBQUtBO0VBQ0Usa0JBQUE7QUNDRjs7QURFQTtFQUNFLGtCQUFBO0FDQ0Y7O0FERUE7RUFDRSx5QkFBQTtBQ0NGIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50cy90aGVtYXRpYy90aGVtYXRpYy5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5zY29yZVRhYmxle1xyXG4gIG1hcmdpbi10b3A6IDM1JTtcclxuICBtYXJnaW4tbGVmdDogYXV0bztcclxuICBtYXJnaW4tcmlnaHQ6IGF1dG87XHJcbn1cclxuXHJcbi50aGVtYXRpYyB7XHJcbiAgbWFyZ2luLWxlZnQ6IGF1dG87XHJcbiAgbWFyZ2luLXJpZ2h0OiBhdXRvO1xyXG4gIGRpc3BsYXk6IGZsZXg7XHJcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcclxuICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbn1cclxuXHJcbi8qLmZpcnN0VGhlbWF0aWMge1xyXG4gIG1hcmdpbi1sZWZ0OiAtMjBweDtcclxuICBcclxufVxyXG4qL1xyXG4uc2Vjb25kVGhlbWF0aWMge1xyXG4gIG1hcmdpbi1sZWZ0OiAxNTBweDtcclxufVxyXG5cclxuLnNjb3JlSW5wdXQge1xyXG4gIHRleHQtYWxpZ246IGNlbnRlcjtcclxufVxyXG5cclxuLm1jIHtcclxuICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xyXG59IiwiLnNjb3JlVGFibGUge1xuICBtYXJnaW4tdG9wOiAzNSU7XG4gIG1hcmdpbi1sZWZ0OiBhdXRvO1xuICBtYXJnaW4tcmlnaHQ6IGF1dG87XG59XG5cbi50aGVtYXRpYyB7XG4gIG1hcmdpbi1sZWZ0OiBhdXRvO1xuICBtYXJnaW4tcmlnaHQ6IGF1dG87XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLyouZmlyc3RUaGVtYXRpYyB7XG4gIG1hcmdpbi1sZWZ0OiAtMjBweDtcblxufVxuKi9cbi5zZWNvbmRUaGVtYXRpYyB7XG4gIG1hcmdpbi1sZWZ0OiAxNTBweDtcbn1cblxuLnNjb3JlSW5wdXQge1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbi5tYyB7XG4gIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XG59Il19 */";
     /***/
   },
 
@@ -2111,9 +2093,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! @angular/router */
     "./node_modules/@angular/router/fesm2015/router.js");
 
-    var ThematicComponent =
-    /*#__PURE__*/
-    function () {
+    var ThematicComponent = /*#__PURE__*/function () {
       function ThematicComponent(sharingService, router) {
         _classCallCheck(this, ThematicComponent);
 
@@ -2152,10 +2132,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selector: 'app-thematic',
       template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! raw-loader!./thematic.component.html */
-      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/thematic/thematic.component.html")).default,
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/thematic/thematic.component.html"))["default"],
       styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
       /*! ./thematic.component.scss */
-      "./src/app/components/thematic/thematic.component.scss")).default]
+      "./src/app/components/thematic/thematic.component.scss"))["default"]]
     })], ThematicComponent);
     /***/
   },
@@ -2186,9 +2166,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! tslib */
     "./node_modules/tslib/tslib.es6.js");
 
-    var AdditionalScoreModel =
-    /*#__PURE__*/
-    function () {
+    var AdditionalScoreModel = /*#__PURE__*/function () {
       function AdditionalScoreModel() {
         _classCallCheck(this, AdditionalScoreModel);
 
@@ -2244,9 +2222,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! ./round-model */
     "./src/app/models/round-model.ts");
 
-    var McModel =
-    /*#__PURE__*/
-    function () {
+    var McModel = /*#__PURE__*/function () {
       function McModel() {
         _classCallCheck(this, McModel);
 
@@ -2299,9 +2275,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! tslib */
     "./node_modules/tslib/tslib.es6.js");
 
-    var PatronModel =
-    /*#__PURE__*/
-    function () {
+    var PatronModel = /*#__PURE__*/function () {
       function PatronModel() {
         _classCallCheck(this, PatronModel);
 
@@ -2360,9 +2334,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! ./patron-model */
     "./src/app/models/patron-model.ts");
 
-    var RoundModel =
-    /*#__PURE__*/
-    function () {
+    var RoundModel = /*#__PURE__*/function () {
       function RoundModel(patronNumber) {
         _classCallCheck(this, RoundModel);
 
@@ -2475,9 +2447,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! ../models/score-model */
     "./src/app/models/score-model.ts");
 
-    var SharingService =
-    /*#__PURE__*/
-    function () {
+    var SharingService = /*#__PURE__*/function () {
       function SharingService() {
         _classCallCheck(this, SharingService);
 
@@ -2599,7 +2569,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["enableProdMode"])();
     }
 
-    Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__["platformBrowserDynamic"])().bootstrapModule(_app_app_module__WEBPACK_IMPORTED_MODULE_3__["AppModule"]).catch(function (err) {
+    Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__["platformBrowserDynamic"])().bootstrapModule(_app_app_module__WEBPACK_IMPORTED_MODULE_3__["AppModule"])["catch"](function (err) {
       return console.error(err);
     });
     /***/
@@ -2616,7 +2586,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! C:\Users\Sam\Desktop\Angular\FMS-Votes\src\main.ts */
+    /*! C:\GIT\fms-votes\src\main.ts */
     "./src/main.ts");
     /***/
   }

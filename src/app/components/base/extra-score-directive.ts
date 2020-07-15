@@ -1,4 +1,4 @@
-import { Directive, ElementRef, HostListener, Input } from '@angular/core';
+import { Directive, ElementRef, HostListener, Input, Host } from '@angular/core';
 
 @Directive({
   // tslint:disable-next-line: directive-selector
@@ -16,4 +16,5 @@ export class ExtraScoreNumberDirective {
       event.stopPropagation();
     }
   }
+
 }

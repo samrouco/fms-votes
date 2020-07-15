@@ -8,26 +8,27 @@
 
         <td *ngFor="let patron of scoreData.Mc1.thematic1.patrons">
           <mat-form-field class="scoreInput" style="margin-left: 5px;">
-            <input type="text" class="inputTextCenter" patronNumber maxlength="1" matInput [(ngModel)]="patron.score" />
+            <input type="text" class="inputTextCenter" patronNumber maxlength="1" matInput [(ngModel)]="patron.score"
+              autocomplete="off" />
           </mat-form-field>
         </td>
 
         <td>
           <mat-form-field class="scoreInput" style="margin-left: 20px;">
             <input type="text" class="inputTextCenter" placeholder="Sk" extraScoreNumber maxlength="1" matInput
-              [(ngModel)]="scoreData.Mc1.thematic1.extraScore.skills" />
+              [(ngModel)]="scoreData.Mc1.thematic1.extraScore.skills" autocomplete="off" />
           </mat-form-field>
         </td>
         <td>
           <mat-form-field class="scoreInput" style="margin-left: 5px;">
             <input type="text" class="inputTextCenter" placeholder="Fl" extraScoreNumber maxlength="1" matInput
-              [(ngModel)]="scoreData.Mc1.thematic1.extraScore.flow" />
+              [(ngModel)]="scoreData.Mc1.thematic1.extraScore.flow" autocomplete="off" />
           </mat-form-field>
         </td>
         <td>
           <mat-form-field class="scoreInput" style="margin-left: 5px;">
             <input type="text" class="inputTextCenter" placeholder="Es" extraScoreNumber maxlength="1" matInput
-              [(ngModel)]="scoreData.Mc1.thematic1.extraScore.scene" />
+              [(ngModel)]="scoreData.Mc1.thematic1.extraScore.scene" autocomplete="off" />
           </mat-form-field>
         </td>
       </tr>
@@ -37,26 +38,26 @@
         </td>
         <td *ngFor="let patron of scoreData.Mc2.thematic1.patrons">
           <mat-form-field class="scoreInput" style="margin-left: 5px;">
-            <input type="text" class="inputTextCenter" patronNumber maxlength="1" matInput [(ngModel)]="patron.score" />
+            <input type="text" class="inputTextCenter" patronNumber maxlength="1" matInput [(ngModel)]="patron.score" autocomplete="off" />
           </mat-form-field>
         </td>
 
         <td>
           <mat-form-field class="scoreInput" style="margin-left: 20px;">
             <input type="text" class="inputTextCenter" placeholder="Sk" extraScoreNumber maxlength="1" matInput
-              [(ngModel)]="scoreData.Mc2.thematic1.extraScore.skills" />
+              [(ngModel)]="scoreData.Mc2.thematic1.extraScore.skills" autocomplete="off"/>
           </mat-form-field>
         </td>
         <td>
           <mat-form-field class="scoreInput" style="margin-left: 5px;">
             <input type="text" class="inputTextCenter" placeholder="Fl" extraScoreNumber maxlength="1" matInput
-              [(ngModel)]="scoreData.Mc2.thematic1.extraScore.flow" />
+              [(ngModel)]="scoreData.Mc2.thematic1.extraScore.flow" autocomplete="off"/>
           </mat-form-field>
         </td>
         <td>
           <mat-form-field class="scoreInput" style="margin-left: 5px;">
             <input type="text" class="inputTextCenter" placeholder="Es" extraScoreNumber maxlength="1" matInput
-              [(ngModel)]="scoreData.Mc2.thematic1.extraScore.scene" />
+              [(ngModel)]="scoreData.Mc2.thematic1.extraScore.scene" autocomplete="off"/>
           </mat-form-field>
         </td>
       </tr>

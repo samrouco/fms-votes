@@ -26,6 +26,7 @@ export class EasyComponent
 
 
   navigateToHardMode() {
+    console.log(this.scoreData);
     this.sharingService.setData(this.scoreData);
     this.router.navigate(['/Hard']);
   }

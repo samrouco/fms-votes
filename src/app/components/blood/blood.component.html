@@ -7,23 +7,23 @@
 
       <td *ngFor="let patron of scoreData.Mc1.blood1.patrons">
         <mat-form-field class="scoreInput">
-          <input type="text" patronNumber maxlength="1" matInput [(ngModel)]="patron.score"  />
+          <input type="text" patronNumber maxlength="1" matInput [(ngModel)]="patron.score" autocomplete="off" />
         </mat-form-field>
       </td>
 
       <td>
         <mat-form-field class="scoreInput" style="margin-left: 20px;">
-          <input type="text" placeholder="Sk" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.blood1.extraScore.skills" />
+          <input type="text" placeholder="Sk" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.blood1.extraScore.skills" autocomplete="off"/>
         </mat-form-field>
       </td>
       <td>
         <mat-form-field class="scoreInput">
-          <input type="text" placeholder="Fl" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.blood1.extraScore.flow" />
+          <input type="text" placeholder="Fl" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.blood1.extraScore.flow" autocomplete="off"/>
         </mat-form-field>
       </td>
       <td>
         <mat-form-field class="scoreInput">
-          <input type="text" placeholder="Es" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.blood1.extraScore.scene" />
+          <input type="text" placeholder="Es" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.blood1.extraScore.scene" autocomplete="off"/>
         </mat-form-field>
       </td>
     </tr>
@@ -33,23 +33,23 @@
       </td>
       <td *ngFor="let patron of scoreData.Mc2.blood1.patrons">
         <mat-form-field class="scoreInput">
-          <input type="text" patronNumber maxlength="1" matInput [(ngModel)]="patron.score"  />
+          <input type="text" patronNumber maxlength="1" matInput [(ngModel)]="patron.score"  autocomplete="off"/>
         </mat-form-field>
       </td>
 
       <td>
           <mat-form-field class="scoreInput" style="margin-left: 20px;">
-            <input type="text" placeholder="Sk" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.blood1.extraScore.skills" />
+            <input type="text" placeholder="Sk" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.blood1.extraScore.skills" autocomplete="off"/>
           </mat-form-field>
         </td>
         <td>
           <mat-form-field class="scoreInput">
-            <input type="text" placeholder="Fl" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.blood1.extraScore.flow" />
+            <input type="text" placeholder="Fl" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.blood1.extraScore.flow" autocomplete="off" />
           </mat-form-field>
         </td>
         <td>
           <mat-form-field class="scoreInput">
-            <input type="text" placeholder="Es" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.blood1.extraScore.scene" />
+            <input type="text" placeholder="Es" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.blood1.extraScore.scene" autocomplete="off"/>
           </mat-form-field>
         </td>
     </tr>
@@ -61,23 +61,23 @@
 
       <td *ngFor="let patron of scoreData.Mc2.blood2.patrons">
         <mat-form-field class="scoreInput">
-          <input type="text" patronNumber maxlength="1" matInput [(ngModel)]="patron.score"  />
+          <input type="text" patronNumber maxlength="1" matInput [(ngModel)]="patron.score" autocomplete="off" />
         </mat-form-field>
       </td>
 
       <td>
         <mat-form-field class="scoreInput" style="margin-left: 20px;">
-          <input type="text" placeholder="Sk" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.blood2.extraScore.skills" />
+          <input type="text" placeholder="Sk" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.blood2.extraScore.skills" autocomplete="off" />
         </mat-form-field>
       </td>
       <td>
         <mat-form-field class="scoreInput">
-          <input type="text" placeholder="Fl" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.blood2.extraScore.flow" />
+          <input type="text" placeholder="Fl" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.blood2.extraScore.flow" autocomplete="off"/>
         </mat-form-field>
       </td>
       <td>
         <mat-form-field class="scoreInput">
-          <input type="text" placeholder="Es" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.blood2.extraScore.scene" />
+          <input type="text" placeholder="Es" extraScoreNumber matInput [(ngModel)]="scoreData.Mc2.blood2.extraScore.scene" autocomplete="off"/>
         </mat-form-field>
       </td>
     </tr>
@@ -87,7 +87,7 @@
       </td>
       <td *ngFor="let patron of scoreData.Mc1.blood2.patrons">
         <mat-form-field class="scoreInput">
-          <input type="text" patronNumber maxlength="1" matInput [(ngModel)]="patron.score"  />
+          <input type="text" patronNumber maxlength="1" matInput [(ngModel)]="patron.score"  autocomplete="off"/>
           <br/>
           <input type="checkbox"/>
         </mat-form-field>
@@ -95,17 +95,17 @@
 
       <td>
           <mat-form-field class="scoreInput" style="margin-left: 20px;">
-            <input type="text" placeholder="Sk" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.blood2.extraScore.skills" />
+            <input type="text" placeholder="Sk" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.blood2.extraScore.skills" autocomplete="off" />
           </mat-form-field>
         </td>
         <td>
           <mat-form-field class="scoreInput">
-            <input type="text" placeholder="Fl" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.blood2.extraScore.flow" />
+            <input type="text" placeholder="Fl" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.blood2.extraScore.flow" autocomplete="off"/>
           </mat-form-field>
         </td>
         <td>
           <mat-form-field class="scoreInput">
-            <input type="text" placeholder="Es" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.blood2.extraScore.scene" />
+            <input type="text" placeholder="Es" extraScoreNumber matInput [(ngModel)]="scoreData.Mc1.blood2.extraScore.scene" autocomplete="off"/>
           </mat-form-field>
         </td>
     </tr>
