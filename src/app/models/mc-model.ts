@@ -27,6 +27,5 @@ export class McModel {
     this.result = +(this.easyMode.getRoundScore() + this.hardMode.getRoundScore() +
       this.thematic1.getRoundScore() + this.thematic2.getRoundScore() + this.characters.getRoundScore() + this.blood1.getRoundScore() +
       this.blood2.getRoundScore() + this.deluxe.getRoundScore());
-
   }
 }

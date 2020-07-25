@@ -11,7 +11,7 @@ export class ExtraScoreNumberDirective {
   @HostListener('input', ['$event']) onInputChange(event) {
     const initalValue = this.el.nativeElement.value;
 
-    this.el.nativeElement.value = initalValue.replace(/[^0-2]/g, '');
+    this.el.nativeElement.value = initalValue.replace(/[^0-4]/g, '');
     if ( initalValue !== this.el.nativeElement.value) {
       event.stopPropagation();
     }

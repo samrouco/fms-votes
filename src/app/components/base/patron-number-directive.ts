@@ -9,19 +9,10 @@ export class PatronNumberDirective {
 
   constructor(private el: ElementRef) { }
 
-  @HostListener('input', ['$event']) onInputChange(event) {
-    const initalValue = this.el.nativeElement.value;
 
-    //this.el.nativeElement.value = initalValue.replace(/[^0-4]/g, '');
-    if (initalValue !== this.el.nativeElement.value) {
-      event.stopPropagation();
-    }
-  }
 
   @HostListener('document:keydown', ['$event'])
   handleKeyboardEvent(event: KeyboardEvent) {
-
-    console.log(event);
 
     //arrowUp
     if (event.keyCode == 38) {
@@ -30,7 +21,7 @@ export class PatronNumberDirective {
       if (htmlElement != undefined) {
         if (htmlElement.value.length == 0) {
           htmlElement.value = "0,5";
-        } else if (!htmlElement.value.endsWith(",5") && htmlElement.value != "4" ) {
+        } else if (!htmlElement.value.endsWith(",5") && htmlElement.value != "4") {
           htmlElement.value = htmlElement.value + ",5";
         }
 
@@ -39,12 +30,15 @@ export class PatronNumberDirective {
     }
 
     //delete o backspace
-    if(event.keyCode == 46 || event.keyCode == 8){
+    if (event.keyCode == 46 || event.keyCode == 8) {
       var htmlElement = document.getElementById(document.activeElement.id) as HTMLInputElement;
       if (htmlElement != undefined && htmlElement.value.endsWith(",5")) {
-          htmlElement.value = "";
-          htmlElement.dispatchEvent(new Event("input"));
+        htmlElement.value = "";
+        htmlElement.dispatchEvent(new Event("input"));
       }
+    }else if (event.keyCode < 48 || event.keyCode > 52) { // Si no esta entre 0 o 4
+      return false;
     }
+
   }
 }

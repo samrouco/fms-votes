@@ -4,7 +4,7 @@ export class AdditionalScoreModel {
   scene;
 
   getTotal(): number {
-    const result = this.flow + this.skills  + this.scene;
+    const result = this.getFlow() + this.getSkills()  + this.getScene();
     console.log(result !== undefined ? result : 0);
     return result !== undefined ? result : 0;
   }

@@ -22,6 +22,8 @@ export class RoundModel {
         result += patron.getTotalScore();
       }
     } );
+
+    if(this.extraScore !== undefined && this.extraScore.getTotal !== undefined)
     result += +(this.extraScore.getTotal());
     return result;
   }

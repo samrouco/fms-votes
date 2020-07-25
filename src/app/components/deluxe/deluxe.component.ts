@@ -23,6 +23,8 @@ export class DeluxeComponent implements OnInit {
   }
 
   navigateToResults() {
+    this.scoreData.Mc1.calculateTotal();
+    this.scoreData.Mc2.calculateTotal();
     this.sharingService.setData(this.scoreData);
     this.router.navigate(['/Results']);
   }
