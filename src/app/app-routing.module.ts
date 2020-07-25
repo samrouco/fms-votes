@@ -8,9 +8,14 @@ import { CharactersComponent } from './components/characters/characters.componen
 import { BloodComponent } from './components/blood/blood.component';
 import { DeluxeComponent } from './components/deluxe/deluxe.component';
 import { ResultsComponent } from './components/results/results.component';
+import { FmsSelectorComponent } from './components/fms-selector/fms-selector.component';
+import { FmsEspComponent } from './components/fms-esp/fms-esp.component';
+
 
 
 const routes: Routes = [
+  {path: 'FmsSelector', component: FmsSelectorComponent},
+  {path: 'FmsEsp', component: FmsEspComponent},
   {path: 'McSelector', component: McSelectorComponent},
   {path: 'Easy', component: EasyComponent},
   {path: 'Hard', component: HardComponent},
@@ -19,7 +24,7 @@ const routes: Routes = [
   {path: 'Blood', component: BloodComponent},
   {path: 'Deluxe', component: DeluxeComponent},
   {path: 'Results', component: ResultsComponent},
-  {path: '', component: McSelectorComponent}
+  {path: '', component: FmsSelectorComponent}
 ];
 
 @NgModule({

@@ -1,0 +1,45 @@
+.contenedor {
+    margin-top: 4rem;
+    margin-bottom: 10rem;
+    padding-top: 4rem;
+    max-width: 1920px;
+    max-height: 1080px;
+    column-count: 3;
+    text-align: center;
+}
+
+img {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+a img:hover{
+    -webkit-transform:scale(1.15);
+    -moz-transform:scale(1.15);
+    -ms-transform:scale(1.15);
+    -o-transform:scale(1.15);
+    transform:scale(1.15);
+}
+
+@media (max-width: 767px) { 
+    .contenedor {
+        columns:2;
+    }
+    img {
+        width: 70%;
+        height: 70%;
+    }
+
+}
+        
+/* Móviles en vertical */
+
+@media (max-width: 480px) {
+    .contenedor {
+        columns: 1;
+    }
+    img {
+        width: 70%;
+        height: 70%;
+    }
+}

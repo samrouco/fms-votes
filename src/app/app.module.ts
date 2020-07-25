@@ -18,7 +18,8 @@ import { BloodComponent } from './components/blood/blood.component';
 import { CharactersComponent } from './components/characters/characters.component';
 import { DeluxeComponent } from './components/deluxe/deluxe.component';
 import { ResultsComponent } from './components/results/results.component';
-import { FmsSelectionComponent } from './components/fms-selection/fms-selection.component';
+import { FmsSelectorComponent } from './components/fms-selector/fms-selector.component';
+import { FmsEspComponent } from './components/fms-esp/fms-esp.component';
 
 
 @NgModule({
@@ -34,7 +35,9 @@ import { FmsSelectionComponent } from './components/fms-selection/fms-selection.
     CharactersComponent,
     DeluxeComponent,
     ResultsComponent,
-    FmsSelectionComponent
+    FmsSelectorComponent,
+    FmsEspComponent,
+
   ],
   imports: [
     BrowserModule,

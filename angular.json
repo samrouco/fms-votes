@@ -24,7 +24,6 @@
             "tsConfig": "tsconfig.app.json",
             "aot": false,
             "assets": [
-
               "src/assets"
             ],
             "styles": [
@@ -89,7 +88,6 @@
             "tsConfig": "tsconfig.spec.json",
             "karmaConfig": "karma.conf.js",
             "assets": [
-
               "src/assets"
             ],
             "styles": [
@@ -124,6 +122,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "FMS-Votes"
+    }
+  },
+  "defaultProject": "FMS-Votes",
+  "cli": {
+    "analytics": false
+  }
 }
