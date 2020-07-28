@@ -20,6 +20,16 @@ import { DeluxeComponent } from './components/deluxe/deluxe.component';
 import { ResultsComponent } from './components/results/results.component';
 import { FmsSelectorComponent } from './components/fms-selector/fms-selector.component';
 import { FmsEspComponent } from './components/fms-esp/fms-esp.component';
+import { BlonComponent } from './components/blon/blon.component';
+import { KhanComponent } from './components/khan/khan.component';
+import { MregoComponent } from './components/mrego/mrego.component';
+import { TirpaComponent } from './components/tirpa/tirpa.component';
+import { ZaskoComponent } from './components/zasko/zasko.component';
+import { GazirComponent } from './components/gazir/gazir.component';
+import { MnakComponent } from './components/mnak/mnak.component';
+import { ErreceComponent } from './components/errece/errece.component';
+import { BnetComponent } from './components/bnet/bnet.component';
+import { SweetpainComponent } from './components/sweetpain/sweetpain.component';
 
 
 @NgModule({
@@ -37,6 +47,16 @@ import { FmsEspComponent } from './components/fms-esp/fms-esp.component';
     ResultsComponent,
     FmsSelectorComponent,
     FmsEspComponent,
+    BlonComponent,
+    KhanComponent,
+    MregoComponent,
+    TirpaComponent,
+    ZaskoComponent,
+    GazirComponent,
+    MnakComponent,
+    ErreceComponent,
+    BnetComponent,
+    SweetpainComponent,
 
   ],
   imports: [

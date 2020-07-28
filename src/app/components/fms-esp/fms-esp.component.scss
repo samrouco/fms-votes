@@ -1,4 +1,5 @@
 .contenedor {
+    margin-top: 100px;
     padding-left: 7rem;
     width:100%;
     max-width: width 1920px;
@@ -11,12 +12,15 @@ a img:hover{
     -ms-transform:scale(1.15);
     -o-transform:scale(1.15);
     transform:scale(1.15);
+    transition: all 300ms;
+    cursor: pointer;
 }
 
-img{
+a img{
     margin-top: 25px;
     width: 60%;
     height: 60%;
+    transition: all 300ms;
 }
 
 @media (max-width: 767px) { 
