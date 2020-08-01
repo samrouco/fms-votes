@@ -29,8 +29,8 @@ export class PatronNumberDirective {
       }
     }
 
-    //delete o backspace
-    if (event.keyCode == 46 || event.keyCode == 8) {
+    //delete o backspace o tab
+    if (event.keyCode == 46 || event.keyCode == 8 || event.keyCode == 9) {
       var htmlElement = document.getElementById(document.activeElement.id) as HTMLInputElement;
       if (htmlElement != undefined && htmlElement.value.endsWith(",5")) {
         htmlElement.value = "";

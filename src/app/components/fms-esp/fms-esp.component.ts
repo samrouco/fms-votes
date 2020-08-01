@@ -13,44 +13,58 @@ export class FmsEspComponent implements OnInit {
   ngOnInit() {
   }
 
-  irblon(){
+  irblon() {
+    this.playAudio("blon", 3)
     this.router.navigate(['/Blon'])
   }
 
-  irgazir(){
+  irgazir() {
     this.router.navigate(['/Gazir'])
   }
 
-  irkhan(){
+  irkhan() {
     this.router.navigate(['/Khan'])
   }
 
-  irmnak(){
+  irmnak() {
     this.router.navigate(['/Mnak'])
   }
 
-  irmrego(){
+  irmrego() {
     this.router.navigate(['/Mrego'])
   }
 
-  irerrece(){
+  irerrece() {
     this.router.navigate(['/Errece'])
   }
 
-  irtirpa(){
+  irtirpa() {
     this.router.navigate(['/Tirpa'])
   }
 
-  irbnet(){
+  irbnet() {
+    this.playAudio("bnet", 1)
     this.router.navigate(['/Bnet'])
   }
 
-  irzasko(){
+  irzasko() {
     this.router.navigate(['/Zasko'])
   }
 
-  irsweetpain(){
+  irsweetpain() {
     this.router.navigate(['/Sweetpain'])
+  }
+
+  playAudio(mcName: string, numeroRimas: number): void{
+    let audio = new Audio();
+    audio.src = "../../../assets/sounds/spain/"+ mcName + "/" + mcName + "_intro" + this.getRandom(numeroRimas) + ".mp3";
+    audio.load();
+    audio.play();
+  }
+
+  getRandom(max: number){
+    var value = parseInt(((Math.random() * 100) % max).toString());
+    return value + 1;
   }
 
 }
