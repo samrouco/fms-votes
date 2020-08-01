@@ -27,6 +27,7 @@ export class FmsEspComponent implements OnInit {
   }
 
   irmnak() {
+    this.playAudio("mnak", 3)
     this.router.navigate(['/Mnak'])
   }
 
