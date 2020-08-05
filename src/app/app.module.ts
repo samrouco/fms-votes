@@ -30,6 +30,28 @@ import { MnakComponent } from './components/mnak/mnak.component';
 import { ErreceComponent } from './components/errece/errece.component';
 import { BnetComponent } from './components/bnet/bnet.component';
 import { SweetpainComponent } from './components/sweetpain/sweetpain.component';
+import { FmsMexComponent } from './components/fms-mex/fms-mex.component';
+import { FmsPerComponent } from './components/fms-per/fms-per.component';
+import { LoboComponent } from './components/fms-mex/gallos/lobo/lobo.component';
+import { BoneComponent } from './components/fms-mex/gallos/bone/bone.component';
+import { JonybComponent } from './components/fms-mex/gallos/jonyb/jonyb.component';
+import { GarzaComponent } from './components/fms-mex/gallos/garza/garza.component';
+import { RcComponent } from './components/fms-mex/gallos/rc/rc.component';
+import { PotenciaComponent } from './components/fms-mex/gallos/potencia/potencia.component';
+import { YoikerComponent } from './components/fms-mex/gallos/yoiker/yoiker.component';
+import { ZticmaComponent } from './components/fms-mex/gallos/zticma/zticma.component';
+import { RapderComponent } from './components/fms-mex/gallos/rapder/rapder.component';
+import { SkiperComponent } from './components/fms-mex/gallos/skiper/skiper.component';
+import { JotaComponent } from './components/fms-per/gallos/jota/jota.component';
+import { SkillComponent } from './components/fms-per/gallos/skill/skill.component';
+import { JazeComponent } from './components/fms-per/gallos/jaze/jaze.component';
+import { LitzenComponent } from './components/fms-per/gallos/litzen/litzen.component';
+import { NekroosComponent } from './components/fms-per/gallos/nekroos/nekroos.component';
+import { NeweraComponent } from './components/fms-per/gallos/newera/newera.component';
+import { RamsetComponent } from './components/fms-per/gallos/ramset/ramset.component';
+import { StickComponent } from './components/fms-per/gallos/stick/stick.component';
+import { ChoqueComponent } from './components/fms-per/gallos/choque/choque.component';
+import { StrikeComponent } from './components/fms-per/gallos/strike/strike.component';
 
 
 @NgModule({
@@ -57,6 +79,28 @@ import { SweetpainComponent } from './components/sweetpain/sweetpain.component';
     ErreceComponent,
     BnetComponent,
     SweetpainComponent,
+    FmsMexComponent,
+    FmsPerComponent,
+    LoboComponent,
+    BoneComponent,
+    JonybComponent,
+    GarzaComponent,
+    RcComponent,
+    PotenciaComponent,
+    YoikerComponent,
+    ZticmaComponent,
+    RapderComponent,
+    SkiperComponent,
+    JotaComponent,
+    SkillComponent,
+    JazeComponent,
+    LitzenComponent,
+    NekroosComponent,
+    NeweraComponent,
+    RamsetComponent,
+    StickComponent,
+    ChoqueComponent,
+    StrikeComponent,
 
   ],
   imports: [

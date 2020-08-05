@@ -19,4 +19,12 @@ export class FmsSelectorComponent implements OnInit {
     this.router.navigate(['/FmsEsp'])
   }
 
+  irfmsmex(){
+    this.router.navigate(['/FmsMex'])
+  }
+
+  irfmsper(){
+    this.router.navigate(['/FmsPer'])
+  }
+
 }
