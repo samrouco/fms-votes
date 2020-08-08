@@ -2,6 +2,7 @@ import { Component, OnInit, Input, Directive } from '@angular/core';
 import { SharingService } from '../../services/SharingService';
 import { ScoreModel } from 'src/app/models/score-model';
 import { Router } from '@angular/router';
+import { EventEmitterService } from '../base/event-emmiter.service';
 
 @Component({
   selector: 'app-results',
@@ -17,7 +18,8 @@ export class ResultsComponent implements OnInit {
   @Input() twitterButton: string;
   constructor(
     private sharingService: SharingService,
-    private router: Router
+    private router: Router,
+    private eventEmiiter: EventEmitterService
   ) {
     this.scoreData = sharingService.getData();
     if (this.scoreData.Mc1.name === undefined || this.scoreData.Mc2.name === undefined) {
@@ -25,10 +27,7 @@ export class ResultsComponent implements OnInit {
     }
     this.scoreData.Mc1.calculateTotal();
     this.scoreData.Mc2.calculateTotal();
-
-
-
-
+    this.eventEmiiter.stopVideo();
   }
 
   getTwitterUrl(): void {

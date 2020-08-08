@@ -52,6 +52,7 @@ import { RamsetComponent } from './components/fms-per/gallos/ramset/ramset.compo
 import { StickComponent } from './components/fms-per/gallos/stick/stick.component';
 import { ChoqueComponent } from './components/fms-per/gallos/choque/choque.component';
 import { StrikeComponent } from './components/fms-per/gallos/strike/strike.component';
+import { EventEmitter } from '@angular/core';
 
 
 @NgModule({
@@ -111,7 +112,10 @@ import { StrikeComponent } from './components/fms-per/gallos/strike/strike.compo
     MatButtonModule,
     FormsModule
   ],
-  providers: [ SharingService ],
+  providers: [
+    SharingService,
+    EventEmitter
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

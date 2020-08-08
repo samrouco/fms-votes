@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { ScoreModel } from '../models/score-model';
 
+
 @Injectable()
 export class SharingService {
   private data: ScoreModel = undefined;

@@ -27,6 +27,8 @@ export class BlonComponent implements OnInit {
     this.scoreData.Mc1 = new McModel();
     this.scoreData.Mc2 = new McModel();
 
+    this.scoreData.videoURL = "lc5-dUqm7j4";
+
     this.scoreData.Mc1.name = "Sweet Pain";
     this.scoreData.Mc2.name = "Blon";
     this.sharingService.setData(this.scoreData);
