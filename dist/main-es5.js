@@ -51,7 +51,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<router-outlet></router-outlet>\r\n";
+    __webpack_exports__["default"] = "<div id=\"player\"></div>\r\n\r\n<router-outlet></router-outlet>\r\n";
     /***/
   },
 
@@ -211,7 +211,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a (click)=\"irblon()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_blon1.png\"></a>\n        <a (click)=\"irgazir()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_gazir.png\" alt=\"\"></a>\n        <a (click)=\"irkhan()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_khan.png\" alt=\"\"></a>\n        <a (click)=\"irmnak()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_mnak.png\" alt=\"\"></a>\n        <a (click)=\"irmrego()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_mrego.png\" alt=\"\"></a>\n        <a (click)=\"irerrece()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_errece.png\" alt=\"\"></a>\n        <a (click)=\"irtirpa()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_tirpa.png\" alt=\"\"></a>\n        <a (click)=\"irbnet()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_bnet.png\" alt=\"\"></a>\n        <a (click)=\"irzasko()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_zasko1.png\" alt=\"\"></a>\n        <a (click)=\"irsweetpain()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_sweetpain.png\" alt=\"\"></a>\n    </div>\n</div>\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"irblon()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_blon1.png\"></a>\r\n        <a (click)=\"irgazir()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_gazir.png\" alt=\"\"></a>\r\n        <a (click)=\"irkhan()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_khan.png\" alt=\"\"></a>\r\n        <a (click)=\"irmnak()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_mnak.png\" alt=\"\"></a>\r\n        <a (click)=\"irmrego()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_mrego.png\" alt=\"\"></a>\r\n        <a (click)=\"irerrece()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_errece.png\" alt=\"\"></a>\r\n        <a (click)=\"irtirpa()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_tirpa.png\" alt=\"\"></a>\r\n        <a (click)=\"irbnet()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_bnet.png\" alt=\"\"></a>\r\n        <a (click)=\"irzasko()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_zasko1.png\" alt=\"\"></a>\r\n        <a (click)=\"irsweetpain()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_sweetpain.png\" alt=\"\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -231,7 +231,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a (click)=\"irlobo()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_lobo.png\"></a>\n        <a (click)=\"irbone()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_bone.png\" alt=\"\"></a>\n        <a (click)=\"irjonyb()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_jonyb.png\" alt=\"\"></a>\n        <a (click)=\"irgarza()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_garza.png\" alt=\"\"></a>\n        <a (click)=\"irrc()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_rc.png\" alt=\"\"></a>\n        <a (click)=\"irpotencia()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_potencia.png\" alt=\"\"></a>\n        <a (click)=\"iryoiker()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_yoiker.png\" alt=\"\"></a>\n        <a (click)=\"irzticma()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_zticma.png\" alt=\"\"></a>\n        <a (click)=\"irrapder()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_rapder.png\" alt=\"\"></a>\n        <a (click)=\"irskiper()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_skiper.png\" alt=\"\"></a>\n    </div>\n</div>\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"irlobo()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_lobo.png\"></a>\r\n        <a (click)=\"irbone()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_bone.png\" alt=\"\"></a>\r\n        <a (click)=\"irjonyb()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_jonyb.png\" alt=\"\"></a>\r\n        <a (click)=\"irgarza()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_garza.png\" alt=\"\"></a>\r\n        <a (click)=\"irrc()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_rc.png\" alt=\"\"></a>\r\n        <a (click)=\"irpotencia()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_potencia.png\" alt=\"\"></a>\r\n        <a (click)=\"iryoiker()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_yoiker.png\" alt=\"\"></a>\r\n        <a (click)=\"irzticma()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_zticma.png\" alt=\"\"></a>\r\n        <a (click)=\"irrapder()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_rapder.png\" alt=\"\"></a>\r\n        <a (click)=\"irskiper()\"><img src=\"../../../assets/images/marcos_mc/mex/tarj_skiper.png\" alt=\"\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -251,7 +251,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/bone_jonyb.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\n    </div>\n</div>\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/bone_jonyb.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -271,7 +271,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/garza_lobo.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\n    </div>\n</div>\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/garza_lobo.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -291,7 +291,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/bone_jonyb.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\n    </div>\n</div>\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/bone_jonyb.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -311,7 +311,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/garza_lobo.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\n    </div>\n</div>\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/garza_lobo.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -331,7 +331,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/potencia_rc.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\n    </div>\n</div>\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/potencia_rc.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -351,7 +351,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/rapder_skiper.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\n    </div>\n</div>\n\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/rapder_skiper.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -371,7 +371,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/potencia_rc.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\n    </div>\n</div>\n\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/potencia_rc.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -391,7 +391,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/rapder_skiper.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\n    </div>\n</div>\n\n\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/rapder_skiper.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
     /***/
   },
 
@@ -411,7 +411,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/zticma_yoiker.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\n    </div>\n</div>\n\n\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/zticma_yoiker.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
     /***/
   },
 
@@ -431,7 +431,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/zticma_yoiker.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\n    </div>\n</div>\n\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/zticma_yoiker.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -451,7 +451,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a (click)=\"irjota()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_jota.png\"></a>\n        <a (click)=\"irskill()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_skill.png\" alt=\"\"></a>\n        <a (click)=\"irjaze()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_jaze.png\" alt=\"\"></a>\n        <a (click)=\"irlitzen()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_litzen.png\" alt=\"\"></a>\n        <a (click)=\"irnekroos()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_nekroos.png\" alt=\"\"></a>\n        <a (click)=\"irnewera()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_newera.png\" alt=\"\"></a>\n        <a (click)=\"irramset()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_ramset.png\" alt=\"\"></a>\n        <a (click)=\"irstick()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_stick.png\" alt=\"\"></a>\n        <a (click)=\"irchoque()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_choque.png\" alt=\"\"></a>\n        <a (click)=\"irstrike()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_strike.png\" alt=\"\"></a>\n    </div>\n</div>";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"irjota()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_jota.png\"></a>\r\n        <a (click)=\"irskill()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_skill.png\" alt=\"\"></a>\r\n        <a (click)=\"irjaze()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_jaze.png\" alt=\"\"></a>\r\n        <a (click)=\"irlitzen()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_litzen.png\" alt=\"\"></a>\r\n        <a (click)=\"irnekroos()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_nekroos.png\" alt=\"\"></a>\r\n        <a (click)=\"irnewera()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_newera.png\" alt=\"\"></a>\r\n        <a (click)=\"irramset()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_ramset.png\" alt=\"\"></a>\r\n        <a (click)=\"irstick()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_stick.png\" alt=\"\"></a>\r\n        <a (click)=\"irchoque()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_choque.png\" alt=\"\"></a>\r\n        <a (click)=\"irstrike()\"><img src=\"../../../assets/images/marcos_mc/per/tarj_strike.png\" alt=\"\"></a>\r\n    </div>\r\n</div>";
     /***/
   },
 
@@ -471,7 +471,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/choque_skill.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/choque_skill.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -491,7 +491,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/jota_jaze.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/jota_jaze.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -511,7 +511,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/jota_jaze.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/jota_jaze.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -531,7 +531,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/strike_litzen.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/strike_litzen.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -551,7 +551,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/newera_nekroos.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/newera_nekroos.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -571,7 +571,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/newera_nekroos.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/newera_nekroos.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -591,7 +591,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/Proximamente/Batalla aplazada.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/Proximamente/Batalla aplazada.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -611,7 +611,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/choque_skill.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/choque_skill.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -631,7 +631,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/Proximamente/Batalla aplazada.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/Proximamente/Batalla aplazada.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -651,7 +651,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/strike_litzen.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/strike_litzen.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -691,7 +691,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../assets/images/batallas_esp/gazir_zasko.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"goToZaskoVsGazir()\"><img src=\"../../../assets/images/batallas_esp/gazir_zasko.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -1901,7 +1901,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2FwcC5jb21wb25lbnQuc2NzcyJ9 */";
+    __webpack_exports__["default"] = "#player {\n  width: 100%;\n  height: auto;\n  text-align: center;\n}\n\niframe {\n  width: 800px;\n  height: 400px;\n  border: 3px solid #1F5A2E;\n  border-radius: 20px;\n  box-shadow: 0px 0px 10px 3px #1F5A2E;\n}\n\n@media (max-width: 767px) {\n  iframe {\n    width: 400px;\n    height: 200px;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvQzpcXFVzZXJzXFxJYWdvXFxEb2N1bWVudHNcXGZtcy12b3Rlcy9zcmNcXGFwcFxcYXBwLmNvbXBvbmVudC5zY3NzIiwic3JjL2FwcC9hcHAuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQ0E7RUFDSSxXQUFBO0VBQ0EsWUFBQTtFQUNBLGtCQUFBO0FDQUo7O0FER0E7RUFDSSxZQUFBO0VBQ0EsYUFBQTtFQUNBLHlCQUFBO0VBQ0EsbUJBQUE7RUFDQSxvQ0FBQTtBQ0FKOztBREdBO0VBQ0k7SUFDSSxZQUFBO0lBQ0EsYUFBQTtFQ0FOO0FBQ0YiLCJmaWxlIjoic3JjL2FwcC9hcHAuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJcclxuI3BsYXllciB7XHJcbiAgICB3aWR0aDogMTAwJTtcclxuICAgIGhlaWdodDogYXV0bztcclxuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcclxufVxyXG5cclxuaWZyYW1le1xyXG4gICAgd2lkdGg6IDgwMHB4O1xyXG4gICAgaGVpZ2h0OiA0MDBweDtcclxuICAgIGJvcmRlcjogM3B4IHNvbGlkICMxRjVBMkU7XHJcbiAgICBib3JkZXItcmFkaXVzOiAyMHB4O1xyXG4gICAgYm94LXNoYWRvdzogMHB4IDBweCAxMHB4IDNweCAjMUY1QTJFO1xyXG59XHJcblxyXG5AbWVkaWEgKG1heC13aWR0aDogIDc2N3B4KXtcclxuICAgIGlmcmFtZXtcclxuICAgICAgICB3aWR0aDogNDAwcHg7XHJcbiAgICAgICAgaGVpZ2h0OiAyMDBweDtcclxuICAgIH1cclxufSIsIiNwbGF5ZXIge1xuICB3aWR0aDogMTAwJTtcbiAgaGVpZ2h0OiBhdXRvO1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbmlmcmFtZSB7XG4gIHdpZHRoOiA4MDBweDtcbiAgaGVpZ2h0OiA0MDBweDtcbiAgYm9yZGVyOiAzcHggc29saWQgIzFGNUEyRTtcbiAgYm9yZGVyLXJhZGl1czogMjBweDtcbiAgYm94LXNoYWRvdzogMHB4IDBweCAxMHB4IDNweCAjMUY1QTJFO1xufVxuXG5AbWVkaWEgKG1heC13aWR0aDogNzY3cHgpIHtcbiAgaWZyYW1lIHtcbiAgICB3aWR0aDogNDAwcHg7XG4gICAgaGVpZ2h0OiAyMDBweDtcbiAgfVxufSJdfQ== */";
     /***/
   },
 
@@ -1936,11 +1936,176 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var AppComponent = function AppComponent() {
-      _classCallCheck(this, AppComponent);
 
-      this.title = 'FMS-Votes';
+    var _components_base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ./components/base/event-emmiter.service */
+    "./src/app/components/base/event-emmiter.service.ts");
+
+    var AppComponent = /*#__PURE__*/function () {
+      function AppComponent(eventEmitterService) {
+        _classCallCheck(this, AppComponent);
+
+        this.eventEmitterService = eventEmitterService;
+        this.reframed = false;
+        this.isRestricted = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+        this.title = 'FMS-Votes';
+      }
+      /* 2. Initialize method for YT IFrame API */
+
+
+      _createClass(AppComponent, [{
+        key: "init",
+        value: function init() {
+          var _this = this;
+
+          // Return if Player is already created
+          if (window['YT']) {
+            this.startVideo();
+            return;
+          }
+
+          var tag = document.createElement('script');
+          tag.src = 'https://www.youtube.com/iframe_api';
+          var firstScriptTag = document.getElementsByTagName('script')[0];
+          firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+          /* 3. startVideo() will create an <iframe> (and YouTube player) after the API code downloads. */
+
+          window['onYouTubeIframeAPIReady'] = function () {
+            return _this.startVideo();
+          };
+        }
+      }, {
+        key: "ngOnInit",
+        value: function ngOnInit() {
+          var _this2 = this;
+
+          if (this.eventEmitterService.loadVideoSubscription == undefined) {
+            this.eventEmitterService.loadVideoSubscription = this.eventEmitterService.loadYTvideo.subscribe(function (videoId) {
+              _this2.video = videoId;
+
+              _this2.init();
+            });
+          }
+
+          if (this.eventEmitterService.stopVideoSubscription == undefined) {
+            this.eventEmitterService.stopVideoSubscription = this.eventEmitterService.stopYTvideo.subscribe(function () {
+              _this2.stopYTVideo();
+            });
+          }
+        }
+      }, {
+        key: "stopYTVideo",
+        value: function stopYTVideo() {
+          if (this.player !== undefined) {
+            this.player.stopVideo();
+          }
+        }
+      }, {
+        key: "stopVid",
+        value: function stopVid() {
+          this.player.stopVideo();
+        }
+      }, {
+        key: "startVideo",
+        value: function startVideo() {
+          this.reframed = false;
+          this.player = new window['YT'].Player('player', {
+            videoId: this.video,
+            playerVars: {
+              autoplay: 1,
+              modestbranding: 1,
+              controls: 1,
+              disablekb: 1,
+              rel: 0,
+              showinfo: 0,
+              fs: 0,
+              playsinline: 1
+            },
+            events: {
+              'onStateChange': this.onPlayerStateChange.bind(this),
+              'onError': this.onPlayerError.bind(this),
+              'onReady': this.onPlayerReady.bind(this)
+            }
+          });
+        }
+        /* 4. It will be called when the Video Player is ready */
+
+      }, {
+        key: "onPlayerReady",
+        value: function onPlayerReady(event) {
+          if (this.isRestricted) {
+            event.target.mute();
+            event.target.playVideo();
+          } else {
+            event.target.playVideo();
+          }
+        }
+        /* 5. API will call this function when Player State changes like PLAYING, PAUSED, ENDED */
+
+      }, {
+        key: "onPlayerStateChange",
+        value: function onPlayerStateChange(event) {
+          console.log(event);
+
+          switch (event.data) {
+            case window['YT'].PlayerState.PLAYING:
+              if (this.cleanTime() == 0) {
+                console.log('started ' + this.cleanTime());
+              } else {
+                console.log('playing ' + this.cleanTime());
+              }
+
+              ;
+              break;
+
+            case window['YT'].PlayerState.PAUSED:
+              if (this.player.getDuration() - this.player.getCurrentTime() != 0) {
+                console.log('paused' + ' @ ' + this.cleanTime());
+              }
+
+              ;
+              break;
+
+            case window['YT'].PlayerState.ENDED:
+              console.log('ended ');
+              break;
+          }
+
+          ;
+        }
+      }, {
+        key: "cleanTime",
+        value: function cleanTime() {
+          return Math.round(this.player.getCurrentTime());
+        }
+      }, {
+        key: "onPlayerError",
+        value: function onPlayerError(event) {
+          switch (event.data) {
+            case 2:
+              console.log('' + this.video);
+              break;
+
+            case 100:
+              break;
+
+            case 101 || false:
+              break;
+          }
+
+          ;
+        }
+      }]);
+
+      return AppComponent;
+    }();
+
+    AppComponent.ctorParameters = function () {
+      return [{
+        type: _components_base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_2__["EventEmitterService"]
+      }];
     };
 
     AppComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
@@ -2306,9 +2471,70 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     AppModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_2__["NgModule"])({
       declarations: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"], _components_mc_selector_mc_selector_component__WEBPACK_IMPORTED_MODULE_5__["McSelectorComponent"], _components_easy_easy_component__WEBPACK_IMPORTED_MODULE_11__["EasyComponent"], _components_base_patron_number_directive__WEBPACK_IMPORTED_MODULE_12__["PatronNumberDirective"], _components_base_extra_score_directive__WEBPACK_IMPORTED_MODULE_13__["ExtraScoreNumberDirective"], _components_hard_hard_component__WEBPACK_IMPORTED_MODULE_14__["HardComponent"], _components_thematic_thematic_component__WEBPACK_IMPORTED_MODULE_15__["ThematicComponent"], _components_blood_blood_component__WEBPACK_IMPORTED_MODULE_16__["BloodComponent"], _components_characters_characters_component__WEBPACK_IMPORTED_MODULE_17__["CharactersComponent"], _components_deluxe_deluxe_component__WEBPACK_IMPORTED_MODULE_18__["DeluxeComponent"], _components_results_results_component__WEBPACK_IMPORTED_MODULE_19__["ResultsComponent"], _components_fms_selector_fms_selector_component__WEBPACK_IMPORTED_MODULE_20__["FmsSelectorComponent"], _components_fms_esp_fms_esp_component__WEBPACK_IMPORTED_MODULE_21__["FmsEspComponent"], _components_blon_blon_component__WEBPACK_IMPORTED_MODULE_22__["BlonComponent"], _components_khan_khan_component__WEBPACK_IMPORTED_MODULE_23__["KhanComponent"], _components_mrego_mrego_component__WEBPACK_IMPORTED_MODULE_24__["MregoComponent"], _components_tirpa_tirpa_component__WEBPACK_IMPORTED_MODULE_25__["TirpaComponent"], _components_zasko_zasko_component__WEBPACK_IMPORTED_MODULE_26__["ZaskoComponent"], _components_gazir_gazir_component__WEBPACK_IMPORTED_MODULE_27__["GazirComponent"], _components_mnak_mnak_component__WEBPACK_IMPORTED_MODULE_28__["MnakComponent"], _components_errece_errece_component__WEBPACK_IMPORTED_MODULE_29__["ErreceComponent"], _components_bnet_bnet_component__WEBPACK_IMPORTED_MODULE_30__["BnetComponent"], _components_sweetpain_sweetpain_component__WEBPACK_IMPORTED_MODULE_31__["SweetpainComponent"], _components_fms_mex_fms_mex_component__WEBPACK_IMPORTED_MODULE_32__["FmsMexComponent"], _components_fms_per_fms_per_component__WEBPACK_IMPORTED_MODULE_33__["FmsPerComponent"], _components_fms_mex_gallos_lobo_lobo_component__WEBPACK_IMPORTED_MODULE_34__["LoboComponent"], _components_fms_mex_gallos_bone_bone_component__WEBPACK_IMPORTED_MODULE_35__["BoneComponent"], _components_fms_mex_gallos_jonyb_jonyb_component__WEBPACK_IMPORTED_MODULE_36__["JonybComponent"], _components_fms_mex_gallos_garza_garza_component__WEBPACK_IMPORTED_MODULE_37__["GarzaComponent"], _components_fms_mex_gallos_rc_rc_component__WEBPACK_IMPORTED_MODULE_38__["RcComponent"], _components_fms_mex_gallos_potencia_potencia_component__WEBPACK_IMPORTED_MODULE_39__["PotenciaComponent"], _components_fms_mex_gallos_yoiker_yoiker_component__WEBPACK_IMPORTED_MODULE_40__["YoikerComponent"], _components_fms_mex_gallos_zticma_zticma_component__WEBPACK_IMPORTED_MODULE_41__["ZticmaComponent"], _components_fms_mex_gallos_rapder_rapder_component__WEBPACK_IMPORTED_MODULE_42__["RapderComponent"], _components_fms_mex_gallos_skiper_skiper_component__WEBPACK_IMPORTED_MODULE_43__["SkiperComponent"], _components_fms_per_gallos_jota_jota_component__WEBPACK_IMPORTED_MODULE_44__["JotaComponent"], _components_fms_per_gallos_skill_skill_component__WEBPACK_IMPORTED_MODULE_45__["SkillComponent"], _components_fms_per_gallos_jaze_jaze_component__WEBPACK_IMPORTED_MODULE_46__["JazeComponent"], _components_fms_per_gallos_litzen_litzen_component__WEBPACK_IMPORTED_MODULE_47__["LitzenComponent"], _components_fms_per_gallos_nekroos_nekroos_component__WEBPACK_IMPORTED_MODULE_48__["NekroosComponent"], _components_fms_per_gallos_newera_newera_component__WEBPACK_IMPORTED_MODULE_49__["NeweraComponent"], _components_fms_per_gallos_ramset_ramset_component__WEBPACK_IMPORTED_MODULE_50__["RamsetComponent"], _components_fms_per_gallos_stick_stick_component__WEBPACK_IMPORTED_MODULE_51__["StickComponent"], _components_fms_per_gallos_choque_choque_component__WEBPACK_IMPORTED_MODULE_52__["ChoqueComponent"], _components_fms_per_gallos_strike_strike_component__WEBPACK_IMPORTED_MODULE_53__["StrikeComponent"]],
       imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["BrowserModule"], _app_routing_module__WEBPACK_IMPORTED_MODULE_3__["AppRoutingModule"], _angular_platform_browser_animations__WEBPACK_IMPORTED_MODULE_6__["BrowserAnimationsModule"], _angular_material_input__WEBPACK_IMPORTED_MODULE_7__["MatInputModule"], _angular_material_button__WEBPACK_IMPORTED_MODULE_8__["MatButtonModule"], _angular_forms__WEBPACK_IMPORTED_MODULE_10__["FormsModule"]],
-      providers: [_services_SharingService__WEBPACK_IMPORTED_MODULE_9__["SharingService"]],
+      providers: [_services_SharingService__WEBPACK_IMPORTED_MODULE_9__["SharingService"], _angular_core__WEBPACK_IMPORTED_MODULE_2__["EventEmitter"]],
       bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"]]
     })], AppModule);
+    /***/
+  },
+
+  /***/
+  "./src/app/components/base/event-emmiter.service.ts":
+  /*!**********************************************************!*\
+    !*** ./src/app/components/base/event-emmiter.service.ts ***!
+    \**********************************************************/
+
+  /*! exports provided: EventEmitterService */
+
+  /***/
+  function srcAppComponentsBaseEventEmmiterServiceTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "EventEmitterService", function () {
+      return EventEmitterService;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+
+    var EventEmitterService = /*#__PURE__*/function () {
+      function EventEmitterService() {
+        _classCallCheck(this, EventEmitterService);
+
+        this.loadYTvideo = new _angular_core__WEBPACK_IMPORTED_MODULE_1__["EventEmitter"]();
+        this.stopYTvideo = new _angular_core__WEBPACK_IMPORTED_MODULE_1__["EventEmitter"]();
+      }
+
+      _createClass(EventEmitterService, [{
+        key: "loadVideo",
+        value: function loadVideo(videoId) {
+          this.loadYTvideo.emit(videoId);
+        }
+      }, {
+        key: "stopVideo",
+        value: function stopVideo() {
+          this.stopYTvideo.emit();
+        }
+      }]);
+
+      return EventEmitterService;
+    }();
+
+    EventEmitterService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
+      providedIn: 'root'
+    })], EventEmitterService);
     /***/
   },
 
@@ -2562,6 +2788,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         value: function goToSPvsBlon() {
           this.scoreData.Mc1 = new src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__["McModel"]();
           this.scoreData.Mc2 = new src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__["McModel"]();
+          this.scoreData.videoURL = "lc5-dUqm7j4";
           this.scoreData.Mc1.name = "Sweet Pain";
           this.scoreData.Mc2.name = "Blon";
           this.sharingService.setData(this.scoreData);
@@ -2609,7 +2836,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 35%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.thematic {\n  margin-left: auto;\n  margin-right: auto;\n  display: inline-block;\n  align-items: center;\n  text-align: center;\n}\n\n/*.firstThematic {\n  margin-left: -20px;\n\n}\n*/\n\n.secondThematic {\n  margin-left: 150px;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9ibG9vZC9DOlxcVXNlcnNcXElhZ29cXERvY3VtZW50c1xcZm1zLXZvdGVzL3NyY1xcYXBwXFxjb21wb25lbnRzXFxibG9vZFxcYmxvb2QuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvYmxvb2QvYmxvb2QuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxlQUFBO0VBQ0EsaUJBQUE7RUFDQSxrQkFBQTtBQ0NGOztBREVBO0VBQ0UsaUJBQUE7RUFDQSxrQkFBQTtFQUNBLHFCQUFBO0VBQ0EsbUJBQUE7RUFDQSxrQkFBQTtBQ0NGOztBREVBOzs7O0NBQUE7O0FBS0E7RUFDRSxrQkFBQTtBQ0NGOztBREVBO0VBQ0Usa0JBQUE7QUNDRjs7QURFQTtFQUNFLHlCQUFBO0FDQ0YiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2Jsb29kL2Jsb29kLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLnNjb3JlVGFibGV7XHJcbiAgbWFyZ2luLXRvcDogMzUlO1xyXG4gIG1hcmdpbi1sZWZ0OiBhdXRvO1xyXG4gIG1hcmdpbi1yaWdodDogYXV0bztcclxufVxyXG5cclxuLnRoZW1hdGljIHtcclxuICBtYXJnaW4tbGVmdDogYXV0bztcclxuICBtYXJnaW4tcmlnaHQ6IGF1dG87XHJcbiAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xyXG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59XHJcblxyXG4vKi5maXJzdFRoZW1hdGljIHtcclxuICBtYXJnaW4tbGVmdDogLTIwcHg7XHJcblxyXG59XHJcbiovXHJcbi5zZWNvbmRUaGVtYXRpYyB7XHJcbiAgbWFyZ2luLWxlZnQ6IDE1MHB4O1xyXG59XHJcblxyXG4uc2NvcmVJbnB1dCB7XHJcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59XHJcblxyXG4ubWMge1xyXG4gIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XHJcbn1cclxuIiwiLnNjb3JlVGFibGUge1xuICBtYXJnaW4tdG9wOiAzNSU7XG4gIG1hcmdpbi1sZWZ0OiBhdXRvO1xuICBtYXJnaW4tcmlnaHQ6IGF1dG87XG59XG5cbi50aGVtYXRpYyB7XG4gIG1hcmdpbi1sZWZ0OiBhdXRvO1xuICBtYXJnaW4tcmlnaHQ6IGF1dG87XG4gIGRpc3BsYXk6IGlubGluZS1ibG9jaztcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuXG4vKi5maXJzdFRoZW1hdGljIHtcbiAgbWFyZ2luLWxlZnQ6IC0yMHB4O1xuXG59XG4qL1xuLnNlY29uZFRoZW1hdGljIHtcbiAgbWFyZ2luLWxlZnQ6IDE1MHB4O1xufVxuXG4uc2NvcmVJbnB1dCB7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLm1jIHtcbiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcbn0iXX0= */";
+    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 20%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.thematic {\n  margin-left: auto;\n  margin-right: auto;\n  display: inline-block;\n  align-items: center;\n  text-align: center;\n}\n\n/*.firstThematic {\n  margin-left: -20px;\n\n}\n*/\n\n.secondThematic {\n  margin-left: 150px;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9ibG9vZC9DOlxcVXNlcnNcXElhZ29cXERvY3VtZW50c1xcZm1zLXZvdGVzL3NyY1xcYXBwXFxjb21wb25lbnRzXFxibG9vZFxcYmxvb2QuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvYmxvb2QvYmxvb2QuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxlQUFBO0VBQ0EsaUJBQUE7RUFDQSxrQkFBQTtBQ0NGOztBREVBO0VBQ0UsaUJBQUE7RUFDQSxrQkFBQTtFQUNBLHFCQUFBO0VBQ0EsbUJBQUE7RUFDQSxrQkFBQTtBQ0NGOztBREVBOzs7O0NBQUE7O0FBS0E7RUFDRSxrQkFBQTtBQ0NGOztBREVBO0VBQ0Usa0JBQUE7QUNDRjs7QURFQTtFQUNFLHlCQUFBO0FDQ0YiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2Jsb29kL2Jsb29kLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLnNjb3JlVGFibGV7XHJcbiAgbWFyZ2luLXRvcDogMjAlO1xyXG4gIG1hcmdpbi1sZWZ0OiBhdXRvO1xyXG4gIG1hcmdpbi1yaWdodDogYXV0bztcclxufVxyXG5cclxuLnRoZW1hdGljIHtcclxuICBtYXJnaW4tbGVmdDogYXV0bztcclxuICBtYXJnaW4tcmlnaHQ6IGF1dG87XHJcbiAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xyXG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59XHJcblxyXG4vKi5maXJzdFRoZW1hdGljIHtcclxuICBtYXJnaW4tbGVmdDogLTIwcHg7XHJcblxyXG59XHJcbiovXHJcbi5zZWNvbmRUaGVtYXRpYyB7XHJcbiAgbWFyZ2luLWxlZnQ6IDE1MHB4O1xyXG59XHJcblxyXG4uc2NvcmVJbnB1dCB7XHJcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59XHJcblxyXG4ubWMge1xyXG4gIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XHJcbn1cclxuIiwiLnNjb3JlVGFibGUge1xuICBtYXJnaW4tdG9wOiAyMCU7XG4gIG1hcmdpbi1sZWZ0OiBhdXRvO1xuICBtYXJnaW4tcmlnaHQ6IGF1dG87XG59XG5cbi50aGVtYXRpYyB7XG4gIG1hcmdpbi1sZWZ0OiBhdXRvO1xuICBtYXJnaW4tcmlnaHQ6IGF1dG87XG4gIGRpc3BsYXk6IGlubGluZS1ibG9jaztcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuXG4vKi5maXJzdFRoZW1hdGljIHtcbiAgbWFyZ2luLWxlZnQ6IC0yMHB4O1xuXG59XG4qL1xuLnNlY29uZFRoZW1hdGljIHtcbiAgbWFyZ2luLWxlZnQ6IDE1MHB4O1xufVxuXG4uc2NvcmVJbnB1dCB7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLm1jIHtcbiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcbn0iXX0= */";
     /***/
   },
 
@@ -2797,7 +3024,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 35%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9jaGFyYWN0ZXJzL0M6XFxVc2Vyc1xcSWFnb1xcRG9jdW1lbnRzXFxmbXMtdm90ZXMvc3JjXFxhcHBcXGNvbXBvbmVudHNcXGNoYXJhY3RlcnNcXGNoYXJhY3RlcnMuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvY2hhcmFjdGVycy9jaGFyYWN0ZXJzLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksZUFBQTtFQUNBLGlCQUFBO0VBQ0Esa0JBQUE7QUNDSjs7QURFQTtFQUNJLGtCQUFBO0FDQ0o7O0FERUE7RUFDSSx5QkFBQTtBQ0NKIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50cy9jaGFyYWN0ZXJzL2NoYXJhY3RlcnMuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuc2NvcmVUYWJsZXtcclxuICAgIG1hcmdpbi10b3A6IDM1JTtcclxuICAgIG1hcmdpbi1sZWZ0OiBhdXRvO1xyXG4gICAgbWFyZ2luLXJpZ2h0OiBhdXRvO1xyXG59XHJcblxyXG4uc2NvcmVJbnB1dCB7XHJcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbn1cclxuXHJcbi5tYyB7XHJcbiAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xyXG59IiwiLnNjb3JlVGFibGUge1xuICBtYXJnaW4tdG9wOiAzNSU7XG4gIG1hcmdpbi1sZWZ0OiBhdXRvO1xuICBtYXJnaW4tcmlnaHQ6IGF1dG87XG59XG5cbi5zY29yZUlucHV0IHtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuXG4ubWMge1xuICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xufSJdfQ== */";
+    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 20%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9jaGFyYWN0ZXJzL0M6XFxVc2Vyc1xcSWFnb1xcRG9jdW1lbnRzXFxmbXMtdm90ZXMvc3JjXFxhcHBcXGNvbXBvbmVudHNcXGNoYXJhY3RlcnNcXGNoYXJhY3RlcnMuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvY2hhcmFjdGVycy9jaGFyYWN0ZXJzLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksZUFBQTtFQUNBLGlCQUFBO0VBQ0Esa0JBQUE7QUNDSjs7QURFQTtFQUNJLGtCQUFBO0FDQ0o7O0FERUE7RUFDSSx5QkFBQTtBQ0NKIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50cy9jaGFyYWN0ZXJzL2NoYXJhY3RlcnMuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuc2NvcmVUYWJsZXtcclxuICAgIG1hcmdpbi10b3A6IDIwJTtcclxuICAgIG1hcmdpbi1sZWZ0OiBhdXRvO1xyXG4gICAgbWFyZ2luLXJpZ2h0OiBhdXRvO1xyXG59XHJcblxyXG4uc2NvcmVJbnB1dCB7XHJcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbn1cclxuXHJcbi5tYyB7XHJcbiAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xyXG59XHJcbiIsIi5zY29yZVRhYmxlIHtcbiAgbWFyZ2luLXRvcDogMjAlO1xuICBtYXJnaW4tbGVmdDogYXV0bztcbiAgbWFyZ2luLXJpZ2h0OiBhdXRvO1xufVxuXG4uc2NvcmVJbnB1dCB7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLm1jIHtcbiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcbn0iXX0= */";
     /***/
   },
 
@@ -2908,7 +3135,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 35%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n\n.deluxe {\n  margin-left: 75%;\n  margin-right: 35%;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9kZWx1eGUvQzpcXFVzZXJzXFxJYWdvXFxEb2N1bWVudHNcXGZtcy12b3Rlcy9zcmNcXGFwcFxcY29tcG9uZW50c1xcZGVsdXhlXFxkZWx1eGUuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvZGVsdXhlL2RlbHV4ZS5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGVBQUE7RUFDQSxpQkFBQTtFQUNBLGtCQUFBO0FDQ0o7O0FERUE7RUFDSSxrQkFBQTtBQ0NKOztBREVBO0VBQ0kseUJBQUE7QUNDSjs7QURFQTtFQUNJLGdCQUFBO0VBQ0EsaUJBQUE7QUNDSiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvZGVsdXhlL2RlbHV4ZS5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5zY29yZVRhYmxle1xyXG4gICAgbWFyZ2luLXRvcDogMzUlO1xyXG4gICAgbWFyZ2luLWxlZnQ6IGF1dG87XHJcbiAgICBtYXJnaW4tcmlnaHQ6IGF1dG87XHJcbn1cclxuXHJcbi5zY29yZUlucHV0IHtcclxuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcclxufVxyXG5cclxuLm1jIHtcclxuICAgIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XHJcbn1cclxuXHJcbi5kZWx1eGUge1xyXG4gICAgbWFyZ2luLWxlZnQ6IDc1JTtcclxuICAgIG1hcmdpbi1yaWdodDogMzUlO1xyXG59IiwiLnNjb3JlVGFibGUge1xuICBtYXJnaW4tdG9wOiAzNSU7XG4gIG1hcmdpbi1sZWZ0OiBhdXRvO1xuICBtYXJnaW4tcmlnaHQ6IGF1dG87XG59XG5cbi5zY29yZUlucHV0IHtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuXG4ubWMge1xuICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xufVxuXG4uZGVsdXhlIHtcbiAgbWFyZ2luLWxlZnQ6IDc1JTtcbiAgbWFyZ2luLXJpZ2h0OiAzNSU7XG59Il19 */";
+    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 20%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n\n.deluxe {\n  margin-left: 75%;\n  margin-right: 35%;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9kZWx1eGUvQzpcXFVzZXJzXFxJYWdvXFxEb2N1bWVudHNcXGZtcy12b3Rlcy9zcmNcXGFwcFxcY29tcG9uZW50c1xcZGVsdXhlXFxkZWx1eGUuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvZGVsdXhlL2RlbHV4ZS5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGVBQUE7RUFDQSxpQkFBQTtFQUNBLGtCQUFBO0FDQ0o7O0FERUE7RUFDSSxrQkFBQTtBQ0NKOztBREVBO0VBQ0kseUJBQUE7QUNDSjs7QURFQTtFQUNJLGdCQUFBO0VBQ0EsaUJBQUE7QUNDSiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvZGVsdXhlL2RlbHV4ZS5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5zY29yZVRhYmxle1xyXG4gICAgbWFyZ2luLXRvcDogMjAlO1xyXG4gICAgbWFyZ2luLWxlZnQ6IGF1dG87XHJcbiAgICBtYXJnaW4tcmlnaHQ6IGF1dG87XHJcbn1cclxuXHJcbi5zY29yZUlucHV0IHtcclxuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcclxufVxyXG5cclxuLm1jIHtcclxuICAgIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XHJcbn1cclxuXHJcbi5kZWx1eGUge1xyXG4gICAgbWFyZ2luLWxlZnQ6IDc1JTtcclxuICAgIG1hcmdpbi1yaWdodDogMzUlO1xyXG59XHJcbiIsIi5zY29yZVRhYmxlIHtcbiAgbWFyZ2luLXRvcDogMjAlO1xuICBtYXJnaW4tbGVmdDogYXV0bztcbiAgbWFyZ2luLXJpZ2h0OiBhdXRvO1xufVxuXG4uc2NvcmVJbnB1dCB7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLm1jIHtcbiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcbn1cblxuLmRlbHV4ZSB7XG4gIG1hcmdpbi1sZWZ0OiA3NSU7XG4gIG1hcmdpbi1yaWdodDogMzUlO1xufSJdfQ== */";
     /***/
   },
 
@@ -3021,7 +3248,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 35%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n\n.mc1 {\n  width: 50%;\n}\n\n.mc2 {\n  width: 50%;\n}\n\n.mcselection {\n  width: 100%;\n}\n\n::ng-deep .mat-form-field-label {\n  /*change color of label*/\n  color: #eee !important;\n}\n\n::ng-deep .mat-focused .mat-form-field-label {\n  /*change color of label when focused*/\n  color: #1F5A2E !important;\n}\n\n::ng-deep .mat-form-field-underline {\n  /*change color of underline*/\n  background-color: #eee !important;\n}\n\n::ng-deep .mat-form-field-ripple {\n  /*change color of underline when focused*/\n  background-color: #1F5A2E !important;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9lYXN5L0M6XFxVc2Vyc1xcSWFnb1xcRG9jdW1lbnRzXFxmbXMtdm90ZXMvc3JjXFxhcHBcXGNvbXBvbmVudHNcXGVhc3lcXGVhc3kuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvZWFzeS9lYXN5LmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBO0VBQ0ksZUFBQTtFQUNBLGlCQUFBO0VBQ0Esa0JBQUE7QUNBSjs7QURHQTtFQUNJLGtCQUFBO0FDQUo7O0FER0E7RUFDSSx5QkFBQTtBQ0FKOztBREdBO0VBQ0UsVUFBQTtBQ0FGOztBREdBO0VBQ0UsVUFBQTtBQ0FGOztBREdBO0VBQ0ksV0FBQTtBQ0FKOztBREdFO0VBQ0Usd0JBQUE7RUFDQSxzQkFBQTtBQ0FKOztBREdFO0VBQ0UscUNBQUE7RUFDQSx5QkFBQTtBQ0FKOztBREdHO0VBQ0MsNEJBQUE7RUFDQSxpQ0FBQTtBQ0FKOztBREdFO0VBQ0MseUNBQUE7RUFDQSxvQ0FBQTtBQ0FIIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50cy9lYXN5L2Vhc3kuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJcclxuLnNjb3JlVGFibGV7XHJcbiAgICBtYXJnaW4tdG9wOiAzNSU7XHJcbiAgICBtYXJnaW4tbGVmdDogYXV0bztcclxuICAgIG1hcmdpbi1yaWdodDogYXV0bztcclxufVxyXG5cclxuLnNjb3JlSW5wdXQge1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59XHJcblxyXG4ubWMge1xyXG4gICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcclxufVxyXG5cclxuLm1jMSB7XHJcbiAgd2lkdGg6IDUwJTtcclxufVxyXG5cclxuLm1jMiB7XHJcbiAgd2lkdGg6IDUwJTtcclxufVxyXG5cclxuLm1jc2VsZWN0aW9uIHtcclxuICAgIHdpZHRoOiAxMDAlO1xyXG4gIH1cclxuXHJcbiAgOjpuZy1kZWVwIC5tYXQtZm9ybS1maWVsZC1sYWJlbCB7XHJcbiAgICAvKmNoYW5nZSBjb2xvciBvZiBsYWJlbCovXHJcbiAgICBjb2xvcjogI2VlZSAhaW1wb3J0YW50O1xyXG4gICB9XHJcblxyXG4gIDo6bmctZGVlcCAubWF0LWZvY3VzZWQgLm1hdC1mb3JtLWZpZWxkLWxhYmVsIHtcclxuICAgIC8qY2hhbmdlIGNvbG9yIG9mIGxhYmVsIHdoZW4gZm9jdXNlZCovXHJcbiAgICBjb2xvcjogICMxRjVBMkUgIWltcG9ydGFudDtcclxuICAgfVxyXG5cclxuICAgOjpuZy1kZWVwIC5tYXQtZm9ybS1maWVsZC11bmRlcmxpbmUge1xyXG4gICAgLypjaGFuZ2UgY29sb3Igb2YgdW5kZXJsaW5lKi9cclxuICAgIGJhY2tncm91bmQtY29sb3I6I2VlZSAhaW1wb3J0YW50O1xyXG4gIH1cclxuXHJcbiAgOjpuZy1kZWVwIC5tYXQtZm9ybS1maWVsZC1yaXBwbGUge1xyXG4gICAvKmNoYW5nZSBjb2xvciBvZiB1bmRlcmxpbmUgd2hlbiBmb2N1c2VkKi9cclxuICAgYmFja2dyb3VuZC1jb2xvcjogICMxRjVBMkUgIWltcG9ydGFudDtcclxuXHJcbiAgfVxyXG4iLCIuc2NvcmVUYWJsZSB7XG4gIG1hcmdpbi10b3A6IDM1JTtcbiAgbWFyZ2luLWxlZnQ6IGF1dG87XG4gIG1hcmdpbi1yaWdodDogYXV0bztcbn1cblxuLnNjb3JlSW5wdXQge1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbi5tYyB7XG4gIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XG59XG5cbi5tYzEge1xuICB3aWR0aDogNTAlO1xufVxuXG4ubWMyIHtcbiAgd2lkdGg6IDUwJTtcbn1cblxuLm1jc2VsZWN0aW9uIHtcbiAgd2lkdGg6IDEwMCU7XG59XG5cbjo6bmctZGVlcCAubWF0LWZvcm0tZmllbGQtbGFiZWwge1xuICAvKmNoYW5nZSBjb2xvciBvZiBsYWJlbCovXG4gIGNvbG9yOiAjZWVlICFpbXBvcnRhbnQ7XG59XG5cbjo6bmctZGVlcCAubWF0LWZvY3VzZWQgLm1hdC1mb3JtLWZpZWxkLWxhYmVsIHtcbiAgLypjaGFuZ2UgY29sb3Igb2YgbGFiZWwgd2hlbiBmb2N1c2VkKi9cbiAgY29sb3I6ICMxRjVBMkUgIWltcG9ydGFudDtcbn1cblxuOjpuZy1kZWVwIC5tYXQtZm9ybS1maWVsZC11bmRlcmxpbmUge1xuICAvKmNoYW5nZSBjb2xvciBvZiB1bmRlcmxpbmUqL1xuICBiYWNrZ3JvdW5kLWNvbG9yOiAjZWVlICFpbXBvcnRhbnQ7XG59XG5cbjo6bmctZGVlcCAubWF0LWZvcm0tZmllbGQtcmlwcGxlIHtcbiAgLypjaGFuZ2UgY29sb3Igb2YgdW5kZXJsaW5lIHdoZW4gZm9jdXNlZCovXG4gIGJhY2tncm91bmQtY29sb3I6ICMxRjVBMkUgIWltcG9ydGFudDtcbn0iXX0= */";
+    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 20%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n\n.mc1 {\n  width: 50%;\n}\n\n.mc2 {\n  width: 50%;\n}\n\n.mcselection {\n  width: 100%;\n}\n\n::ng-deep .mat-form-field-label {\n  /*change color of label*/\n  color: #eee !important;\n}\n\n::ng-deep .mat-focused .mat-form-field-label {\n  /*change color of label when focused*/\n  color: #1F5A2E !important;\n}\n\n::ng-deep .mat-form-field-underline {\n  /*change color of underline*/\n  background-color: #eee !important;\n}\n\n::ng-deep .mat-form-field-ripple {\n  /*change color of underline when focused*/\n  background-color: #1F5A2E !important;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9lYXN5L0M6XFxVc2Vyc1xcSWFnb1xcRG9jdW1lbnRzXFxmbXMtdm90ZXMvc3JjXFxhcHBcXGNvbXBvbmVudHNcXGVhc3lcXGVhc3kuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvZWFzeS9lYXN5LmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBO0VBQ0ksZUFBQTtFQUNBLGlCQUFBO0VBQ0Esa0JBQUE7QUNBSjs7QURHQTtFQUNJLGtCQUFBO0FDQUo7O0FER0E7RUFDSSx5QkFBQTtBQ0FKOztBREdBO0VBQ0UsVUFBQTtBQ0FGOztBREdBO0VBQ0UsVUFBQTtBQ0FGOztBREdBO0VBQ0ksV0FBQTtBQ0FKOztBREdFO0VBQ0Usd0JBQUE7RUFDQSxzQkFBQTtBQ0FKOztBREdFO0VBQ0UscUNBQUE7RUFDQSx5QkFBQTtBQ0FKOztBREdHO0VBQ0MsNEJBQUE7RUFDQSxpQ0FBQTtBQ0FKOztBREdFO0VBQ0MseUNBQUE7RUFDQSxvQ0FBQTtBQ0FIIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50cy9lYXN5L2Vhc3kuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJcclxuLnNjb3JlVGFibGV7XHJcbiAgICBtYXJnaW4tdG9wOiAyMCU7XHJcbiAgICBtYXJnaW4tbGVmdDogYXV0bztcclxuICAgIG1hcmdpbi1yaWdodDogYXV0bztcclxufVxyXG5cclxuLnNjb3JlSW5wdXQge1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59XHJcblxyXG4ubWMge1xyXG4gICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcclxufVxyXG5cclxuLm1jMSB7XHJcbiAgd2lkdGg6IDUwJTtcclxufVxyXG5cclxuLm1jMiB7XHJcbiAgd2lkdGg6IDUwJTtcclxufVxyXG5cclxuLm1jc2VsZWN0aW9uIHtcclxuICAgIHdpZHRoOiAxMDAlO1xyXG4gIH1cclxuXHJcbiAgOjpuZy1kZWVwIC5tYXQtZm9ybS1maWVsZC1sYWJlbCB7XHJcbiAgICAvKmNoYW5nZSBjb2xvciBvZiBsYWJlbCovXHJcbiAgICBjb2xvcjogI2VlZSAhaW1wb3J0YW50O1xyXG4gICB9XHJcblxyXG4gIDo6bmctZGVlcCAubWF0LWZvY3VzZWQgLm1hdC1mb3JtLWZpZWxkLWxhYmVsIHtcclxuICAgIC8qY2hhbmdlIGNvbG9yIG9mIGxhYmVsIHdoZW4gZm9jdXNlZCovXHJcbiAgICBjb2xvcjogICMxRjVBMkUgIWltcG9ydGFudDtcclxuICAgfVxyXG5cclxuICAgOjpuZy1kZWVwIC5tYXQtZm9ybS1maWVsZC11bmRlcmxpbmUge1xyXG4gICAgLypjaGFuZ2UgY29sb3Igb2YgdW5kZXJsaW5lKi9cclxuICAgIGJhY2tncm91bmQtY29sb3I6I2VlZSAhaW1wb3J0YW50O1xyXG4gIH1cclxuXHJcbiAgOjpuZy1kZWVwIC5tYXQtZm9ybS1maWVsZC1yaXBwbGUge1xyXG4gICAvKmNoYW5nZSBjb2xvciBvZiB1bmRlcmxpbmUgd2hlbiBmb2N1c2VkKi9cclxuICAgYmFja2dyb3VuZC1jb2xvcjogICMxRjVBMkUgIWltcG9ydGFudDtcclxuXHJcbiAgfVxyXG4iLCIuc2NvcmVUYWJsZSB7XG4gIG1hcmdpbi10b3A6IDIwJTtcbiAgbWFyZ2luLWxlZnQ6IGF1dG87XG4gIG1hcmdpbi1yaWdodDogYXV0bztcbn1cblxuLnNjb3JlSW5wdXQge1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbi5tYyB7XG4gIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XG59XG5cbi5tYzEge1xuICB3aWR0aDogNTAlO1xufVxuXG4ubWMyIHtcbiAgd2lkdGg6IDUwJTtcbn1cblxuLm1jc2VsZWN0aW9uIHtcbiAgd2lkdGg6IDEwMCU7XG59XG5cbjo6bmctZGVlcCAubWF0LWZvcm0tZmllbGQtbGFiZWwge1xuICAvKmNoYW5nZSBjb2xvciBvZiBsYWJlbCovXG4gIGNvbG9yOiAjZWVlICFpbXBvcnRhbnQ7XG59XG5cbjo6bmctZGVlcCAubWF0LWZvY3VzZWQgLm1hdC1mb3JtLWZpZWxkLWxhYmVsIHtcbiAgLypjaGFuZ2UgY29sb3Igb2YgbGFiZWwgd2hlbiBmb2N1c2VkKi9cbiAgY29sb3I6ICMxRjVBMkUgIWltcG9ydGFudDtcbn1cblxuOjpuZy1kZWVwIC5tYXQtZm9ybS1maWVsZC11bmRlcmxpbmUge1xuICAvKmNoYW5nZSBjb2xvciBvZiB1bmRlcmxpbmUqL1xuICBiYWNrZ3JvdW5kLWNvbG9yOiAjZWVlICFpbXBvcnRhbnQ7XG59XG5cbjo6bmctZGVlcCAubWF0LWZvcm0tZmllbGQtcmlwcGxlIHtcbiAgLypjaGFuZ2UgY29sb3Igb2YgdW5kZXJsaW5lIHdoZW4gZm9jdXNlZCovXG4gIGJhY2tncm91bmQtY29sb3I6ICMxRjVBMkUgIWltcG9ydGFudDtcbn0iXX0= */";
     /***/
   },
 
@@ -3068,17 +3295,27 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/router */
     "./node_modules/@angular/router/fesm2015/router.js");
+    /* harmony import */
+
+
+    var _base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
+    /*! ../base/event-emmiter.service */
+    "./src/app/components/base/event-emmiter.service.ts");
 
     var EasyComponent = /*#__PURE__*/function () {
-      function EasyComponent(sharingService, router) {
+      function EasyComponent(sharingService, router, eventEmitter) {
         _classCallCheck(this, EasyComponent);
 
         this.sharingService = sharingService;
         this.router = router;
+        this.eventEmitter = eventEmitter;
         this.scoreData = sharingService.getData();
 
         if (this.scoreData.Mc1.name === undefined || this.scoreData.Mc2.name === undefined) {
           this.router.navigate(['/McSelector']);
+        } else {
+          console.log("GOOO");
+          this.eventEmitter.loadVideo(this.scoreData.videoURL);
         }
       }
 
@@ -3102,6 +3339,8 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         type: _services_SharingService__WEBPACK_IMPORTED_MODULE_2__["SharingService"]
       }, {
         type: _angular_router__WEBPACK_IMPORTED_MODULE_3__["Router"]
+      }, {
+        type: _base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_4__["EventEmitterService"]
       }];
     };
 
@@ -5331,19 +5570,79 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
+
+
+    var src_app_services_SharingService__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/services/SharingService */
+    "./src/app/services/SharingService.ts");
+    /* harmony import */
+
+
+    var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
+    /*! @angular/router */
+    "./node_modules/@angular/router/fesm2015/router.js");
+    /* harmony import */
+
+
+    var src_app_models_score_model__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
+    /*! src/app/models/score-model */
+    "./src/app/models/score-model.ts");
+    /* harmony import */
+
+
+    var src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
+    /*! src/app/models/mc-model */
+    "./src/app/models/mc-model.ts");
+    /* harmony import */
+
+
+    var _base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
+    /*! ../base/event-emmiter.service */
+    "./src/app/components/base/event-emmiter.service.ts");
 
     var GazirComponent = /*#__PURE__*/function () {
-      function GazirComponent() {
+      function GazirComponent(sharingService, router, eventEmitterservice) {
         _classCallCheck(this, GazirComponent);
+
+        this.sharingService = sharingService;
+        this.router = router;
+        this.eventEmitterservice = eventEmitterservice;
+        this.scoreData = new src_app_models_score_model__WEBPACK_IMPORTED_MODULE_4__["ScoreModel"]();
       }
 
       _createClass(GazirComponent, [{
         key: "ngOnInit",
-        value: function ngOnInit() {}
+        value: function ngOnInit() {
+          console.log("gazir on init");
+          this.eventEmitterservice.stopVideo();
+        }
+      }, {
+        key: "goToZaskoVsGazir",
+        value: function goToZaskoVsGazir() {
+          this.scoreData.Mc1 = new src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__["McModel"]();
+          this.scoreData.Mc2 = new src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__["McModel"]();
+          this.scoreData.videoURL = "DrT-exaAbEk";
+          this.scoreData.Mc1.name = "Zasko";
+          this.scoreData.Mc2.name = "Gazir";
+          this.sharingService.setData(this.scoreData);
+          console.log("Vamos");
+          this.router.navigate(['/Easy']);
+        }
       }]);
 
       return GazirComponent;
     }();
+
+    GazirComponent.ctorParameters = function () {
+      return [{
+        type: src_app_services_SharingService__WEBPACK_IMPORTED_MODULE_2__["SharingService"]
+      }, {
+        type: _angular_router__WEBPACK_IMPORTED_MODULE_3__["Router"]
+      }, {
+        type: _base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_6__["EventEmitterService"]
+      }];
+    };
 
     GazirComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-gazir',
@@ -5373,7 +5672,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 35%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9oYXJkL0M6XFxVc2Vyc1xcSWFnb1xcRG9jdW1lbnRzXFxmbXMtdm90ZXMvc3JjXFxhcHBcXGNvbXBvbmVudHNcXGhhcmRcXGhhcmQuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvaGFyZC9oYXJkLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksZUFBQTtFQUNBLGlCQUFBO0VBQ0Esa0JBQUE7QUNDSjs7QURFQTtFQUNJLGtCQUFBO0FDQ0o7O0FERUE7RUFDSSx5QkFBQTtBQ0NKIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50cy9oYXJkL2hhcmQuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuc2NvcmVUYWJsZXtcclxuICAgIG1hcmdpbi10b3A6IDM1JTtcclxuICAgIG1hcmdpbi1sZWZ0OiBhdXRvO1xyXG4gICAgbWFyZ2luLXJpZ2h0OiBhdXRvO1xyXG59XHJcblxyXG4uc2NvcmVJbnB1dCB7XHJcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbn1cclxuXHJcbi5tYyB7XHJcbiAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xyXG59IiwiLnNjb3JlVGFibGUge1xuICBtYXJnaW4tdG9wOiAzNSU7XG4gIG1hcmdpbi1sZWZ0OiBhdXRvO1xuICBtYXJnaW4tcmlnaHQ6IGF1dG87XG59XG5cbi5zY29yZUlucHV0IHtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuXG4ubWMge1xuICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xufSJdfQ== */";
+    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 20%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9oYXJkL0M6XFxVc2Vyc1xcSWFnb1xcRG9jdW1lbnRzXFxmbXMtdm90ZXMvc3JjXFxhcHBcXGNvbXBvbmVudHNcXGhhcmRcXGhhcmQuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvaGFyZC9oYXJkLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksZUFBQTtFQUNBLGlCQUFBO0VBQ0Esa0JBQUE7QUNDSjs7QURFQTtFQUNJLGtCQUFBO0FDQ0o7O0FERUE7RUFDSSx5QkFBQTtBQ0NKIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50cy9oYXJkL2hhcmQuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuc2NvcmVUYWJsZXtcclxuICAgIG1hcmdpbi10b3A6IDIwJTtcclxuICAgIG1hcmdpbi1sZWZ0OiBhdXRvO1xyXG4gICAgbWFyZ2luLXJpZ2h0OiBhdXRvO1xyXG59XHJcblxyXG4uc2NvcmVJbnB1dCB7XHJcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbn1cclxuXHJcbi5tYyB7XHJcbiAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xyXG59XHJcbiIsIi5zY29yZVRhYmxlIHtcbiAgbWFyZ2luLXRvcDogMjAlO1xuICBtYXJnaW4tbGVmdDogYXV0bztcbiAgbWFyZ2luLXJpZ2h0OiBhdXRvO1xufVxuXG4uc2NvcmVJbnB1dCB7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLm1jIHtcbiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcbn0iXX0= */";
     /***/
   },
 
@@ -5870,13 +6169,20 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/router */
     "./node_modules/@angular/router/fesm2015/router.js");
+    /* harmony import */
+
+
+    var _base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
+    /*! ../base/event-emmiter.service */
+    "./src/app/components/base/event-emmiter.service.ts");
 
     var ResultsComponent = /*#__PURE__*/function () {
-      function ResultsComponent(sharingService, router) {
+      function ResultsComponent(sharingService, router, eventEmiiter) {
         _classCallCheck(this, ResultsComponent);
 
         this.sharingService = sharingService;
         this.router = router;
+        this.eventEmiiter = eventEmiiter;
         this.scoreData = sharingService.getData();
 
         if (this.scoreData.Mc1.name === undefined || this.scoreData.Mc2.name === undefined) {
@@ -5885,6 +6191,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         this.scoreData.Mc1.calculateTotal();
         this.scoreData.Mc2.calculateTotal();
+        this.eventEmiiter.stopVideo();
       }
 
       _createClass(ResultsComponent, [{
@@ -5911,6 +6218,8 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         type: _services_SharingService__WEBPACK_IMPORTED_MODULE_2__["SharingService"]
       }, {
         type: _angular_router__WEBPACK_IMPORTED_MODULE_3__["Router"]
+      }, {
+        type: _base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_4__["EventEmitterService"]
       }];
     };
 
@@ -6067,7 +6376,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 35%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.thematic {\n  margin-left: auto;\n  margin-right: auto;\n  display: flex;\n  align-items: center;\n  text-align: center;\n}\n\n/*.firstThematic {\n  margin-left: -20px;\n\n}\n*/\n\n.secondThematic {\n  margin-left: 150px;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy90aGVtYXRpYy9DOlxcVXNlcnNcXElhZ29cXERvY3VtZW50c1xcZm1zLXZvdGVzL3NyY1xcYXBwXFxjb21wb25lbnRzXFx0aGVtYXRpY1xcdGhlbWF0aWMuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvdGhlbWF0aWMvdGhlbWF0aWMuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxlQUFBO0VBQ0EsaUJBQUE7RUFDQSxrQkFBQTtBQ0NGOztBREVBO0VBQ0UsaUJBQUE7RUFDQSxrQkFBQTtFQUNBLGFBQUE7RUFDQSxtQkFBQTtFQUNBLGtCQUFBO0FDQ0Y7O0FERUE7Ozs7Q0FBQTs7QUFLQTtFQUNFLGtCQUFBO0FDQ0Y7O0FERUE7RUFDRSxrQkFBQTtBQ0NGOztBREVBO0VBQ0UseUJBQUE7QUNDRiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvdGhlbWF0aWMvdGhlbWF0aWMuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuc2NvcmVUYWJsZXtcclxuICBtYXJnaW4tdG9wOiAzNSU7XHJcbiAgbWFyZ2luLWxlZnQ6IGF1dG87XHJcbiAgbWFyZ2luLXJpZ2h0OiBhdXRvO1xyXG59XHJcblxyXG4udGhlbWF0aWMge1xyXG4gIG1hcmdpbi1sZWZ0OiBhdXRvO1xyXG4gIG1hcmdpbi1yaWdodDogYXV0bztcclxuICBkaXNwbGF5OiBmbGV4O1xyXG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59XHJcblxyXG4vKi5maXJzdFRoZW1hdGljIHtcclxuICBtYXJnaW4tbGVmdDogLTIwcHg7XHJcbiAgXHJcbn1cclxuKi9cclxuLnNlY29uZFRoZW1hdGljIHtcclxuICBtYXJnaW4tbGVmdDogMTUwcHg7XHJcbn1cclxuXHJcbi5zY29yZUlucHV0IHtcclxuICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbn1cclxuXHJcbi5tYyB7XHJcbiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcclxufSIsIi5zY29yZVRhYmxlIHtcbiAgbWFyZ2luLXRvcDogMzUlO1xuICBtYXJnaW4tbGVmdDogYXV0bztcbiAgbWFyZ2luLXJpZ2h0OiBhdXRvO1xufVxuXG4udGhlbWF0aWMge1xuICBtYXJnaW4tbGVmdDogYXV0bztcbiAgbWFyZ2luLXJpZ2h0OiBhdXRvO1xuICBkaXNwbGF5OiBmbGV4O1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbi8qLmZpcnN0VGhlbWF0aWMge1xuICBtYXJnaW4tbGVmdDogLTIwcHg7XG5cbn1cbiovXG4uc2Vjb25kVGhlbWF0aWMge1xuICBtYXJnaW4tbGVmdDogMTUwcHg7XG59XG5cbi5zY29yZUlucHV0IHtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuXG4ubWMge1xuICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xufSJdfQ== */";
+    __webpack_exports__["default"] = ".scoreTable {\n  margin-top: 20%;\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.thematic {\n  margin-left: auto;\n  margin-right: auto;\n  display: flex;\n  align-items: center;\n  text-align: center;\n}\n\n/*.firstThematic {\n  margin-left: -20px;\n\n}\n*/\n\n.secondThematic {\n  margin-left: 150px;\n}\n\n.scoreInput {\n  text-align: center;\n}\n\n.mc {\n  text-transform: uppercase;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy90aGVtYXRpYy9DOlxcVXNlcnNcXElhZ29cXERvY3VtZW50c1xcZm1zLXZvdGVzL3NyY1xcYXBwXFxjb21wb25lbnRzXFx0aGVtYXRpY1xcdGhlbWF0aWMuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvdGhlbWF0aWMvdGhlbWF0aWMuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxlQUFBO0VBQ0EsaUJBQUE7RUFDQSxrQkFBQTtBQ0NGOztBREVBO0VBQ0UsaUJBQUE7RUFDQSxrQkFBQTtFQUNBLGFBQUE7RUFDQSxtQkFBQTtFQUNBLGtCQUFBO0FDQ0Y7O0FERUE7Ozs7Q0FBQTs7QUFLQTtFQUNFLGtCQUFBO0FDQ0Y7O0FERUE7RUFDRSxrQkFBQTtBQ0NGOztBREVBO0VBQ0UseUJBQUE7QUNDRiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvdGhlbWF0aWMvdGhlbWF0aWMuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuc2NvcmVUYWJsZXtcclxuICBtYXJnaW4tdG9wOiAyMCU7XHJcbiAgbWFyZ2luLWxlZnQ6IGF1dG87XHJcbiAgbWFyZ2luLXJpZ2h0OiBhdXRvO1xyXG59XHJcblxyXG4udGhlbWF0aWMge1xyXG4gIG1hcmdpbi1sZWZ0OiBhdXRvO1xyXG4gIG1hcmdpbi1yaWdodDogYXV0bztcclxuICBkaXNwbGF5OiBmbGV4O1xyXG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59XHJcblxyXG4vKi5maXJzdFRoZW1hdGljIHtcclxuICBtYXJnaW4tbGVmdDogLTIwcHg7XHJcblxyXG59XHJcbiovXHJcbi5zZWNvbmRUaGVtYXRpYyB7XHJcbiAgbWFyZ2luLWxlZnQ6IDE1MHB4O1xyXG59XHJcblxyXG4uc2NvcmVJbnB1dCB7XHJcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59XHJcblxyXG4ubWMge1xyXG4gIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XHJcbn1cclxuIiwiLnNjb3JlVGFibGUge1xuICBtYXJnaW4tdG9wOiAyMCU7XG4gIG1hcmdpbi1sZWZ0OiBhdXRvO1xuICBtYXJnaW4tcmlnaHQ6IGF1dG87XG59XG5cbi50aGVtYXRpYyB7XG4gIG1hcmdpbi1sZWZ0OiBhdXRvO1xuICBtYXJnaW4tcmlnaHQ6IGF1dG87XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLyouZmlyc3RUaGVtYXRpYyB7XG4gIG1hcmdpbi1sZWZ0OiAtMjBweDtcblxufVxuKi9cbi5zZWNvbmRUaGVtYXRpYyB7XG4gIG1hcmdpbi1sZWZ0OiAxNTBweDtcbn1cblxuLnNjb3JlSW5wdXQge1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbi5tYyB7XG4gIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XG59Il19 */";
     /***/
   },
 

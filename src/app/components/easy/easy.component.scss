@@ -1,47 +1,46 @@
-
 .scoreTable{
-    margin-top: 20%;
-    margin-left: auto;
-    margin-right: auto;
+  margin-top: 5rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .scoreInput {
-    text-align: center;
+  text-align: center;
 }
 
 .mc {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 
 .mc1 {
-  width: 50%;
+width: 50%;
 }
 
 .mc2 {
-  width: 50%;
+width: 50%;
 }
 
 .mcselection {
-    width: 100%;
-  }
+  width: 100%;
+}
 
-  ::ng-deep .mat-form-field-label {
-    /*change color of label*/
-    color: #eee !important;
-   }
+::ng-deep .mat-form-field-label {
+  /*change color of label*/
+  color: #eee !important;
+ }
 
-  ::ng-deep .mat-focused .mat-form-field-label {
-    /*change color of label when focused*/
-    color:  #1F5A2E !important;
-   }
+::ng-deep .mat-focused .mat-form-field-label {
+  /*change color of label when focused*/
+  color:  #1F5A2E !important;
+ }
 
-   ::ng-deep .mat-form-field-underline {
-    /*change color of underline*/
-    background-color:#eee !important;
-  }
+ ::ng-deep .mat-form-field-underline {
+  /*change color of underline*/
+  background-color:#eee !important;
+}
 
-  ::ng-deep .mat-form-field-ripple {
-   /*change color of underline when focused*/
-   background-color:  #1F5A2E !important;
+::ng-deep .mat-form-field-ripple {
+ /*change color of underline when focused*/
+ background-color:  #1F5A2E !important;
 
-  }
+}
