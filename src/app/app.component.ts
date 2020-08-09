@@ -12,7 +12,7 @@ export class AppComponent implements OnInit {
   public video: any;
   public player: any;
   public reframed: Boolean = false;
-
+  visible = false;
   constructor(
     private eventEmitterService: EventEmitterService
   ) {
@@ -43,6 +43,7 @@ export class AppComponent implements OnInit {
       this.eventEmitterService.loadVideoSubscription = this.eventEmitterService.
         loadYTvideo.subscribe((videoId: string) => {
           this.video = videoId;
+          this.visible = true;
           this.init();
         });
     }
@@ -51,6 +52,7 @@ export class AppComponent implements OnInit {
       this.eventEmitterService.stopVideoSubscription = this.eventEmitterService.
         stopYTvideo.subscribe(() =>{
           this.stopYTVideo();
+          this.visible = false;
         });
     }
 
@@ -87,10 +89,14 @@ export class AppComponent implements OnInit {
         'onReady': this.onPlayerReady.bind(this),
       }
     });
+
   }
 
   /* 4. It will be called when the Video Player is ready */
   onPlayerReady(event) {
+
+    document.getElementById("player").setAttribute("style", "border: 3px solid #1F5A2E; width: 800px; height:400px; border-radius: 20px; box-shadow: 0px 0px 10px 3px #1F5A2E;");
+
     if (this.isRestricted) {
       event.target.mute();
       event.target.playVideo();
