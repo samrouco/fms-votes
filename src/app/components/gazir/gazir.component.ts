@@ -23,7 +23,6 @@ export class GazirComponent implements OnInit {
   }
 
   ngOnInit() {
-    console.log("gazir on init");
     this.eventEmitterservice.stopVideo();
   }
 

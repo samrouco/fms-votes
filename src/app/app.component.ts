@@ -42,6 +42,7 @@ export class AppComponent implements OnInit {
     if (this.eventEmitterService.loadVideoSubscription == undefined) {
       this.eventEmitterService.loadVideoSubscription = this.eventEmitterService.
         loadYTvideo.subscribe((videoId: string) => {
+          console.log("PLAY " + videoId);
           this.video = videoId;
           this.visible = true;
           this.init();
@@ -52,6 +53,7 @@ export class AppComponent implements OnInit {
       this.eventEmitterService.stopVideoSubscription = this.eventEmitterService.
         stopYTvideo.subscribe(() =>{
           this.stopYTVideo();
+          console.log("STOP");
           this.visible = false;
         });
     }
@@ -64,32 +66,30 @@ export class AppComponent implements OnInit {
     }
   }
 
-  stopVid() {
-    this.player.stopVideo();
-  }
-
   startVideo() {
     this.reframed = false;
-    this.player = new window['YT'].Player('player', {
-      videoId: this.video,
-      playerVars: {
-        autoplay: 1,
-        modestbranding: 1,
-        controls: 1,
-        disablekb: 1,
-        rel: 0,
-        showinfo: 0,
-        fs: 0,
-        playsinline: 1
-
-      },
-      events: {
-        'onStateChange': this.onPlayerStateChange.bind(this),
-        'onError': this.onPlayerError.bind(this),
-        'onReady': this.onPlayerReady.bind(this),
-      }
-    });
-
+    if(this.player === undefined){
+      this.player = new window['YT'].Player('player', {
+        start: 0,
+        playerVars: {
+          autoplay: 1,
+          modestbranding: 1,
+          controls: 1,
+          disablekb: 1,
+          rel: 0,
+          showinfo: 0,
+          fs: 0,
+          playsinline: 1
+        },
+        events: {
+          'onStateChange': this.onPlayerStateChange.bind(this),
+          'onError': this.onPlayerError.bind(this),
+          'onReady': this.onPlayerReady.bind(this),
+        }
+      });
+    }else{
+      this.player.loadVideoById(this.video, 1);
+    }
   }
 
   /* 4. It will be called when the Video Player is ready */
@@ -97,6 +97,7 @@ export class AppComponent implements OnInit {
 
     document.getElementById("player").setAttribute("style", "border: 3px solid #1F5A2E; width: 800px; height:400px; border-radius: 20px; box-shadow: 0px 0px 10px 3px #1F5A2E;");
 
+    event.target.loadVideoById(this.video,1);
     if (this.isRestricted) {
       event.target.mute();
       event.target.playVideo();
