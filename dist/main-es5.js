@@ -2540,8 +2540,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
       return EventEmitterService;
     }();
-    /***/
 
+    EventEmitterService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
+      providedIn: 'root'
+    })], EventEmitterService);
+    /***/
   },
 
   /***/
