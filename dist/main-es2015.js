@@ -1345,7 +1345,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
 
 
-let EventEmitterService = class EventEmitterService {
+class EventEmitterService {
     constructor() {
         this.loadYTvideo = new _angular_core__WEBPACK_IMPORTED_MODULE_1__["EventEmitter"]();
         this.stopYTvideo = new _angular_core__WEBPACK_IMPORTED_MODULE_1__["EventEmitter"]();
@@ -1356,13 +1356,7 @@ let EventEmitterService = class EventEmitterService {
     stopVideo() {
         this.stopYTvideo.emit();
     }
-};
-EventEmitterService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
-        providedIn: 'root'
-    })
-], EventEmitterService);
-
+}
 
 
 /***/ }),
