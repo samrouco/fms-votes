@@ -27,7 +27,6 @@ export class ResultsComponent implements OnInit {
     }
     this.scoreData.Mc1.calculateTotal();
     this.scoreData.Mc2.calculateTotal();
-    this.eventEmiiter.stopVideo();
   }
 
   getTwitterUrl(): void {

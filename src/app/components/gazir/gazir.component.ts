@@ -29,13 +29,10 @@ export class GazirComponent implements OnInit {
   goToZaskoVsGazir(): void{
     this.scoreData.Mc1 = new McModel();
     this.scoreData.Mc2 = new McModel();
-
     this.scoreData.videoURL = "DrT-exaAbEk";
-
     this.scoreData.Mc1.name = "Zasko";
     this.scoreData.Mc2.name = "Gazir";
     this.sharingService.setData(this.scoreData);
-    console.log("Vamos");
     this.router.navigate(['/Easy']);
   }
 }
