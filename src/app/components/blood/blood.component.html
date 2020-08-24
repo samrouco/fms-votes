@@ -3,7 +3,7 @@
     <div class="thematic">
       <div id="sangre1Mc1">
         <tr>
-          <td>
+          <td class="mc">
             {{ scoreData.Mc1.name }}
           </td>
 
@@ -36,7 +36,7 @@
       <!--Respuesta Mc2-->
       <div id="sangre1Mc2">
         <tr>
-          <td>
+          <td class="mc">
             {{ scoreData.Mc2.name }}
           </td>
           <td *ngFor="let patron of scoreData.Mc2.blood1.patrons">
@@ -72,7 +72,7 @@
     <div class="thematic">
       <div id="sangre2Mc2">
         <tr>
-          <td>
+          <td class="mc">
             {{ scoreData.Mc2.name }}
           </td>
 
@@ -105,7 +105,7 @@
       <!--Respuesta Mc1-->
       <div id="sangre2Mc1">
         <tr>
-          <td>
+          <td class="mc">
             {{ scoreData.Mc1.name }}
           </td>
           <td *ngFor="let patron of scoreData.Mc1.blood2.patrons">
