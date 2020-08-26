@@ -53,6 +53,7 @@ import { StickComponent } from './components/fms-per/gallos/stick/stick.componen
 import { ChoqueComponent } from './components/fms-per/gallos/choque/choque.component';
 import { StrikeComponent } from './components/fms-per/gallos/strike/strike.component';
 import { EventEmitter } from '@angular/core';
+import { BaseComponentComponent } from './components/base-component/base-component.component';
 
 
 @NgModule({
@@ -102,6 +103,7 @@ import { EventEmitter } from '@angular/core';
     StickComponent,
     ChoqueComponent,
     StrikeComponent,
+    BaseComponentComponent,
 
   ],
   imports: [
