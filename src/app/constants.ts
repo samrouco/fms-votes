@@ -43,16 +43,16 @@ export const S2020_BATTLE_ESP_J1_MNAK_KHAN = "IkJmWaNTMgI";
 export const S2020_BATTLE_ESP_J1_MR_EGO_TIRPA = "yNbtrwnNH-g";
 
 //Batallas FMSPeru T2020 Jornada1
-export const S2020_BATTLE_PERU_JAZE_JOTA = "BI-GRSXLg1M";
-export const S2020_BATTLE_PERU_NEKROOS_NEW_ERA = "t3QIr-A2rlA";
-export const S2020_BATTLE_PERU_ENZO_ZIKA = "AyrFdto_vxE";
-export const S2020_BATTLE_PERU_STRIKE_LITZEN = "xDXnifts8JM"
-export const S2020_BATTLE_PERU_CHOQUE_SKILL = "5oETXuzmnME"
+export const S2020_BATTLE_PERU_J1_JAZE_JOTA = "BI-GRSXLg1M";
+export const S2020_BATTLE_PERU_J1_NEKROOS_NEW_ERA = "t3QIr-A2rlA";
+export const S2020_BATTLE_PERU_J1_ENZO_ZIKA = "AyrFdto_vxE";
+export const S2020_BATTLE_PERU_J1_STRIKE_LITZEN = "xDXnifts8JM"
+export const S2020_BATTLE_PERU_J1_CHOQUE_SKILL = "5oETXuzmnME"
 
 //Batallas FMSMex T2020 Jornada1
-export const S2020_BATTLE_MEX_RAPDER_SKIPER = "x4imf5uv24U";
-export const S2020_BATTLE_MEX_POTENCIA_RC = "x4imf5uv24U"
-export const S2020_BATTLE_MEX_YOIKER_ZTICMA = "x4imf5uv24U";
-export const S2020_BATTLE_MEX_LOBO_ESTEPARIO_GARZA = "x4imf5uv24U";
-export const S2020_BATTLE_MEX_BONE_JONY_BELTRAN = "x4imf5uv24U";
+export const S2020_BATTLE_MEX_J1_RAPDER_SKIPER = "x4imf5uv24U";
+export const S2020_BATTLE_MEX_J1_POTENCIA_RC = "x4imf5uv24U"
+export const S2020_BATTLE_MEX_J1_YOIKER_ZTICMA = "x4imf5uv24U";
+export const S2020_BATTLE_MEX_J1_LOBO_ESTEPARIO_GARZA = "x4imf5uv24U";
+export const S2020_BATTLE_MEX_J1_BONE_JONY_BELTRAN = "x4imf5uv24U";
 
