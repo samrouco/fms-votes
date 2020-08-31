@@ -1,3 +1,17 @@
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function"); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, writable: true, configurable: true } }); if (superClass) _setPrototypeOf(subClass, superClass); }
+
+function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
+
+function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = _getPrototypeOf(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = _getPrototypeOf(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return _possibleConstructorReturn(this, result); }; }
+
+function _possibleConstructorReturn(self, call) { if (call && (typeof call === "object" || typeof call === "function")) { return call; } return _assertThisInitialized(self); }
+
+function _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return self; }
+
+function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Date.prototype.toString.call(Reflect.construct(Date, [], function () {})); return true; } catch (e) { return false; } }
+
+function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
+
 function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
 
 function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
@@ -56,6 +70,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   },
 
   /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/components/base-component/base-component.component.html":
+  /*!***************************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/base-component/base-component.component.html ***!
+    \***************************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppComponentsBaseComponentBaseComponentComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "<p>base-component works!</p>\r\n";
+    /***/
+  },
+
+  /***/
   "./node_modules/raw-loader/dist/cjs.js!./src/app/components/blon/blon.component.html":
   /*!*******************************************************************************************!*\
     !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/blon/blon.component.html ***!
@@ -71,7 +105,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"goToSPvsBlon()\"><img src=\"../../../assets/images/batallas_esp/blon_sweetpain.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.SWEET_PAIN_NAME, CONSTANTS.BLON_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_SWEET_PAIN_BLON)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/blon_sweetpain.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -111,7 +145,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../assets/images/batallas_esp/bnet_errece.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ERRECE_NAME, CONSTANTS.BNET_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ERRECE_BNET)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/bnet_errece.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -191,7 +225,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../assets/images/batallas_esp/bnet_errece.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ERRECE_NAME, CONSTANTS.BNET_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ERRECE_BNET)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/bnet_errece.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -471,7 +505,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/choque_skill.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.CHOQUE_NAME, CONSTANTS.SKILL_NAME, CONSTANTS.S2020_BATTLE_PERU_J1_CHOQUE_SKILL)\"><img src=\"../../../../../assets/images/batallas_per/S2020/J1/choque_skill.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/S2020/J2/newera_choque.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -491,7 +525,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/jota_jaze.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.JAZE_NAME, CONSTANTS.JOTA_NAME, CONSTANTS.S2020_BATTLE_PERU_J1_JAZE_JOTA)\"><img src=\"../../../../../assets/images/batallas_per/S2020/J1/jota_jaze.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/S2020/J2/jaze_strike.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -511,7 +545,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/jota_jaze.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.JAZE_NAME, CONSTANTS.JOTA_NAME, CONSTANTS.S2020_BATTLE_PERU_J1_JAZE_JOTA)\"><img src=\"../../../../../assets/images/batallas_per/S2020/J1/jota_jaze.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/S2020/J2/jota_litzen.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -531,7 +565,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/strike_litzen.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.STRIKE_NAME, CONSTANTS.LITZEN_NAME, CONSTANTS.S2020_BATTLE_PERU_J1_STRIKE_LITZEN)\"><img src=\"../../../../../assets/images/batallas_per/S2020/J1/strike_litzen.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/S2020/J2/jota_litzen.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -551,7 +585,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/newera_nekroos.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.NEKROOS_NAME, CONSTANTS.NEW_ERA_NAME, CONSTANTS.S2020_BATTLE_PERU_J1_NEKROOS_NEW_ERA)\"><img src=\"../../../../../assets/images/batallas_per/S2020/J1/newera_nekroos.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/Batalla aplazada.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -571,7 +605,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/newera_nekroos.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.NEKROOS_NAME, CONSTANTS.NEW_ERA_NAME, CONSTANTS.S2020_BATTLE_PERU_J1_NEKROOS_NEW_ERA)\"><img src=\"../../../../../assets/images/batallas_per/S2020/J1/newera_nekroos.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/S2020/J2/newera_choque.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -591,7 +625,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/Proximamente/Batalla aplazada.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/Proximamente/Batalla aplazada.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/S2020/J2/skill_ramset.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -611,7 +645,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/choque_skill.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.CHOQUE_NAME, CONSTANTS.SKILL_NAME, CONSTANTS.S2020_BATTLE_PERU_J1_CHOQUE_SKILL)\"><img src=\"../../../../../assets/images/batallas_per/S2020/J1/choque_skill.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/S2020/J2/skill_ramset.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -631,7 +665,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/Proximamente/Batalla aplazada.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/Proximamente/Batalla aplazada.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/Batalla aplazada.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -651,7 +685,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_per/strike_litzen.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.STRIKE_NAME, CONSTANTS.LITZEN_NAME, CONSTANTS.S2020_BATTLE_PERU_J1_STRIKE_LITZEN)\"><img src=\"../../../../../assets/images/batallas_per/S2020/J1/strike_litzen.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/S2020/J2/jaze_strike.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_per/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -691,7 +725,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"goToZaskoVsGazir()\"><img src=\"../../../assets/images/batallas_esp/gazir_zasko.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ZASKO_NAME, CONSTANTS.GAZIR_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ZASKO_GAZIR)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/gazir_zasko.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -731,7 +765,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../assets/images/batallas_esp/khan_mnak.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MNAK_NAME, CONSTANTS.KHAN_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MNAK_KHAN)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/khan_mnak.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -771,7 +805,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../assets/images/batallas_esp/khan_mnak.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
+    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MNAK_NAME, CONSTANTS.KHAN_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MNAK_KHAN)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/khan_mnak.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
     /***/
   },
 
@@ -791,7 +825,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../assets/images/batallas_esp/tirpa_mrego.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
+    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MR_EGO_NAME, CONSTANTS.TIRPA_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MR_EGO_TIRPA)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/tirpa_mrego.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
     /***/
   },
 
@@ -831,7 +865,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"goToSPvsBlon()\"><img src=\"../../../assets/images/batallas_esp/blon_sweetpain.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
+    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.SWEET_PAIN_NAME, CONSTANTS.BLON_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_SWEET_PAIN_BLON)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/blon_sweetpain.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
     /***/
   },
 
@@ -871,7 +905,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../assets/images/batallas_esp/tirpa_mrego.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MR_EGO_NAME, CONSTANTS.TIRPA_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MR_EGO_TIRPA)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/tirpa_mrego.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
     /***/
   },
 
@@ -891,7 +925,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../assets/images/batallas_esp/gazir_zasko.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ZASKO_NAME, CONSTANTS.GAZIR_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ZASKO_GAZIR)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/gazir_zasko.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
     /***/
   },
 
@@ -2472,17 +2506,165 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _components_fms_per_gallos_strike_strike_component__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(
     /*! ./components/fms-per/gallos/strike/strike.component */
     "./src/app/components/fms-per/gallos/strike/strike.component.ts");
+    /* harmony import */
+
+
+    var _components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(
+    /*! ./components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
 
     var AppModule = function AppModule() {
       _classCallCheck(this, AppModule);
     };
 
     AppModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_2__["NgModule"])({
-      declarations: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"], _components_mc_selector_mc_selector_component__WEBPACK_IMPORTED_MODULE_5__["McSelectorComponent"], _components_easy_easy_component__WEBPACK_IMPORTED_MODULE_11__["EasyComponent"], _components_base_patron_number_directive__WEBPACK_IMPORTED_MODULE_12__["PatronNumberDirective"], _components_base_extra_score_directive__WEBPACK_IMPORTED_MODULE_13__["ExtraScoreNumberDirective"], _components_hard_hard_component__WEBPACK_IMPORTED_MODULE_14__["HardComponent"], _components_thematic_thematic_component__WEBPACK_IMPORTED_MODULE_15__["ThematicComponent"], _components_blood_blood_component__WEBPACK_IMPORTED_MODULE_16__["BloodComponent"], _components_characters_characters_component__WEBPACK_IMPORTED_MODULE_17__["CharactersComponent"], _components_deluxe_deluxe_component__WEBPACK_IMPORTED_MODULE_18__["DeluxeComponent"], _components_results_results_component__WEBPACK_IMPORTED_MODULE_19__["ResultsComponent"], _components_fms_selector_fms_selector_component__WEBPACK_IMPORTED_MODULE_20__["FmsSelectorComponent"], _components_fms_esp_fms_esp_component__WEBPACK_IMPORTED_MODULE_21__["FmsEspComponent"], _components_blon_blon_component__WEBPACK_IMPORTED_MODULE_22__["BlonComponent"], _components_khan_khan_component__WEBPACK_IMPORTED_MODULE_23__["KhanComponent"], _components_mrego_mrego_component__WEBPACK_IMPORTED_MODULE_24__["MregoComponent"], _components_tirpa_tirpa_component__WEBPACK_IMPORTED_MODULE_25__["TirpaComponent"], _components_zasko_zasko_component__WEBPACK_IMPORTED_MODULE_26__["ZaskoComponent"], _components_gazir_gazir_component__WEBPACK_IMPORTED_MODULE_27__["GazirComponent"], _components_mnak_mnak_component__WEBPACK_IMPORTED_MODULE_28__["MnakComponent"], _components_errece_errece_component__WEBPACK_IMPORTED_MODULE_29__["ErreceComponent"], _components_bnet_bnet_component__WEBPACK_IMPORTED_MODULE_30__["BnetComponent"], _components_sweetpain_sweetpain_component__WEBPACK_IMPORTED_MODULE_31__["SweetpainComponent"], _components_fms_mex_fms_mex_component__WEBPACK_IMPORTED_MODULE_32__["FmsMexComponent"], _components_fms_per_fms_per_component__WEBPACK_IMPORTED_MODULE_33__["FmsPerComponent"], _components_fms_mex_gallos_lobo_lobo_component__WEBPACK_IMPORTED_MODULE_34__["LoboComponent"], _components_fms_mex_gallos_bone_bone_component__WEBPACK_IMPORTED_MODULE_35__["BoneComponent"], _components_fms_mex_gallos_jonyb_jonyb_component__WEBPACK_IMPORTED_MODULE_36__["JonybComponent"], _components_fms_mex_gallos_garza_garza_component__WEBPACK_IMPORTED_MODULE_37__["GarzaComponent"], _components_fms_mex_gallos_rc_rc_component__WEBPACK_IMPORTED_MODULE_38__["RcComponent"], _components_fms_mex_gallos_potencia_potencia_component__WEBPACK_IMPORTED_MODULE_39__["PotenciaComponent"], _components_fms_mex_gallos_yoiker_yoiker_component__WEBPACK_IMPORTED_MODULE_40__["YoikerComponent"], _components_fms_mex_gallos_zticma_zticma_component__WEBPACK_IMPORTED_MODULE_41__["ZticmaComponent"], _components_fms_mex_gallos_rapder_rapder_component__WEBPACK_IMPORTED_MODULE_42__["RapderComponent"], _components_fms_mex_gallos_skiper_skiper_component__WEBPACK_IMPORTED_MODULE_43__["SkiperComponent"], _components_fms_per_gallos_jota_jota_component__WEBPACK_IMPORTED_MODULE_44__["JotaComponent"], _components_fms_per_gallos_skill_skill_component__WEBPACK_IMPORTED_MODULE_45__["SkillComponent"], _components_fms_per_gallos_jaze_jaze_component__WEBPACK_IMPORTED_MODULE_46__["JazeComponent"], _components_fms_per_gallos_litzen_litzen_component__WEBPACK_IMPORTED_MODULE_47__["LitzenComponent"], _components_fms_per_gallos_nekroos_nekroos_component__WEBPACK_IMPORTED_MODULE_48__["NekroosComponent"], _components_fms_per_gallos_newera_newera_component__WEBPACK_IMPORTED_MODULE_49__["NeweraComponent"], _components_fms_per_gallos_ramset_ramset_component__WEBPACK_IMPORTED_MODULE_50__["RamsetComponent"], _components_fms_per_gallos_stick_stick_component__WEBPACK_IMPORTED_MODULE_51__["StickComponent"], _components_fms_per_gallos_choque_choque_component__WEBPACK_IMPORTED_MODULE_52__["ChoqueComponent"], _components_fms_per_gallos_strike_strike_component__WEBPACK_IMPORTED_MODULE_53__["StrikeComponent"]],
+      declarations: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"], _components_mc_selector_mc_selector_component__WEBPACK_IMPORTED_MODULE_5__["McSelectorComponent"], _components_easy_easy_component__WEBPACK_IMPORTED_MODULE_11__["EasyComponent"], _components_base_patron_number_directive__WEBPACK_IMPORTED_MODULE_12__["PatronNumberDirective"], _components_base_extra_score_directive__WEBPACK_IMPORTED_MODULE_13__["ExtraScoreNumberDirective"], _components_hard_hard_component__WEBPACK_IMPORTED_MODULE_14__["HardComponent"], _components_thematic_thematic_component__WEBPACK_IMPORTED_MODULE_15__["ThematicComponent"], _components_blood_blood_component__WEBPACK_IMPORTED_MODULE_16__["BloodComponent"], _components_characters_characters_component__WEBPACK_IMPORTED_MODULE_17__["CharactersComponent"], _components_deluxe_deluxe_component__WEBPACK_IMPORTED_MODULE_18__["DeluxeComponent"], _components_results_results_component__WEBPACK_IMPORTED_MODULE_19__["ResultsComponent"], _components_fms_selector_fms_selector_component__WEBPACK_IMPORTED_MODULE_20__["FmsSelectorComponent"], _components_fms_esp_fms_esp_component__WEBPACK_IMPORTED_MODULE_21__["FmsEspComponent"], _components_blon_blon_component__WEBPACK_IMPORTED_MODULE_22__["BlonComponent"], _components_khan_khan_component__WEBPACK_IMPORTED_MODULE_23__["KhanComponent"], _components_mrego_mrego_component__WEBPACK_IMPORTED_MODULE_24__["MregoComponent"], _components_tirpa_tirpa_component__WEBPACK_IMPORTED_MODULE_25__["TirpaComponent"], _components_zasko_zasko_component__WEBPACK_IMPORTED_MODULE_26__["ZaskoComponent"], _components_gazir_gazir_component__WEBPACK_IMPORTED_MODULE_27__["GazirComponent"], _components_mnak_mnak_component__WEBPACK_IMPORTED_MODULE_28__["MnakComponent"], _components_errece_errece_component__WEBPACK_IMPORTED_MODULE_29__["ErreceComponent"], _components_bnet_bnet_component__WEBPACK_IMPORTED_MODULE_30__["BnetComponent"], _components_sweetpain_sweetpain_component__WEBPACK_IMPORTED_MODULE_31__["SweetpainComponent"], _components_fms_mex_fms_mex_component__WEBPACK_IMPORTED_MODULE_32__["FmsMexComponent"], _components_fms_per_fms_per_component__WEBPACK_IMPORTED_MODULE_33__["FmsPerComponent"], _components_fms_mex_gallos_lobo_lobo_component__WEBPACK_IMPORTED_MODULE_34__["LoboComponent"], _components_fms_mex_gallos_bone_bone_component__WEBPACK_IMPORTED_MODULE_35__["BoneComponent"], _components_fms_mex_gallos_jonyb_jonyb_component__WEBPACK_IMPORTED_MODULE_36__["JonybComponent"], _components_fms_mex_gallos_garza_garza_component__WEBPACK_IMPORTED_MODULE_37__["GarzaComponent"], _components_fms_mex_gallos_rc_rc_component__WEBPACK_IMPORTED_MODULE_38__["RcComponent"], _components_fms_mex_gallos_potencia_potencia_component__WEBPACK_IMPORTED_MODULE_39__["PotenciaComponent"], _components_fms_mex_gallos_yoiker_yoiker_component__WEBPACK_IMPORTED_MODULE_40__["YoikerComponent"], _components_fms_mex_gallos_zticma_zticma_component__WEBPACK_IMPORTED_MODULE_41__["ZticmaComponent"], _components_fms_mex_gallos_rapder_rapder_component__WEBPACK_IMPORTED_MODULE_42__["RapderComponent"], _components_fms_mex_gallos_skiper_skiper_component__WEBPACK_IMPORTED_MODULE_43__["SkiperComponent"], _components_fms_per_gallos_jota_jota_component__WEBPACK_IMPORTED_MODULE_44__["JotaComponent"], _components_fms_per_gallos_skill_skill_component__WEBPACK_IMPORTED_MODULE_45__["SkillComponent"], _components_fms_per_gallos_jaze_jaze_component__WEBPACK_IMPORTED_MODULE_46__["JazeComponent"], _components_fms_per_gallos_litzen_litzen_component__WEBPACK_IMPORTED_MODULE_47__["LitzenComponent"], _components_fms_per_gallos_nekroos_nekroos_component__WEBPACK_IMPORTED_MODULE_48__["NekroosComponent"], _components_fms_per_gallos_newera_newera_component__WEBPACK_IMPORTED_MODULE_49__["NeweraComponent"], _components_fms_per_gallos_ramset_ramset_component__WEBPACK_IMPORTED_MODULE_50__["RamsetComponent"], _components_fms_per_gallos_stick_stick_component__WEBPACK_IMPORTED_MODULE_51__["StickComponent"], _components_fms_per_gallos_choque_choque_component__WEBPACK_IMPORTED_MODULE_52__["ChoqueComponent"], _components_fms_per_gallos_strike_strike_component__WEBPACK_IMPORTED_MODULE_53__["StrikeComponent"], _components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_54__["BaseComponentComponent"]],
       imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["BrowserModule"], _app_routing_module__WEBPACK_IMPORTED_MODULE_3__["AppRoutingModule"], _angular_platform_browser_animations__WEBPACK_IMPORTED_MODULE_6__["BrowserAnimationsModule"], _angular_material_input__WEBPACK_IMPORTED_MODULE_7__["MatInputModule"], _angular_material_button__WEBPACK_IMPORTED_MODULE_8__["MatButtonModule"], _angular_forms__WEBPACK_IMPORTED_MODULE_10__["FormsModule"]],
       providers: [_services_SharingService__WEBPACK_IMPORTED_MODULE_9__["SharingService"], _angular_core__WEBPACK_IMPORTED_MODULE_2__["EventEmitter"]],
       bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"]]
     })], AppModule);
+    /***/
+  },
+
+  /***/
+  "./src/app/components/base-component/base-component.component.scss":
+  /*!*************************************************************************!*\
+    !*** ./src/app/components/base-component/base-component.component.scss ***!
+    \*************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppComponentsBaseComponentBaseComponentComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvYmFzZS1jb21wb25lbnQvYmFzZS1jb21wb25lbnQuY29tcG9uZW50LnNjc3MifQ== */";
+    /***/
+  },
+
+  /***/
+  "./src/app/components/base-component/base-component.component.ts":
+  /*!***********************************************************************!*\
+    !*** ./src/app/components/base-component/base-component.component.ts ***!
+    \***********************************************************************/
+
+  /*! exports provided: BaseComponentComponent */
+
+  /***/
+  function srcAppComponentsBaseComponentBaseComponentComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "BaseComponentComponent", function () {
+      return BaseComponentComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
+
+
+    var src_app_models_score_model__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/models/score-model */
+    "./src/app/models/score-model.ts");
+    /* harmony import */
+
+
+    var src_app_services_SharingService__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
+    /*! src/app/services/SharingService */
+    "./src/app/services/SharingService.ts");
+    /* harmony import */
+
+
+    var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
+    /*! @angular/router */
+    "./node_modules/@angular/router/fesm2015/router.js");
+    /* harmony import */
+
+
+    var src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
+    /*! src/app/models/mc-model */
+    "./src/app/models/mc-model.ts");
+    /* harmony import */
+
+
+    var _base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
+    /*! ../base/event-emmiter.service */
+    "./src/app/components/base/event-emmiter.service.ts");
+    /* harmony import */
+
+
+    var _constants__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(
+    /*! ../../constants */
+    "./src/app/constants.ts");
+
+    var BaseComponentComponent = /*#__PURE__*/function () {
+      function BaseComponentComponent(sharingService, router, eventEmitterservice) {
+        _classCallCheck(this, BaseComponentComponent);
+
+        this.sharingService = sharingService;
+        this.router = router;
+        this.eventEmitterservice = eventEmitterservice;
+        this.CONSTANTS = _constants__WEBPACK_IMPORTED_MODULE_7__;
+        this.scoreData = new src_app_models_score_model__WEBPACK_IMPORTED_MODULE_2__["ScoreModel"]();
+      }
+
+      _createClass(BaseComponentComponent, [{
+        key: "ngOnInit",
+        value: function ngOnInit() {
+          this.eventEmitterservice.stopVideo();
+        }
+      }, {
+        key: "goToBattle",
+        value: function goToBattle(mc1, mc2, videoId) {
+          this.scoreData.Mc1 = new src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__["McModel"]();
+          this.scoreData.Mc2 = new src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__["McModel"]();
+          this.scoreData.videoURL = videoId;
+          this.scoreData.Mc1.name = mc1;
+          this.scoreData.Mc2.name = mc2;
+          this.sharingService.setData(this.scoreData);
+          this.router.navigate(['/Easy']);
+        }
+      }]);
+
+      return BaseComponentComponent;
+    }();
+
+    BaseComponentComponent.ctorParameters = function () {
+      return [{
+        type: src_app_services_SharingService__WEBPACK_IMPORTED_MODULE_3__["SharingService"]
+      }, {
+        type: _angular_router__WEBPACK_IMPORTED_MODULE_4__["Router"]
+      }, {
+        type: _base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_6__["EventEmitterService"]
+      }];
+    };
+
+    BaseComponentComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-base-component',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./base-component.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/base-component/base-component.component.html"))["default"],
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./base-component.component.scss */
+      "./src/app/components/base-component/base-component.component.scss"))["default"]]
+    })], BaseComponentComponent);
     /***/
   },
 
@@ -2758,64 +2940,23 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony import */
 
 
-    var _services_SharingService__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
-    /*! ../../services/SharingService */
-    "./src/app/services/SharingService.ts");
-    /* harmony import */
+    var _base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ../base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
 
+    var BlonComponent = /*#__PURE__*/function (_base_component_base_) {
+      _inherits(BlonComponent, _base_component_base_);
 
-    var src_app_models_score_model__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
-    /*! src/app/models/score-model */
-    "./src/app/models/score-model.ts");
-    /* harmony import */
+      var _super = _createSuper(BlonComponent);
 
-
-    var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
-    /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
-    /* harmony import */
-
-
-    var src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
-    /*! src/app/models/mc-model */
-    "./src/app/models/mc-model.ts");
-
-    var BlonComponent = /*#__PURE__*/function () {
-      function BlonComponent(sharingService, router) {
+      function BlonComponent() {
         _classCallCheck(this, BlonComponent);
 
-        this.sharingService = sharingService;
-        this.router = router;
-        this.scoreData = new src_app_models_score_model__WEBPACK_IMPORTED_MODULE_3__["ScoreModel"]();
+        return _super.apply(this, arguments);
       }
 
-      _createClass(BlonComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }, {
-        key: "goToSPvsBlon",
-        value: function goToSPvsBlon() {
-          this.scoreData.Mc1 = new src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__["McModel"]();
-          this.scoreData.Mc2 = new src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__["McModel"]();
-          this.scoreData.videoURL = "lc5-dUqm7j4";
-          this.scoreData.Mc1.name = "Sweet Pain";
-          this.scoreData.Mc2.name = "Blon";
-          this.sharingService.setData(this.scoreData);
-          console.log("Lets go pa lla");
-          this.router.navigate(['/Easy']);
-        }
-      }]);
-
       return BlonComponent;
-    }();
-
-    BlonComponent.ctorParameters = function () {
-      return [{
-        type: _services_SharingService__WEBPACK_IMPORTED_MODULE_2__["SharingService"]
-      }, {
-        type: _angular_router__WEBPACK_IMPORTED_MODULE_4__["Router"]
-      }];
-    };
+    }(_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     BlonComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-blon',
@@ -2991,19 +3132,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var BnetComponent = /*#__PURE__*/function () {
+
+    var _base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ../base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var BnetComponent = /*#__PURE__*/function (_base_component_base_2) {
+      _inherits(BnetComponent, _base_component_base_2);
+
+      var _super2 = _createSuper(BnetComponent);
+
       function BnetComponent() {
         _classCallCheck(this, BnetComponent);
+
+        return _super2.apply(this, arguments);
       }
 
-      _createClass(BnetComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return BnetComponent;
-    }();
+    }(_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     BnetComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-bnet',
@@ -3416,19 +3564,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var ErreceComponent = /*#__PURE__*/function () {
+
+    var _base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ../base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var ErreceComponent = /*#__PURE__*/function (_base_component_base_3) {
+      _inherits(ErreceComponent, _base_component_base_3);
+
+      var _super3 = _createSuper(ErreceComponent);
+
       function ErreceComponent() {
         _classCallCheck(this, ErreceComponent);
+
+        return _super3.apply(this, arguments);
       }
 
-      _createClass(ErreceComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return ErreceComponent;
-    }();
+    }(_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     ErreceComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-errece',
@@ -4703,19 +4858,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var ChoqueComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var ChoqueComponent = /*#__PURE__*/function (_src_app_components_b) {
+      _inherits(ChoqueComponent, _src_app_components_b);
+
+      var _super4 = _createSuper(ChoqueComponent);
+
       function ChoqueComponent() {
         _classCallCheck(this, ChoqueComponent);
+
+        return _super4.apply(this, arguments);
       }
 
-      _createClass(ChoqueComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return ChoqueComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     ChoqueComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-choque',
@@ -4780,19 +4942,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var JazeComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var JazeComponent = /*#__PURE__*/function (_src_app_components_b2) {
+      _inherits(JazeComponent, _src_app_components_b2);
+
+      var _super5 = _createSuper(JazeComponent);
+
       function JazeComponent() {
         _classCallCheck(this, JazeComponent);
+
+        return _super5.apply(this, arguments);
       }
 
-      _createClass(JazeComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return JazeComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     JazeComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-jaze',
@@ -4857,19 +5026,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var JotaComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var JotaComponent = /*#__PURE__*/function (_src_app_components_b3) {
+      _inherits(JotaComponent, _src_app_components_b3);
+
+      var _super6 = _createSuper(JotaComponent);
+
       function JotaComponent() {
         _classCallCheck(this, JotaComponent);
+
+        return _super6.apply(this, arguments);
       }
 
-      _createClass(JotaComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return JotaComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     JotaComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-jota',
@@ -4934,19 +5110,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var LitzenComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var LitzenComponent = /*#__PURE__*/function (_src_app_components_b4) {
+      _inherits(LitzenComponent, _src_app_components_b4);
+
+      var _super7 = _createSuper(LitzenComponent);
+
       function LitzenComponent() {
         _classCallCheck(this, LitzenComponent);
+
+        return _super7.apply(this, arguments);
       }
 
-      _createClass(LitzenComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return LitzenComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     LitzenComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-litzen',
@@ -5011,19 +5194,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var NekroosComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var NekroosComponent = /*#__PURE__*/function (_src_app_components_b5) {
+      _inherits(NekroosComponent, _src_app_components_b5);
+
+      var _super8 = _createSuper(NekroosComponent);
+
       function NekroosComponent() {
         _classCallCheck(this, NekroosComponent);
+
+        return _super8.apply(this, arguments);
       }
 
-      _createClass(NekroosComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return NekroosComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     NekroosComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-nekroos',
@@ -5088,19 +5278,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var NeweraComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var NeweraComponent = /*#__PURE__*/function (_src_app_components_b6) {
+      _inherits(NeweraComponent, _src_app_components_b6);
+
+      var _super9 = _createSuper(NeweraComponent);
+
       function NeweraComponent() {
         _classCallCheck(this, NeweraComponent);
+
+        return _super9.apply(this, arguments);
       }
 
-      _createClass(NeweraComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return NeweraComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     NeweraComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-newera',
@@ -5165,19 +5362,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var RamsetComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var RamsetComponent = /*#__PURE__*/function (_src_app_components_b7) {
+      _inherits(RamsetComponent, _src_app_components_b7);
+
+      var _super10 = _createSuper(RamsetComponent);
+
       function RamsetComponent() {
         _classCallCheck(this, RamsetComponent);
+
+        return _super10.apply(this, arguments);
       }
 
-      _createClass(RamsetComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return RamsetComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     RamsetComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-ramset',
@@ -5242,19 +5446,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var SkillComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var SkillComponent = /*#__PURE__*/function (_src_app_components_b8) {
+      _inherits(SkillComponent, _src_app_components_b8);
+
+      var _super11 = _createSuper(SkillComponent);
+
       function SkillComponent() {
         _classCallCheck(this, SkillComponent);
+
+        return _super11.apply(this, arguments);
       }
 
-      _createClass(SkillComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return SkillComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     SkillComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-skill',
@@ -5319,19 +5530,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var StickComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var StickComponent = /*#__PURE__*/function (_src_app_components_b9) {
+      _inherits(StickComponent, _src_app_components_b9);
+
+      var _super12 = _createSuper(StickComponent);
+
       function StickComponent() {
         _classCallCheck(this, StickComponent);
+
+        return _super12.apply(this, arguments);
       }
 
-      _createClass(StickComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return StickComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     StickComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-stick',
@@ -5396,19 +5614,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var StrikeComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var StrikeComponent = /*#__PURE__*/function (_src_app_components_b10) {
+      _inherits(StrikeComponent, _src_app_components_b10);
+
+      var _super13 = _createSuper(StrikeComponent);
+
       function StrikeComponent() {
         _classCallCheck(this, StrikeComponent);
+
+        return _super13.apply(this, arguments);
       }
 
-      _createClass(StrikeComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return StrikeComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     StrikeComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-strike',
@@ -5582,75 +5807,23 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony import */
 
 
-    var src_app_services_SharingService__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
-    /*! src/app/services/SharingService */
-    "./src/app/services/SharingService.ts");
-    /* harmony import */
+    var _base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ../base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
 
+    var GazirComponent = /*#__PURE__*/function (_base_component_base_4) {
+      _inherits(GazirComponent, _base_component_base_4);
 
-    var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
-    /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
-    /* harmony import */
+      var _super14 = _createSuper(GazirComponent);
 
-
-    var src_app_models_score_model__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
-    /*! src/app/models/score-model */
-    "./src/app/models/score-model.ts");
-    /* harmony import */
-
-
-    var src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
-    /*! src/app/models/mc-model */
-    "./src/app/models/mc-model.ts");
-    /* harmony import */
-
-
-    var _base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
-    /*! ../base/event-emmiter.service */
-    "./src/app/components/base/event-emmiter.service.ts");
-
-    var GazirComponent = /*#__PURE__*/function () {
-      function GazirComponent(sharingService, router, eventEmitterservice) {
+      function GazirComponent() {
         _classCallCheck(this, GazirComponent);
 
-        this.sharingService = sharingService;
-        this.router = router;
-        this.eventEmitterservice = eventEmitterservice;
-        this.scoreData = new src_app_models_score_model__WEBPACK_IMPORTED_MODULE_4__["ScoreModel"]();
+        return _super14.apply(this, arguments);
       }
 
-      _createClass(GazirComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {
-          this.eventEmitterservice.stopVideo();
-        }
-      }, {
-        key: "goToZaskoVsGazir",
-        value: function goToZaskoVsGazir() {
-          this.scoreData.Mc1 = new src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__["McModel"]();
-          this.scoreData.Mc2 = new src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__["McModel"]();
-          this.scoreData.videoURL = "DrT-exaAbEk";
-          this.scoreData.Mc1.name = "Zasko";
-          this.scoreData.Mc2.name = "Gazir";
-          this.sharingService.setData(this.scoreData);
-          console.log("Vamos");
-          this.router.navigate(['/Easy']);
-        }
-      }]);
-
       return GazirComponent;
-    }();
-
-    GazirComponent.ctorParameters = function () {
-      return [{
-        type: src_app_services_SharingService__WEBPACK_IMPORTED_MODULE_2__["SharingService"]
-      }, {
-        type: _angular_router__WEBPACK_IMPORTED_MODULE_3__["Router"]
-      }, {
-        type: _base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_6__["EventEmitterService"]
-      }];
-    };
+    }(_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     GazirComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-gazir',
@@ -5826,19 +5999,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var KhanComponent = /*#__PURE__*/function () {
+
+    var _base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ../base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var KhanComponent = /*#__PURE__*/function (_base_component_base_5) {
+      _inherits(KhanComponent, _base_component_base_5);
+
+      var _super15 = _createSuper(KhanComponent);
+
       function KhanComponent() {
         _classCallCheck(this, KhanComponent);
+
+        return _super15.apply(this, arguments);
       }
 
-      _createClass(KhanComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return KhanComponent;
-    }();
+    }(_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     KhanComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-khan',
@@ -6011,19 +6191,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var MnakComponent = /*#__PURE__*/function () {
+
+    var _base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ../base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var MnakComponent = /*#__PURE__*/function (_base_component_base_6) {
+      _inherits(MnakComponent, _base_component_base_6);
+
+      var _super16 = _createSuper(MnakComponent);
+
       function MnakComponent() {
         _classCallCheck(this, MnakComponent);
+
+        return _super16.apply(this, arguments);
       }
 
-      _createClass(MnakComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return MnakComponent;
-    }();
+    }(_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     MnakComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-mnak',
@@ -6088,19 +6275,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var MregoComponent = /*#__PURE__*/function () {
+
+    var _base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ../base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var MregoComponent = /*#__PURE__*/function (_base_component_base_7) {
+      _inherits(MregoComponent, _base_component_base_7);
+
+      var _super17 = _createSuper(MregoComponent);
+
       function MregoComponent() {
         _classCallCheck(this, MregoComponent);
+
+        return _super17.apply(this, arguments);
       }
 
-      _createClass(MregoComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return MregoComponent;
-    }();
+    }(_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     MregoComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-mrego',
@@ -6199,7 +6393,6 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         this.scoreData.Mc1.calculateTotal();
         this.scoreData.Mc2.calculateTotal();
-        this.eventEmiiter.stopVideo();
       }
 
       _createClass(ResultsComponent, [{
@@ -6298,63 +6491,23 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony import */
 
 
-    var _services_SharingService__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
-    /*! ../../services/SharingService */
-    "./src/app/services/SharingService.ts");
-    /* harmony import */
+    var _base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ../base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
 
+    var SweetpainComponent = /*#__PURE__*/function (_base_component_base_8) {
+      _inherits(SweetpainComponent, _base_component_base_8);
 
-    var src_app_models_score_model__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
-    /*! src/app/models/score-model */
-    "./src/app/models/score-model.ts");
-    /* harmony import */
+      var _super18 = _createSuper(SweetpainComponent);
 
-
-    var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
-    /*! @angular/router */
-    "./node_modules/@angular/router/fesm2015/router.js");
-    /* harmony import */
-
-
-    var src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(
-    /*! src/app/models/mc-model */
-    "./src/app/models/mc-model.ts");
-
-    var SweetpainComponent = /*#__PURE__*/function () {
-      function SweetpainComponent(sharingService, router) {
+      function SweetpainComponent() {
         _classCallCheck(this, SweetpainComponent);
 
-        this.sharingService = sharingService;
-        this.router = router;
-        this.scoreData = new src_app_models_score_model__WEBPACK_IMPORTED_MODULE_3__["ScoreModel"]();
+        return _super18.apply(this, arguments);
       }
 
-      _createClass(SweetpainComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }, {
-        key: "goToSPvsBlon",
-        value: function goToSPvsBlon() {
-          this.scoreData.Mc1 = new src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__["McModel"]();
-          this.scoreData.Mc2 = new src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__["McModel"]();
-          this.scoreData.Mc1.name = "Sweet Pain";
-          this.scoreData.Mc2.name = "Blon";
-          this.sharingService.setData(this.scoreData);
-          console.log("Lets go pa lla");
-          this.router.navigate(['/Easy']);
-        }
-      }]);
-
       return SweetpainComponent;
-    }();
-
-    SweetpainComponent.ctorParameters = function () {
-      return [{
-        type: _services_SharingService__WEBPACK_IMPORTED_MODULE_2__["SharingService"]
-      }, {
-        type: _angular_router__WEBPACK_IMPORTED_MODULE_4__["Router"]
-      }];
-    };
+    }(_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     SweetpainComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-sweetpain',
@@ -6530,19 +6683,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var TirpaComponent = /*#__PURE__*/function () {
+
+    var _base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ../base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var TirpaComponent = /*#__PURE__*/function (_base_component_base_9) {
+      _inherits(TirpaComponent, _base_component_base_9);
+
+      var _super19 = _createSuper(TirpaComponent);
+
       function TirpaComponent() {
         _classCallCheck(this, TirpaComponent);
+
+        return _super19.apply(this, arguments);
       }
 
-      _createClass(TirpaComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return TirpaComponent;
-    }();
+    }(_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     TirpaComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-tirpa',
@@ -6607,19 +6767,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var ZaskoComponent = /*#__PURE__*/function () {
+
+    var _base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ../base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var ZaskoComponent = /*#__PURE__*/function (_base_component_base_10) {
+      _inherits(ZaskoComponent, _base_component_base_10);
+
+      var _super20 = _createSuper(ZaskoComponent);
+
       function ZaskoComponent() {
         _classCallCheck(this, ZaskoComponent);
+
+        return _super20.apply(this, arguments);
       }
 
-      _createClass(ZaskoComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return ZaskoComponent;
-    }();
+    }(_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     ZaskoComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-zasko',
@@ -6630,6 +6797,357 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       /*! ./zasko.component.scss */
       "./src/app/components/zasko/zasko.component.scss"))["default"]]
     })], ZaskoComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/constants.ts":
+  /*!******************************!*\
+    !*** ./src/app/constants.ts ***!
+    \******************************/
+
+  /*! exports provided: ZASKO_NAME, MR_EGO_NAME, BLON_NAME, ERRECE_NAME, KHAN_NAME, SWEET_PAIN_NAME, GAZIR_NAME, BNET_NAME, TIRPA_NAME, MNAK_NAME, JAZE_NAME, JOTA_NAME, NEW_ERA_NAME, ZIKA_NAME, NEKROOS_NAME, RAMSET_NAME, CHOQUE_NAME, SKILL_NAME, LITZEN_NAME, STICK_NAME, STRIKE_NAME, LOBO_ESTEPARIO_NAME, POTENCIA_NAME, BONE_NAME, YOIKER_NAME, JONY_BELTRAN_NAME, ZTICMA_NAME, GARZA_NAME, RAPDER_NAME, RC_NAME, SKIPER_NAME, S2020_BATTLE_ESP_J1_SWEET_PAIN_BLON, S2020_BATTLE_ESP_J1_ZASKO_GAZIR, S2020_BATTLE_ESP_J1_ERRECE_BNET, S2020_BATTLE_ESP_J1_MNAK_KHAN, S2020_BATTLE_ESP_J1_MR_EGO_TIRPA, S2020_BATTLE_PERU_J1_JAZE_JOTA, S2020_BATTLE_PERU_J1_NEKROOS_NEW_ERA, S2020_BATTLE_PERU_J1_ENZO_ZIKA, S2020_BATTLE_PERU_J1_STRIKE_LITZEN, S2020_BATTLE_PERU_J1_CHOQUE_SKILL, S2020_BATTLE_MEX_J1_RAPDER_SKIPER, S2020_BATTLE_MEX_J1_POTENCIA_RC, S2020_BATTLE_MEX_J1_YOIKER_ZTICMA, S2020_BATTLE_MEX_J1_LOBO_ESTEPARIO_GARZA, S2020_BATTLE_MEX_J1_BONE_JONY_BELTRAN */
+
+  /***/
+  function srcAppConstantsTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "ZASKO_NAME", function () {
+      return ZASKO_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "MR_EGO_NAME", function () {
+      return MR_EGO_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "BLON_NAME", function () {
+      return BLON_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "ERRECE_NAME", function () {
+      return ERRECE_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "KHAN_NAME", function () {
+      return KHAN_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "SWEET_PAIN_NAME", function () {
+      return SWEET_PAIN_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "GAZIR_NAME", function () {
+      return GAZIR_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "BNET_NAME", function () {
+      return BNET_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "TIRPA_NAME", function () {
+      return TIRPA_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "MNAK_NAME", function () {
+      return MNAK_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "JAZE_NAME", function () {
+      return JAZE_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "JOTA_NAME", function () {
+      return JOTA_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "NEW_ERA_NAME", function () {
+      return NEW_ERA_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "ZIKA_NAME", function () {
+      return ZIKA_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "NEKROOS_NAME", function () {
+      return NEKROOS_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "RAMSET_NAME", function () {
+      return RAMSET_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "CHOQUE_NAME", function () {
+      return CHOQUE_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "SKILL_NAME", function () {
+      return SKILL_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "LITZEN_NAME", function () {
+      return LITZEN_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "STICK_NAME", function () {
+      return STICK_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "STRIKE_NAME", function () {
+      return STRIKE_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "LOBO_ESTEPARIO_NAME", function () {
+      return LOBO_ESTEPARIO_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "POTENCIA_NAME", function () {
+      return POTENCIA_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "BONE_NAME", function () {
+      return BONE_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "YOIKER_NAME", function () {
+      return YOIKER_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "JONY_BELTRAN_NAME", function () {
+      return JONY_BELTRAN_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "ZTICMA_NAME", function () {
+      return ZTICMA_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "GARZA_NAME", function () {
+      return GARZA_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "RAPDER_NAME", function () {
+      return RAPDER_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "RC_NAME", function () {
+      return RC_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "SKIPER_NAME", function () {
+      return SKIPER_NAME;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "S2020_BATTLE_ESP_J1_SWEET_PAIN_BLON", function () {
+      return S2020_BATTLE_ESP_J1_SWEET_PAIN_BLON;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "S2020_BATTLE_ESP_J1_ZASKO_GAZIR", function () {
+      return S2020_BATTLE_ESP_J1_ZASKO_GAZIR;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "S2020_BATTLE_ESP_J1_ERRECE_BNET", function () {
+      return S2020_BATTLE_ESP_J1_ERRECE_BNET;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "S2020_BATTLE_ESP_J1_MNAK_KHAN", function () {
+      return S2020_BATTLE_ESP_J1_MNAK_KHAN;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "S2020_BATTLE_ESP_J1_MR_EGO_TIRPA", function () {
+      return S2020_BATTLE_ESP_J1_MR_EGO_TIRPA;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "S2020_BATTLE_PERU_J1_JAZE_JOTA", function () {
+      return S2020_BATTLE_PERU_J1_JAZE_JOTA;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "S2020_BATTLE_PERU_J1_NEKROOS_NEW_ERA", function () {
+      return S2020_BATTLE_PERU_J1_NEKROOS_NEW_ERA;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "S2020_BATTLE_PERU_J1_ENZO_ZIKA", function () {
+      return S2020_BATTLE_PERU_J1_ENZO_ZIKA;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "S2020_BATTLE_PERU_J1_STRIKE_LITZEN", function () {
+      return S2020_BATTLE_PERU_J1_STRIKE_LITZEN;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "S2020_BATTLE_PERU_J1_CHOQUE_SKILL", function () {
+      return S2020_BATTLE_PERU_J1_CHOQUE_SKILL;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "S2020_BATTLE_MEX_J1_RAPDER_SKIPER", function () {
+      return S2020_BATTLE_MEX_J1_RAPDER_SKIPER;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "S2020_BATTLE_MEX_J1_POTENCIA_RC", function () {
+      return S2020_BATTLE_MEX_J1_POTENCIA_RC;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "S2020_BATTLE_MEX_J1_YOIKER_ZTICMA", function () {
+      return S2020_BATTLE_MEX_J1_YOIKER_ZTICMA;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "S2020_BATTLE_MEX_J1_LOBO_ESTEPARIO_GARZA", function () {
+      return S2020_BATTLE_MEX_J1_LOBO_ESTEPARIO_GARZA;
+    });
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "S2020_BATTLE_MEX_J1_BONE_JONY_BELTRAN", function () {
+      return S2020_BATTLE_MEX_J1_BONE_JONY_BELTRAN;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js"); //Nombres FMSEsp
+
+
+    var ZASKO_NAME = "Zasko";
+    var MR_EGO_NAME = "Mr. Ego";
+    var BLON_NAME = "Blon";
+    var ERRECE_NAME = "Errece";
+    var KHAN_NAME = "Khan";
+    var SWEET_PAIN_NAME = "Sweet pain";
+    var GAZIR_NAME = "Gazir";
+    var BNET_NAME = "Bnet";
+    var TIRPA_NAME = "Tirpa";
+    var MNAK_NAME = "Mnak"; //Nombres FMSPeru
+
+    var JAZE_NAME = "Jaze";
+    var JOTA_NAME = "Jota";
+    var NEW_ERA_NAME = "New era";
+    var ZIKA_NAME = "Zika";
+    var NEKROOS_NAME = "Nekroos";
+    var RAMSET_NAME = "Ramset";
+    var CHOQUE_NAME = "Choque";
+    var SKILL_NAME = "Skill";
+    var LITZEN_NAME = "Litzen";
+    var STICK_NAME = "Stick";
+    var STRIKE_NAME = "Strike"; //Nombres FMSMex
+
+    var LOBO_ESTEPARIO_NAME = "Lobo estepario";
+    var POTENCIA_NAME = "Potencia";
+    var BONE_NAME = "B. One";
+    var YOIKER_NAME = "Yoiker";
+    var JONY_BELTRAN_NAME = "Jony";
+    var ZTICMA_NAME = "Zticma";
+    var GARZA_NAME = "Garza";
+    var RAPDER_NAME = "Rapder";
+    var RC_NAME = "RC";
+    var SKIPER_NAME = "Skiper"; //Batallas FMSEsp T2020 Jornada1
+
+    var S2020_BATTLE_ESP_J1_SWEET_PAIN_BLON = "lc5-dUqm7j4";
+    var S2020_BATTLE_ESP_J1_ZASKO_GAZIR = "DrT-exaAbEk";
+    var S2020_BATTLE_ESP_J1_ERRECE_BNET = "PtMQbN9x8I8";
+    var S2020_BATTLE_ESP_J1_MNAK_KHAN = "IkJmWaNTMgI";
+    var S2020_BATTLE_ESP_J1_MR_EGO_TIRPA = "yNbtrwnNH-g"; //Batallas FMSPeru T2020 Jornada1
+
+    var S2020_BATTLE_PERU_J1_JAZE_JOTA = "BI-GRSXLg1M";
+    var S2020_BATTLE_PERU_J1_NEKROOS_NEW_ERA = "t3QIr-A2rlA";
+    var S2020_BATTLE_PERU_J1_ENZO_ZIKA = "AyrFdto_vxE";
+    var S2020_BATTLE_PERU_J1_STRIKE_LITZEN = "xDXnifts8JM";
+    var S2020_BATTLE_PERU_J1_CHOQUE_SKILL = "5oETXuzmnME"; //Batallas FMSMex T2020 Jornada1
+
+    var S2020_BATTLE_MEX_J1_RAPDER_SKIPER = "x4imf5uv24U";
+    var S2020_BATTLE_MEX_J1_POTENCIA_RC = "x4imf5uv24U";
+    var S2020_BATTLE_MEX_J1_YOIKER_ZTICMA = "x4imf5uv24U";
+    var S2020_BATTLE_MEX_J1_LOBO_ESTEPARIO_GARZA = "x4imf5uv24U";
+    var S2020_BATTLE_MEX_J1_BONE_JONY_BELTRAN = "x4imf5uv24U";
     /***/
   },
 
