@@ -1,22 +1,15 @@
-<table class="scoreTable">
 
-  <tbody>
-    <tr>
-      <td class="mc">
-        {{ scoreData.Mc1.name }}
-      </td>
+<div class="mc1">
+  <span id="result">{{ scoreData.Mc1.name }}</span>
+  {{scoreData.Mc1.result}}
+</div>
 
-      <td>{{scoreData.Mc1.result}}</td>
-    </tr>
-    <tr>
-      <td class="mc">
-        {{ scoreData.Mc2.name }}
-      </td>
+<div class="mc2">
+  <span id="result">{{ scoreData.Mc2.name }}</span>
+  {{scoreData.Mc2.result}}
+</div>
 
-      <td>{{scoreData.Mc2.result}}</td>
-    </tr>
-  </tbody>
-</table>
+<div class="btnTwitter">  
+  <a twitterButton (click)="getTwitterUrl()" class="twitter-share-button" data-show-count="false"><img id="twitter" src="../../../assets/images/twitter/Btn_twitter.png"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
-
-<a twitterButton (click)="getTwitterUrl()" class="twitter-share-button" data-show-count="false"><img id="twitter" src="../../../assets/images/twitter/Btn_twitter.png"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
