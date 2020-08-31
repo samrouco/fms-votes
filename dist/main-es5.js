@@ -105,7 +105,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.SWEET_PAIN_NAME, CONSTANTS.BLON_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_SWEET_PAIN_BLON)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/blon_sweetpain.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.SWEET_PAIN_NAME, CONSTANTS.BLON_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_SWEET_PAIN_BLON)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/blon_sweetpain.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -145,7 +145,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ERRECE_NAME, CONSTANTS.BNET_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ERRECE_BNET)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/bnet_errece.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ERRECE_NAME, CONSTANTS.BNET_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ERRECE_BNET)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/bnet_errece.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -225,7 +225,227 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ERRECE_NAME, CONSTANTS.BNET_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ERRECE_BNET)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/bnet_errece.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ERRECE_NAME, CONSTANTS.BNET_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ERRECE_BNET)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/bnet_errece.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/cacha/cacha.component.html":
+  /*!*****************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/cacha/cacha.component.html ***!
+    \*****************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppComponentsFmsArgCachaCachaComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a><img src=\"../../../../assets/images/batallas_arg/S2020/J1/cacha_mks.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/jornada_final.png\"></a>\n    </div>\n</div>\n";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/dtoke/dtoke.component.html":
+  /*!*****************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/dtoke/dtoke.component.html ***!
+    \*****************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppComponentsFmsArgDtokeDtokeComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a><img src=\"../../../../assets/images/batallas_arg/S2020/J1/dtoke_wolf.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/jornada_final.png\"></a>\n    </div>\n</div>\n";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/fms-arg.component.html":
+  /*!*************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/fms-arg.component.html ***!
+    \*************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppComponentsFmsArgFmsArgComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a (click)=\"ircacha()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_cacha.png\"></a>\n        <a (click)=\"irklan()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_klan.png\" alt=\"\"></a>\n        <a (click)=\"irdtoke()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_dtoke.png\" alt=\"\"></a>\n        <a (click)=\"irmecha()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_mecha.png\" alt=\"\"></a>\n        <a (click)=\"irpapo()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_papo.png\" alt=\"\"></a>\n        <a (click)=\"irmks()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_mks.png\" alt=\"\"></a>\n        <a (click)=\"irstuart()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_stuart.png\" alt=\"\"></a>\n        <a (click)=\"irsub()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_sub.png\" alt=\"\"></a>\n        <a (click)=\"irnacho()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_nacho.png\" alt=\"\"></a>\n        <a (click)=\"irwolf()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_wolf.png\" alt=\"\"></a>\n    </div>\n</div>\n";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/klan/klan.component.html":
+  /*!***************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/klan/klan.component.html ***!
+    \***************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppComponentsFmsArgKlanKlanComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a><img src=\"../../../../assets/images/batallas_arg/S2020/J1/mecha_klan.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/jornada_final.png\"></a>\n    </div>\n</div>\n";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/mecha/mecha.component.html":
+  /*!*****************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/mecha/mecha.component.html ***!
+    \*****************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppComponentsFmsArgMechaMechaComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a><img src=\"../../../../assets/images/batallas_arg/S2020/J1/mecha_klan.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/jornada_final.png\"></a>\n    </div>\n</div>";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/mks/mks.component.html":
+  /*!*************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/mks/mks.component.html ***!
+    \*************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppComponentsFmsArgMksMksComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a><img src=\"../../../../assets/images/batallas_arg/S2020/J1/cacha_mks.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/jornada_final.png\"></a>\n    </div>\n</div>\n";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/nacho/nacho.component.html":
+  /*!*****************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/nacho/nacho.component.html ***!
+    \*****************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppComponentsFmsArgNachoNachoComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a><img src=\"../../../../assets/images/batallas_arg/S2020/J1/stuart_nacho.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/jornada_final.png\"></a>\n    </div>\n</div>\n";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/papo/papo.component.html":
+  /*!***************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/papo/papo.component.html ***!
+    \***************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppComponentsFmsArgPapoPapoComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a><img src=\"../../../../assets/images/batallas_arg/S2020/J1/sub_papo.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/jornada_final.png\"></a>\n    </div>\n</div>\n";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/stuart/stuart.component.html":
+  /*!*******************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/stuart/stuart.component.html ***!
+    \*******************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppComponentsFmsArgStuartStuartComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a><img src=\"../../../../assets/images/batallas_arg/S2020/J1/stuart_nacho.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/jornada_final.png\"></a>\n    </div>\n</div>\n";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/sub/sub.component.html":
+  /*!*************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/sub/sub.component.html ***!
+    \*************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppComponentsFmsArgSubSubComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a><img src=\"../../../../assets/images/batallas_arg/S2020/J1/sub_papo.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/jornada_final.png\"></a>\n    </div>\n</div>\n\n";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/wolf/wolf.component.html":
+  /*!***************************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/wolf/wolf.component.html ***!
+    \***************************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppComponentsFmsArgWolfWolfComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n<div class=\"contenedor\">\n    <div>\n        <a><img src=\"../../../../assets/images/batallas_arg/S2020/J1/dtoke_wolf.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_arg/Proximamente/jornada_final.png\"></a>\n    </div>\n</div>\n\n";
     /***/
   },
 
@@ -285,7 +505,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/bone_jonyb.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.BONE_NAME, CONSTANTS.JONY_BELTRAN_NAME, CONSTANTS.S2020_BATTLE_MEX_J1_BONE_JONY_BELTRAN)\"><img src=\"../../../../../assets/images/batallas_mex/S2020/J1/bone_jonyb.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -305,7 +525,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/garza_lobo.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.LOBO_ESTEPARIO_NAME, CONSTANTS.GARZA_NAME, CONSTANTS.S2020_BATTLE_MEX_J1_LOBO_ESTEPARIO_GARZA)\"><img src=\"../../../../../assets/images/batallas_mex/S2020/J1/garza_lobo.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -325,7 +545,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/bone_jonyb.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.BONE_NAME, CONSTANTS.JONY_BELTRAN_NAME, CONSTANTS.S2020_BATTLE_MEX_J1_BONE_JONY_BELTRAN)\"><img src=\"../../../../../assets/images/batallas_mex/S2020/J1/bone_jonyb.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -345,7 +565,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/garza_lobo.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.LOBO_ESTEPARIO_NAME, CONSTANTS.GARZA_NAME, CONSTANTS.S2020_BATTLE_MEX_J1_LOBO_ESTEPARIO_GARZA)\"><img src=\"../../../../../assets/images/batallas_mex/S2020/J1/garza_lobo.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -365,7 +585,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/potencia_rc.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.POTENCIA_NAME, CONSTANTS.RC_NAME, CONSTANTS.S2020_BATTLE_MEX_J1_POTENCIA_RC)\"><img src=\"../../../../../assets/images/batallas_mex/S2020/J1/potencia_rc.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n";
     /***/
   },
 
@@ -385,7 +605,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/rapder_skiper.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.RAPDER_NAME, CONSTANTS.SKIPER_NAME, CONSTANTS.S2020_BATTLE_MEX_J1_RAPDER_SKIPER)\"><img src=\"../../../../../assets/images/batallas_mex/S2020/J1/rapder_skiper.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -405,7 +625,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/potencia_rc.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.POTENCIA_NAME, CONSTANTS.RC_NAME, CONSTANTS.S2020_BATTLE_MEX_J1_POTENCIA_RC)\"><img src=\"../../../../../assets/images/batallas_mex/S2020/J1/potencia_rc.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -425,7 +645,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/rapder_skiper.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.RAPDER_NAME, CONSTANTS.SKIPER_NAME, CONSTANTS.S2020_BATTLE_MEX_J1_RAPDER_SKIPER)\"><img src=\"../../../../../assets/images/batallas_mex/S2020/J1/rapder_skiper.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
     /***/
   },
 
@@ -445,7 +665,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/zticma_yoiker.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.YOIKER_NAME, CONSTANTS.ZTICMA_NAME, CONSTANTS.S2020_BATTLE_MEX_J1_YOIKER_ZTICMA)\"><img src=\"../../../../../assets/images/batallas_mex/S2020/J1/zticma_yoiker.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
     /***/
   },
 
@@ -465,7 +685,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a href=\"#\"><img src=\"../../../../../assets/images/batallas_mex/zticma_yoiker.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/jornadas proximas/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.YOIKER_NAME, CONSTANTS.ZTICMA_NAME, CONSTANTS.S2020_BATTLE_MEX_J1_YOIKER_ZTICMA)\"><img src=\"../../../../../assets/images/batallas_mex/S2020/J1/zticma_yoiker.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../../../assets/images/batallas_mex/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -725,7 +945,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ZASKO_NAME, CONSTANTS.GAZIR_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ZASKO_GAZIR)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/gazir_zasko.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ZASKO_NAME, CONSTANTS.GAZIR_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ZASKO_GAZIR)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/gazir_zasko.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -765,7 +985,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MNAK_NAME, CONSTANTS.KHAN_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MNAK_KHAN)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/khan_mnak.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
+    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MNAK_NAME, CONSTANTS.KHAN_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MNAK_KHAN)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/khan_mnak.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n";
     /***/
   },
 
@@ -805,7 +1025,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MNAK_NAME, CONSTANTS.KHAN_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MNAK_KHAN)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/khan_mnak.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
+    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MNAK_NAME, CONSTANTS.KHAN_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MNAK_KHAN)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/khan_mnak.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
     /***/
   },
 
@@ -825,7 +1045,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MR_EGO_NAME, CONSTANTS.TIRPA_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MR_EGO_TIRPA)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/tirpa_mrego.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
+    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MR_EGO_NAME, CONSTANTS.TIRPA_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MR_EGO_TIRPA)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/tirpa_mrego.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
     /***/
   },
 
@@ -865,7 +1085,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.SWEET_PAIN_NAME, CONSTANTS.BLON_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_SWEET_PAIN_BLON)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/blon_sweetpain.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
+    __webpack_exports__["default"] = "<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.SWEET_PAIN_NAME, CONSTANTS.BLON_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_SWEET_PAIN_BLON)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/blon_sweetpain.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a> \r\n    </div>\r\n</div>\r\n\r\n\r\n";
     /***/
   },
 
@@ -905,7 +1125,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MR_EGO_NAME, CONSTANTS.TIRPA_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MR_EGO_TIRPA)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/tirpa_mrego.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MR_EGO_NAME, CONSTANTS.TIRPA_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MR_EGO_TIRPA)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/tirpa_mrego.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
     /***/
   },
 
@@ -925,7 +1145,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ZASKO_NAME, CONSTANTS.GAZIR_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ZASKO_GAZIR)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/gazir_zasko.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox 8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/jornadas_prox/plantilla prox final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
+    __webpack_exports__["default"] = "\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ZASKO_NAME, CONSTANTS.GAZIR_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ZASKO_GAZIR)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/gazir_zasko.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n";
     /***/
   },
 
@@ -1776,10 +1996,103 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _components_fms_per_gallos_strike_strike_component__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(
     /*! ./components/fms-per/gallos/strike/strike.component */
     "./src/app/components/fms-per/gallos/strike/strike.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_cacha_cacha_component__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(
+    /*! ./components/fms-arg/cacha/cacha.component */
+    "./src/app/components/fms-arg/cacha/cacha.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_dtoke_dtoke_component__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(
+    /*! ./components/fms-arg/dtoke/dtoke.component */
+    "./src/app/components/fms-arg/dtoke/dtoke.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_klan_klan_component__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(
+    /*! ./components/fms-arg/klan/klan.component */
+    "./src/app/components/fms-arg/klan/klan.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_mecha_mecha_component__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(
+    /*! ./components/fms-arg/mecha/mecha.component */
+    "./src/app/components/fms-arg/mecha/mecha.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_mks_mks_component__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(
+    /*! ./components/fms-arg/mks/mks.component */
+    "./src/app/components/fms-arg/mks/mks.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_nacho_nacho_component__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(
+    /*! ./components/fms-arg/nacho/nacho.component */
+    "./src/app/components/fms-arg/nacho/nacho.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_papo_papo_component__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(
+    /*! ./components/fms-arg/papo/papo.component */
+    "./src/app/components/fms-arg/papo/papo.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_stuart_stuart_component__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(
+    /*! ./components/fms-arg/stuart/stuart.component */
+    "./src/app/components/fms-arg/stuart/stuart.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_sub_sub_component__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(
+    /*! ./components/fms-arg/sub/sub.component */
+    "./src/app/components/fms-arg/sub/sub.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_wolf_wolf_component__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(
+    /*! ./components/fms-arg/wolf/wolf.component */
+    "./src/app/components/fms-arg/wolf/wolf.component.ts");
 
     var routes = [{
       path: 'FmsSelector',
       component: _components_fms_selector_fms_selector_component__WEBPACK_IMPORTED_MODULE_11__["FmsSelectorComponent"]
+    }, {
+      path: 'FmsArg',
+      component: _components_fms_esp_fms_esp_component__WEBPACK_IMPORTED_MODULE_12__["FmsEspComponent"]
+    }, {
+      path: 'Cacha',
+      component: _components_fms_arg_cacha_cacha_component__WEBPACK_IMPORTED_MODULE_45__["CachaComponent"]
+    }, {
+      path: 'Dtoke',
+      component: _components_fms_arg_dtoke_dtoke_component__WEBPACK_IMPORTED_MODULE_46__["DtokeComponent"]
+    }, {
+      path: 'Klan',
+      component: _components_fms_arg_klan_klan_component__WEBPACK_IMPORTED_MODULE_47__["KlanComponent"]
+    }, {
+      path: 'Mecha',
+      component: _components_fms_arg_mecha_mecha_component__WEBPACK_IMPORTED_MODULE_48__["MechaComponent"]
+    }, {
+      path: 'Mks',
+      component: _components_fms_arg_mks_mks_component__WEBPACK_IMPORTED_MODULE_49__["MksComponent"]
+    }, {
+      path: 'Nacho',
+      component: _components_fms_arg_nacho_nacho_component__WEBPACK_IMPORTED_MODULE_50__["NachoComponent"]
+    }, {
+      path: 'Papo',
+      component: _components_fms_arg_papo_papo_component__WEBPACK_IMPORTED_MODULE_51__["PapoComponent"]
+    }, {
+      path: 'Stuart',
+      component: _components_fms_arg_stuart_stuart_component__WEBPACK_IMPORTED_MODULE_52__["StuartComponent"]
+    }, {
+      path: 'Sub',
+      component: _components_fms_arg_sub_sub_component__WEBPACK_IMPORTED_MODULE_53__["SubComponent"]
+    }, {
+      path: 'Wolf',
+      component: _components_fms_arg_wolf_wolf_component__WEBPACK_IMPORTED_MODULE_54__["WolfComponent"]
     }, {
       path: 'FmsEsp',
       component: _components_fms_esp_fms_esp_component__WEBPACK_IMPORTED_MODULE_12__["FmsEspComponent"]
@@ -2512,13 +2825,79 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(
     /*! ./components/base-component/base-component.component */
     "./src/app/components/base-component/base-component.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_fms_arg_component__WEBPACK_IMPORTED_MODULE_55__ = __webpack_require__(
+    /*! ./components/fms-arg/fms-arg.component */
+    "./src/app/components/fms-arg/fms-arg.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_cacha_cacha_component__WEBPACK_IMPORTED_MODULE_56__ = __webpack_require__(
+    /*! ./components/fms-arg/cacha/cacha.component */
+    "./src/app/components/fms-arg/cacha/cacha.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_dtoke_dtoke_component__WEBPACK_IMPORTED_MODULE_57__ = __webpack_require__(
+    /*! ./components/fms-arg/dtoke/dtoke.component */
+    "./src/app/components/fms-arg/dtoke/dtoke.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_klan_klan_component__WEBPACK_IMPORTED_MODULE_58__ = __webpack_require__(
+    /*! ./components/fms-arg/klan/klan.component */
+    "./src/app/components/fms-arg/klan/klan.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_mecha_mecha_component__WEBPACK_IMPORTED_MODULE_59__ = __webpack_require__(
+    /*! ./components/fms-arg/mecha/mecha.component */
+    "./src/app/components/fms-arg/mecha/mecha.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_mks_mks_component__WEBPACK_IMPORTED_MODULE_60__ = __webpack_require__(
+    /*! ./components/fms-arg/mks/mks.component */
+    "./src/app/components/fms-arg/mks/mks.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_nacho_nacho_component__WEBPACK_IMPORTED_MODULE_61__ = __webpack_require__(
+    /*! ./components/fms-arg/nacho/nacho.component */
+    "./src/app/components/fms-arg/nacho/nacho.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_papo_papo_component__WEBPACK_IMPORTED_MODULE_62__ = __webpack_require__(
+    /*! ./components/fms-arg/papo/papo.component */
+    "./src/app/components/fms-arg/papo/papo.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_stuart_stuart_component__WEBPACK_IMPORTED_MODULE_63__ = __webpack_require__(
+    /*! ./components/fms-arg/stuart/stuart.component */
+    "./src/app/components/fms-arg/stuart/stuart.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_sub_sub_component__WEBPACK_IMPORTED_MODULE_64__ = __webpack_require__(
+    /*! ./components/fms-arg/sub/sub.component */
+    "./src/app/components/fms-arg/sub/sub.component.ts");
+    /* harmony import */
+
+
+    var _components_fms_arg_wolf_wolf_component__WEBPACK_IMPORTED_MODULE_65__ = __webpack_require__(
+    /*! ./components/fms-arg/wolf/wolf.component */
+    "./src/app/components/fms-arg/wolf/wolf.component.ts");
 
     var AppModule = function AppModule() {
       _classCallCheck(this, AppModule);
     };
 
     AppModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_2__["NgModule"])({
-      declarations: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"], _components_mc_selector_mc_selector_component__WEBPACK_IMPORTED_MODULE_5__["McSelectorComponent"], _components_easy_easy_component__WEBPACK_IMPORTED_MODULE_11__["EasyComponent"], _components_base_patron_number_directive__WEBPACK_IMPORTED_MODULE_12__["PatronNumberDirective"], _components_base_extra_score_directive__WEBPACK_IMPORTED_MODULE_13__["ExtraScoreNumberDirective"], _components_hard_hard_component__WEBPACK_IMPORTED_MODULE_14__["HardComponent"], _components_thematic_thematic_component__WEBPACK_IMPORTED_MODULE_15__["ThematicComponent"], _components_blood_blood_component__WEBPACK_IMPORTED_MODULE_16__["BloodComponent"], _components_characters_characters_component__WEBPACK_IMPORTED_MODULE_17__["CharactersComponent"], _components_deluxe_deluxe_component__WEBPACK_IMPORTED_MODULE_18__["DeluxeComponent"], _components_results_results_component__WEBPACK_IMPORTED_MODULE_19__["ResultsComponent"], _components_fms_selector_fms_selector_component__WEBPACK_IMPORTED_MODULE_20__["FmsSelectorComponent"], _components_fms_esp_fms_esp_component__WEBPACK_IMPORTED_MODULE_21__["FmsEspComponent"], _components_blon_blon_component__WEBPACK_IMPORTED_MODULE_22__["BlonComponent"], _components_khan_khan_component__WEBPACK_IMPORTED_MODULE_23__["KhanComponent"], _components_mrego_mrego_component__WEBPACK_IMPORTED_MODULE_24__["MregoComponent"], _components_tirpa_tirpa_component__WEBPACK_IMPORTED_MODULE_25__["TirpaComponent"], _components_zasko_zasko_component__WEBPACK_IMPORTED_MODULE_26__["ZaskoComponent"], _components_gazir_gazir_component__WEBPACK_IMPORTED_MODULE_27__["GazirComponent"], _components_mnak_mnak_component__WEBPACK_IMPORTED_MODULE_28__["MnakComponent"], _components_errece_errece_component__WEBPACK_IMPORTED_MODULE_29__["ErreceComponent"], _components_bnet_bnet_component__WEBPACK_IMPORTED_MODULE_30__["BnetComponent"], _components_sweetpain_sweetpain_component__WEBPACK_IMPORTED_MODULE_31__["SweetpainComponent"], _components_fms_mex_fms_mex_component__WEBPACK_IMPORTED_MODULE_32__["FmsMexComponent"], _components_fms_per_fms_per_component__WEBPACK_IMPORTED_MODULE_33__["FmsPerComponent"], _components_fms_mex_gallos_lobo_lobo_component__WEBPACK_IMPORTED_MODULE_34__["LoboComponent"], _components_fms_mex_gallos_bone_bone_component__WEBPACK_IMPORTED_MODULE_35__["BoneComponent"], _components_fms_mex_gallos_jonyb_jonyb_component__WEBPACK_IMPORTED_MODULE_36__["JonybComponent"], _components_fms_mex_gallos_garza_garza_component__WEBPACK_IMPORTED_MODULE_37__["GarzaComponent"], _components_fms_mex_gallos_rc_rc_component__WEBPACK_IMPORTED_MODULE_38__["RcComponent"], _components_fms_mex_gallos_potencia_potencia_component__WEBPACK_IMPORTED_MODULE_39__["PotenciaComponent"], _components_fms_mex_gallos_yoiker_yoiker_component__WEBPACK_IMPORTED_MODULE_40__["YoikerComponent"], _components_fms_mex_gallos_zticma_zticma_component__WEBPACK_IMPORTED_MODULE_41__["ZticmaComponent"], _components_fms_mex_gallos_rapder_rapder_component__WEBPACK_IMPORTED_MODULE_42__["RapderComponent"], _components_fms_mex_gallos_skiper_skiper_component__WEBPACK_IMPORTED_MODULE_43__["SkiperComponent"], _components_fms_per_gallos_jota_jota_component__WEBPACK_IMPORTED_MODULE_44__["JotaComponent"], _components_fms_per_gallos_skill_skill_component__WEBPACK_IMPORTED_MODULE_45__["SkillComponent"], _components_fms_per_gallos_jaze_jaze_component__WEBPACK_IMPORTED_MODULE_46__["JazeComponent"], _components_fms_per_gallos_litzen_litzen_component__WEBPACK_IMPORTED_MODULE_47__["LitzenComponent"], _components_fms_per_gallos_nekroos_nekroos_component__WEBPACK_IMPORTED_MODULE_48__["NekroosComponent"], _components_fms_per_gallos_newera_newera_component__WEBPACK_IMPORTED_MODULE_49__["NeweraComponent"], _components_fms_per_gallos_ramset_ramset_component__WEBPACK_IMPORTED_MODULE_50__["RamsetComponent"], _components_fms_per_gallos_stick_stick_component__WEBPACK_IMPORTED_MODULE_51__["StickComponent"], _components_fms_per_gallos_choque_choque_component__WEBPACK_IMPORTED_MODULE_52__["ChoqueComponent"], _components_fms_per_gallos_strike_strike_component__WEBPACK_IMPORTED_MODULE_53__["StrikeComponent"], _components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_54__["BaseComponentComponent"]],
+      declarations: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"], _components_mc_selector_mc_selector_component__WEBPACK_IMPORTED_MODULE_5__["McSelectorComponent"], _components_easy_easy_component__WEBPACK_IMPORTED_MODULE_11__["EasyComponent"], _components_base_patron_number_directive__WEBPACK_IMPORTED_MODULE_12__["PatronNumberDirective"], _components_base_extra_score_directive__WEBPACK_IMPORTED_MODULE_13__["ExtraScoreNumberDirective"], _components_hard_hard_component__WEBPACK_IMPORTED_MODULE_14__["HardComponent"], _components_thematic_thematic_component__WEBPACK_IMPORTED_MODULE_15__["ThematicComponent"], _components_blood_blood_component__WEBPACK_IMPORTED_MODULE_16__["BloodComponent"], _components_characters_characters_component__WEBPACK_IMPORTED_MODULE_17__["CharactersComponent"], _components_deluxe_deluxe_component__WEBPACK_IMPORTED_MODULE_18__["DeluxeComponent"], _components_results_results_component__WEBPACK_IMPORTED_MODULE_19__["ResultsComponent"], _components_fms_selector_fms_selector_component__WEBPACK_IMPORTED_MODULE_20__["FmsSelectorComponent"], _components_fms_esp_fms_esp_component__WEBPACK_IMPORTED_MODULE_21__["FmsEspComponent"], _components_blon_blon_component__WEBPACK_IMPORTED_MODULE_22__["BlonComponent"], _components_khan_khan_component__WEBPACK_IMPORTED_MODULE_23__["KhanComponent"], _components_mrego_mrego_component__WEBPACK_IMPORTED_MODULE_24__["MregoComponent"], _components_tirpa_tirpa_component__WEBPACK_IMPORTED_MODULE_25__["TirpaComponent"], _components_zasko_zasko_component__WEBPACK_IMPORTED_MODULE_26__["ZaskoComponent"], _components_gazir_gazir_component__WEBPACK_IMPORTED_MODULE_27__["GazirComponent"], _components_mnak_mnak_component__WEBPACK_IMPORTED_MODULE_28__["MnakComponent"], _components_errece_errece_component__WEBPACK_IMPORTED_MODULE_29__["ErreceComponent"], _components_bnet_bnet_component__WEBPACK_IMPORTED_MODULE_30__["BnetComponent"], _components_sweetpain_sweetpain_component__WEBPACK_IMPORTED_MODULE_31__["SweetpainComponent"], _components_fms_mex_fms_mex_component__WEBPACK_IMPORTED_MODULE_32__["FmsMexComponent"], _components_fms_per_fms_per_component__WEBPACK_IMPORTED_MODULE_33__["FmsPerComponent"], _components_fms_mex_gallos_lobo_lobo_component__WEBPACK_IMPORTED_MODULE_34__["LoboComponent"], _components_fms_mex_gallos_bone_bone_component__WEBPACK_IMPORTED_MODULE_35__["BoneComponent"], _components_fms_mex_gallos_jonyb_jonyb_component__WEBPACK_IMPORTED_MODULE_36__["JonybComponent"], _components_fms_mex_gallos_garza_garza_component__WEBPACK_IMPORTED_MODULE_37__["GarzaComponent"], _components_fms_mex_gallos_rc_rc_component__WEBPACK_IMPORTED_MODULE_38__["RcComponent"], _components_fms_mex_gallos_potencia_potencia_component__WEBPACK_IMPORTED_MODULE_39__["PotenciaComponent"], _components_fms_mex_gallos_yoiker_yoiker_component__WEBPACK_IMPORTED_MODULE_40__["YoikerComponent"], _components_fms_mex_gallos_zticma_zticma_component__WEBPACK_IMPORTED_MODULE_41__["ZticmaComponent"], _components_fms_mex_gallos_rapder_rapder_component__WEBPACK_IMPORTED_MODULE_42__["RapderComponent"], _components_fms_mex_gallos_skiper_skiper_component__WEBPACK_IMPORTED_MODULE_43__["SkiperComponent"], _components_fms_per_gallos_jota_jota_component__WEBPACK_IMPORTED_MODULE_44__["JotaComponent"], _components_fms_per_gallos_skill_skill_component__WEBPACK_IMPORTED_MODULE_45__["SkillComponent"], _components_fms_per_gallos_jaze_jaze_component__WEBPACK_IMPORTED_MODULE_46__["JazeComponent"], _components_fms_per_gallos_litzen_litzen_component__WEBPACK_IMPORTED_MODULE_47__["LitzenComponent"], _components_fms_per_gallos_nekroos_nekroos_component__WEBPACK_IMPORTED_MODULE_48__["NekroosComponent"], _components_fms_per_gallos_newera_newera_component__WEBPACK_IMPORTED_MODULE_49__["NeweraComponent"], _components_fms_per_gallos_ramset_ramset_component__WEBPACK_IMPORTED_MODULE_50__["RamsetComponent"], _components_fms_per_gallos_stick_stick_component__WEBPACK_IMPORTED_MODULE_51__["StickComponent"], _components_fms_per_gallos_choque_choque_component__WEBPACK_IMPORTED_MODULE_52__["ChoqueComponent"], _components_fms_per_gallos_strike_strike_component__WEBPACK_IMPORTED_MODULE_53__["StrikeComponent"], _components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_54__["BaseComponentComponent"], _components_fms_arg_fms_arg_component__WEBPACK_IMPORTED_MODULE_55__["FmsArgComponent"], _components_fms_arg_cacha_cacha_component__WEBPACK_IMPORTED_MODULE_56__["CachaComponent"], _components_fms_arg_dtoke_dtoke_component__WEBPACK_IMPORTED_MODULE_57__["DtokeComponent"], _components_fms_arg_klan_klan_component__WEBPACK_IMPORTED_MODULE_58__["KlanComponent"], _components_fms_arg_mecha_mecha_component__WEBPACK_IMPORTED_MODULE_59__["MechaComponent"], _components_fms_arg_mks_mks_component__WEBPACK_IMPORTED_MODULE_60__["MksComponent"], _components_fms_arg_nacho_nacho_component__WEBPACK_IMPORTED_MODULE_61__["NachoComponent"], _components_fms_arg_papo_papo_component__WEBPACK_IMPORTED_MODULE_62__["PapoComponent"], _components_fms_arg_stuart_stuart_component__WEBPACK_IMPORTED_MODULE_63__["StuartComponent"], _components_fms_arg_sub_sub_component__WEBPACK_IMPORTED_MODULE_64__["SubComponent"], _components_fms_arg_wolf_wolf_component__WEBPACK_IMPORTED_MODULE_65__["WolfComponent"]],
       imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["BrowserModule"], _app_routing_module__WEBPACK_IMPORTED_MODULE_3__["AppRoutingModule"], _angular_platform_browser_animations__WEBPACK_IMPORTED_MODULE_6__["BrowserAnimationsModule"], _angular_material_input__WEBPACK_IMPORTED_MODULE_7__["MatInputModule"], _angular_material_button__WEBPACK_IMPORTED_MODULE_8__["MatButtonModule"], _angular_forms__WEBPACK_IMPORTED_MODULE_10__["FormsModule"]],
       providers: [_services_SharingService__WEBPACK_IMPORTED_MODULE_9__["SharingService"], _angular_core__WEBPACK_IMPORTED_MODULE_2__["EventEmitter"]],
       bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"]]
@@ -3598,6 +3977,917 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   },
 
   /***/
+  "./src/app/components/fms-arg/cacha/cacha.component.scss":
+  /*!***************************************************************!*\
+    !*** ./src/app/components/fms-arg/cacha/cacha.component.scss ***!
+    \***************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppComponentsFmsArgCachaCachaComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "@charset \"UTF-8\";\n.contenedor {\n  margin-top: 100px;\n  padding-left: 3rem;\n  width: 100%;\n  max-width: width 1920px;\n  -moz-column-count: 5;\n       column-count: 5;\n  margin-bottom: 35rem;\n}\na img {\n  margin-top: 50px;\n  width: 90%;\n  height: 90%;\n  transition: all 300ms;\n}\na img:hover {\n  transform: scale(1.15);\n  transition: all 300ms;\n  cursor: pointer;\n}\n@media (max-width: 767px) {\n  .contenedor {\n    -moz-columns: 2;\n         columns: 2;\n  }\n}\n/* Móviles en vertical */\n@media (max-width: 480px) {\n  .contenedor {\n    -moz-columns: 1;\n         columns: 1;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL2NhY2hhL2NhY2hhLmNvbXBvbmVudC5zY3NzIiwic3JjL2FwcC9jb21wb25lbnRzL2Ztcy1hcmcvY2FjaGEvQzpcXFVzZXJzXFxJYWdvXFxEb2N1bWVudHNcXGZtcy12b3Rlcy9zcmNcXGFwcFxcY29tcG9uZW50c1xcZm1zLWFyZ1xcY2FjaGFcXGNhY2hhLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLGdCQUFnQjtBQ0NoQjtFQUNJLGlCQUFBO0VBQ0Esa0JBQUE7RUFDQSxXQUFBO0VBQ0EsdUJBQUE7RUFDQSxvQkFBQTtPQUFBLGVBQUE7RUFDQSxvQkFBQTtBRENKO0FDRUE7RUFDSSxnQkFBQTtFQUNBLFVBQUE7RUFDQSxXQUFBO0VBQ0EscUJBQUE7QURDSjtBQ0VBO0VBS0ksc0JBQUE7RUFDQSxxQkFBQTtFQUNBLGVBQUE7QURDSjtBQ0VBO0VBQ0k7SUFDSSxlQUFBO1NBQUEsVUFBQTtFRENOO0FBQ0Y7QUNHQSx3QkFBQTtBQUVBO0VBQ0k7SUFDSSxlQUFBO1NBQUEsVUFBQTtFREZOO0FBQ0YiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2Ztcy1hcmcvY2FjaGEvY2FjaGEuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAY2hhcnNldCBcIlVURi04XCI7XG4uY29udGVuZWRvciB7XG4gIG1hcmdpbi10b3A6IDEwMHB4O1xuICBwYWRkaW5nLWxlZnQ6IDNyZW07XG4gIHdpZHRoOiAxMDAlO1xuICBtYXgtd2lkdGg6IHdpZHRoIDE5MjBweDtcbiAgY29sdW1uLWNvdW50OiA1O1xuICBtYXJnaW4tYm90dG9tOiAzNXJlbTtcbn1cblxuYSBpbWcge1xuICBtYXJnaW4tdG9wOiA1MHB4O1xuICB3aWR0aDogOTAlO1xuICBoZWlnaHQ6IDkwJTtcbiAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xufVxuXG5hIGltZzpob3ZlciB7XG4gIC13ZWJraXQtdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgLW1vei10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICAtbXMtdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgLW8tdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xuICBjdXJzb3I6IHBvaW50ZXI7XG59XG5cbkBtZWRpYSAobWF4LXdpZHRoOiA3NjdweCkge1xuICAuY29udGVuZWRvciB7XG4gICAgY29sdW1uczogMjtcbiAgfVxufVxuLyogTcOzdmlsZXMgZW4gdmVydGljYWwgKi9cbkBtZWRpYSAobWF4LXdpZHRoOiA0ODBweCkge1xuICAuY29udGVuZWRvciB7XG4gICAgY29sdW1uczogMTtcbiAgfVxufSIsIlxyXG4uY29udGVuZWRvciB7XHJcbiAgICBtYXJnaW4tdG9wOiAxMDBweDtcclxuICAgIHBhZGRpbmctbGVmdDogM3JlbTtcclxuICAgIHdpZHRoOjEwMCU7XHJcbiAgICBtYXgtd2lkdGg6IHdpZHRoIDE5MjBweDtcclxuICAgIGNvbHVtbi1jb3VudDogNTtcclxuICAgIG1hcmdpbi1ib3R0b206IDM1cmVtO1xyXG59XHJcblxyXG5hIGltZ3tcclxuICAgIG1hcmdpbi10b3A6IDUwcHg7XHJcbiAgICB3aWR0aDogOTAlO1xyXG4gICAgaGVpZ2h0OiA5MCU7XHJcbiAgICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XHJcbn1cclxuXHJcbmEgaW1nOmhvdmVye1xyXG4gICAgLXdlYmtpdC10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICAtbW96LXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIC1tcy10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICAtby10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICB0cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XHJcbiAgICBjdXJzb3I6IHBvaW50ZXI7XHJcbn1cclxuXHJcbkBtZWRpYSAobWF4LXdpZHRoOiA3NjdweCkgeyBcclxuICAgIC5jb250ZW5lZG9yIHtcclxuICAgICAgICBjb2x1bW5zOjI7XHJcbiAgICB9XHJcblxyXG59XHJcbiAgICAgICAgXHJcbi8qIE3Ds3ZpbGVzIGVuIHZlcnRpY2FsICovXHJcblxyXG5AbWVkaWEgKG1heC13aWR0aDogNDgwcHgpIHtcclxuICAgIC5jb250ZW5lZG9yIHtcclxuICAgICAgICBjb2x1bW5zOiAxO1xyXG4gICAgfVxyXG59Il19 */";
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/cacha/cacha.component.ts":
+  /*!*************************************************************!*\
+    !*** ./src/app/components/fms-arg/cacha/cacha.component.ts ***!
+    \*************************************************************/
+
+  /*! exports provided: CachaComponent */
+
+  /***/
+  function srcAppComponentsFmsArgCachaCachaComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "CachaComponent", function () {
+      return CachaComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+
+    var CachaComponent = /*#__PURE__*/function () {
+      function CachaComponent() {
+        _classCallCheck(this, CachaComponent);
+      }
+
+      _createClass(CachaComponent, [{
+        key: "ngOnInit",
+        value: function ngOnInit() {}
+      }]);
+
+      return CachaComponent;
+    }();
+
+    CachaComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-cacha',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./cacha.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/cacha/cacha.component.html"))["default"],
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./cacha.component.scss */
+      "./src/app/components/fms-arg/cacha/cacha.component.scss"))["default"]]
+    })], CachaComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/dtoke/dtoke.component.scss":
+  /*!***************************************************************!*\
+    !*** ./src/app/components/fms-arg/dtoke/dtoke.component.scss ***!
+    \***************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppComponentsFmsArgDtokeDtokeComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "@charset \"UTF-8\";\n.contenedor {\n  margin-top: 100px;\n  padding-left: 3rem;\n  width: 100%;\n  max-width: width 1920px;\n  -moz-column-count: 5;\n       column-count: 5;\n  margin-bottom: 35rem;\n}\na img {\n  margin-top: 50px;\n  width: 90%;\n  height: 90%;\n  transition: all 300ms;\n}\na img:hover {\n  transform: scale(1.15);\n  transition: all 300ms;\n  cursor: pointer;\n}\n@media (max-width: 767px) {\n  .contenedor {\n    -moz-columns: 2;\n         columns: 2;\n  }\n}\n/* Móviles en vertical */\n@media (max-width: 480px) {\n  .contenedor {\n    -moz-columns: 1;\n         columns: 1;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL2R0b2tlL2R0b2tlLmNvbXBvbmVudC5zY3NzIiwic3JjL2FwcC9jb21wb25lbnRzL2Ztcy1hcmcvZHRva2UvQzpcXFVzZXJzXFxJYWdvXFxEb2N1bWVudHNcXGZtcy12b3Rlcy9zcmNcXGFwcFxcY29tcG9uZW50c1xcZm1zLWFyZ1xcZHRva2VcXGR0b2tlLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLGdCQUFnQjtBQ0NoQjtFQUNJLGlCQUFBO0VBQ0Esa0JBQUE7RUFDQSxXQUFBO0VBQ0EsdUJBQUE7RUFDQSxvQkFBQTtPQUFBLGVBQUE7RUFDQSxvQkFBQTtBRENKO0FDRUE7RUFDSSxnQkFBQTtFQUNBLFVBQUE7RUFDQSxXQUFBO0VBQ0EscUJBQUE7QURDSjtBQ0VBO0VBS0ksc0JBQUE7RUFDQSxxQkFBQTtFQUNBLGVBQUE7QURDSjtBQ0VBO0VBQ0k7SUFDSSxlQUFBO1NBQUEsVUFBQTtFRENOO0FBQ0Y7QUNHQSx3QkFBQTtBQUVBO0VBQ0k7SUFDSSxlQUFBO1NBQUEsVUFBQTtFREZOO0FBQ0YiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2Ztcy1hcmcvZHRva2UvZHRva2UuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAY2hhcnNldCBcIlVURi04XCI7XG4uY29udGVuZWRvciB7XG4gIG1hcmdpbi10b3A6IDEwMHB4O1xuICBwYWRkaW5nLWxlZnQ6IDNyZW07XG4gIHdpZHRoOiAxMDAlO1xuICBtYXgtd2lkdGg6IHdpZHRoIDE5MjBweDtcbiAgY29sdW1uLWNvdW50OiA1O1xuICBtYXJnaW4tYm90dG9tOiAzNXJlbTtcbn1cblxuYSBpbWcge1xuICBtYXJnaW4tdG9wOiA1MHB4O1xuICB3aWR0aDogOTAlO1xuICBoZWlnaHQ6IDkwJTtcbiAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xufVxuXG5hIGltZzpob3ZlciB7XG4gIC13ZWJraXQtdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgLW1vei10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICAtbXMtdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgLW8tdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xuICBjdXJzb3I6IHBvaW50ZXI7XG59XG5cbkBtZWRpYSAobWF4LXdpZHRoOiA3NjdweCkge1xuICAuY29udGVuZWRvciB7XG4gICAgY29sdW1uczogMjtcbiAgfVxufVxuLyogTcOzdmlsZXMgZW4gdmVydGljYWwgKi9cbkBtZWRpYSAobWF4LXdpZHRoOiA0ODBweCkge1xuICAuY29udGVuZWRvciB7XG4gICAgY29sdW1uczogMTtcbiAgfVxufSIsIlxyXG4uY29udGVuZWRvciB7XHJcbiAgICBtYXJnaW4tdG9wOiAxMDBweDtcclxuICAgIHBhZGRpbmctbGVmdDogM3JlbTtcclxuICAgIHdpZHRoOjEwMCU7XHJcbiAgICBtYXgtd2lkdGg6IHdpZHRoIDE5MjBweDtcclxuICAgIGNvbHVtbi1jb3VudDogNTtcclxuICAgIG1hcmdpbi1ib3R0b206IDM1cmVtO1xyXG59XHJcblxyXG5hIGltZ3tcclxuICAgIG1hcmdpbi10b3A6IDUwcHg7XHJcbiAgICB3aWR0aDogOTAlO1xyXG4gICAgaGVpZ2h0OiA5MCU7XHJcbiAgICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XHJcbn1cclxuXHJcbmEgaW1nOmhvdmVye1xyXG4gICAgLXdlYmtpdC10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICAtbW96LXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIC1tcy10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICAtby10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICB0cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XHJcbiAgICBjdXJzb3I6IHBvaW50ZXI7XHJcbn1cclxuXHJcbkBtZWRpYSAobWF4LXdpZHRoOiA3NjdweCkgeyBcclxuICAgIC5jb250ZW5lZG9yIHtcclxuICAgICAgICBjb2x1bW5zOjI7XHJcbiAgICB9XHJcblxyXG59XHJcbiAgICAgICAgXHJcbi8qIE3Ds3ZpbGVzIGVuIHZlcnRpY2FsICovXHJcblxyXG5AbWVkaWEgKG1heC13aWR0aDogNDgwcHgpIHtcclxuICAgIC5jb250ZW5lZG9yIHtcclxuICAgICAgICBjb2x1bW5zOiAxO1xyXG4gICAgfVxyXG59Il19 */";
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/dtoke/dtoke.component.ts":
+  /*!*************************************************************!*\
+    !*** ./src/app/components/fms-arg/dtoke/dtoke.component.ts ***!
+    \*************************************************************/
+
+  /*! exports provided: DtokeComponent */
+
+  /***/
+  function srcAppComponentsFmsArgDtokeDtokeComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "DtokeComponent", function () {
+      return DtokeComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+
+    var DtokeComponent = /*#__PURE__*/function () {
+      function DtokeComponent() {
+        _classCallCheck(this, DtokeComponent);
+      }
+
+      _createClass(DtokeComponent, [{
+        key: "ngOnInit",
+        value: function ngOnInit() {}
+      }]);
+
+      return DtokeComponent;
+    }();
+
+    DtokeComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-dtoke',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./dtoke.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/dtoke/dtoke.component.html"))["default"],
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./dtoke.component.scss */
+      "./src/app/components/fms-arg/dtoke/dtoke.component.scss"))["default"]]
+    })], DtokeComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/fms-arg.component.scss":
+  /*!***********************************************************!*\
+    !*** ./src/app/components/fms-arg/fms-arg.component.scss ***!
+    \***********************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppComponentsFmsArgFmsArgComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "@charset \"UTF-8\";\n.contenedor {\n  margin-top: 100px;\n  padding-left: 7rem;\n  width: 100%;\n  max-width: width 1920px;\n  -moz-column-count: 5;\n       column-count: 5;\n}\na img:hover {\n  transform: scale(1.15);\n  transition: all 300ms;\n  cursor: pointer;\n}\na img {\n  margin-top: 25px;\n  margin-bottom: 15px;\n  width: 60%;\n  height: 60%;\n  transition: all 300ms;\n}\n@media (max-width: 767px) {\n  .contenedor {\n    -moz-columns: 2;\n         columns: 2;\n  }\n}\n/* Móviles en vertical */\n@media (max-width: 480px) {\n  .contenedor {\n    -moz-columns: 1;\n         columns: 1;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL2Ztcy1hcmcuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvZm1zLWFyZy9DOlxcVXNlcnNcXElhZ29cXERvY3VtZW50c1xcZm1zLXZvdGVzL3NyY1xcYXBwXFxjb21wb25lbnRzXFxmbXMtYXJnXFxmbXMtYXJnLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLGdCQUFnQjtBQ0NoQjtFQUNJLGlCQUFBO0VBQ0Esa0JBQUE7RUFDQSxXQUFBO0VBQ0EsdUJBQUE7RUFDQSxvQkFBQTtPQUFBLGVBQUE7QURDSjtBQ0VBO0VBS0ksc0JBQUE7RUFDQSxxQkFBQTtFQUNBLGVBQUE7QURDSjtBQ0VBO0VBQ0ksZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLFVBQUE7RUFDQSxXQUFBO0VBQ0EscUJBQUE7QURDSjtBQ0VBO0VBQ0k7SUFDSSxlQUFBO1NBQUEsVUFBQTtFRENOO0FBQ0Y7QUNHQSx3QkFBQTtBQUVBO0VBQ0k7SUFDSSxlQUFBO1NBQUEsVUFBQTtFREZOO0FBQ0YiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2Ztcy1hcmcvZm1zLWFyZy5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIkBjaGFyc2V0IFwiVVRGLThcIjtcbi5jb250ZW5lZG9yIHtcbiAgbWFyZ2luLXRvcDogMTAwcHg7XG4gIHBhZGRpbmctbGVmdDogN3JlbTtcbiAgd2lkdGg6IDEwMCU7XG4gIG1heC13aWR0aDogd2lkdGggMTkyMHB4O1xuICBjb2x1bW4tY291bnQ6IDU7XG59XG5cbmEgaW1nOmhvdmVyIHtcbiAgLXdlYmtpdC10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICAtbW96LXRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIC1tcy10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICAtby10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICB0cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XG4gIGN1cnNvcjogcG9pbnRlcjtcbn1cblxuYSBpbWcge1xuICBtYXJnaW4tdG9wOiAyNXB4O1xuICBtYXJnaW4tYm90dG9tOiAxNXB4O1xuICB3aWR0aDogNjAlO1xuICBoZWlnaHQ6IDYwJTtcbiAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xufVxuXG5AbWVkaWEgKG1heC13aWR0aDogNzY3cHgpIHtcbiAgLmNvbnRlbmVkb3Ige1xuICAgIGNvbHVtbnM6IDI7XG4gIH1cbn1cbi8qIE3Ds3ZpbGVzIGVuIHZlcnRpY2FsICovXG5AbWVkaWEgKG1heC13aWR0aDogNDgwcHgpIHtcbiAgLmNvbnRlbmVkb3Ige1xuICAgIGNvbHVtbnM6IDE7XG4gIH1cbn0iLCJcclxuLmNvbnRlbmVkb3Ige1xyXG4gICAgbWFyZ2luLXRvcDogMTAwcHg7XHJcbiAgICBwYWRkaW5nLWxlZnQ6IDdyZW07XHJcbiAgICB3aWR0aDoxMDAlO1xyXG4gICAgbWF4LXdpZHRoOiB3aWR0aCAxOTIwcHg7XHJcbiAgICBjb2x1bW4tY291bnQ6IDU7XHJcbn1cclxuXHJcbmEgaW1nOmhvdmVye1xyXG4gICAgLXdlYmtpdC10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICAtbW96LXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIC1tcy10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICAtby10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICB0cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XHJcbiAgICBjdXJzb3I6IHBvaW50ZXI7XHJcbn1cclxuXHJcbmEgaW1ne1xyXG4gICAgbWFyZ2luLXRvcDogMjVweDtcclxuICAgIG1hcmdpbi1ib3R0b206IDE1cHg7XHJcbiAgICB3aWR0aDogNjAlO1xyXG4gICAgaGVpZ2h0OiA2MCU7XHJcbiAgICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XHJcbn1cclxuXHJcbkBtZWRpYSAobWF4LXdpZHRoOiA3NjdweCkgeyBcclxuICAgIC5jb250ZW5lZG9yIHtcclxuICAgICAgICBjb2x1bW5zOjI7XHJcbiAgICB9XHJcblxyXG59XHJcbiAgICAgICAgXHJcbi8qIE3Ds3ZpbGVzIGVuIHZlcnRpY2FsICovXHJcblxyXG5AbWVkaWEgKG1heC13aWR0aDogNDgwcHgpIHtcclxuICAgIC5jb250ZW5lZG9yIHtcclxuICAgICAgICBjb2x1bW5zOiAxO1xyXG4gICAgfVxyXG59Il19 */";
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/fms-arg.component.ts":
+  /*!*********************************************************!*\
+    !*** ./src/app/components/fms-arg/fms-arg.component.ts ***!
+    \*********************************************************/
+
+  /*! exports provided: FmsArgComponent */
+
+  /***/
+  function srcAppComponentsFmsArgFmsArgComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "FmsArgComponent", function () {
+      return FmsArgComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
+
+
+    var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! @angular/router */
+    "./node_modules/@angular/router/fesm2015/router.js");
+
+    var FmsArgComponent = /*#__PURE__*/function () {
+      function FmsArgComponent(router) {
+        _classCallCheck(this, FmsArgComponent);
+
+        this.router = router;
+      }
+
+      _createClass(FmsArgComponent, [{
+        key: "ngOnInit",
+        value: function ngOnInit() {}
+      }, {
+        key: "ircacha",
+        value: function ircacha() {
+          this.router.navigate(['/Cacha']);
+        }
+      }, {
+        key: "irklan",
+        value: function irklan() {
+          this.router.navigate(['/Klan']);
+        }
+      }, {
+        key: "irdtoke",
+        value: function irdtoke() {
+          this.router.navigate(['/Dtoke']);
+        }
+      }, {
+        key: "irmecha",
+        value: function irmecha() {
+          this.router.navigate(['/Mecha']);
+        }
+      }, {
+        key: "irpapo",
+        value: function irpapo() {
+          this.router.navigate(['/Papo']);
+        }
+      }, {
+        key: "irmks",
+        value: function irmks() {
+          this.router.navigate(['/Mks']);
+        }
+      }, {
+        key: "irstuart",
+        value: function irstuart() {
+          this.router.navigate(['/Stuart']);
+        }
+      }, {
+        key: "irsub",
+        value: function irsub() {
+          this.router.navigate(['/Sub']);
+        }
+      }, {
+        key: "irnacho",
+        value: function irnacho() {
+          this.router.navigate(['/Nacho']);
+        }
+      }, {
+        key: "irwolf",
+        value: function irwolf() {
+          this.router.navigate(['/Wolf']);
+        }
+      }]);
+
+      return FmsArgComponent;
+    }();
+
+    FmsArgComponent.ctorParameters = function () {
+      return [{
+        type: _angular_router__WEBPACK_IMPORTED_MODULE_2__["Router"]
+      }];
+    };
+
+    FmsArgComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-fms-arg',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./fms-arg.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/fms-arg.component.html"))["default"],
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./fms-arg.component.scss */
+      "./src/app/components/fms-arg/fms-arg.component.scss"))["default"]]
+    })], FmsArgComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/klan/klan.component.scss":
+  /*!*************************************************************!*\
+    !*** ./src/app/components/fms-arg/klan/klan.component.scss ***!
+    \*************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppComponentsFmsArgKlanKlanComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "@charset \"UTF-8\";\n.contenedor {\n  margin-top: 100px;\n  padding-left: 3rem;\n  width: 100%;\n  max-width: width 1920px;\n  -moz-column-count: 5;\n       column-count: 5;\n  margin-bottom: 35rem;\n}\na img {\n  margin-top: 50px;\n  width: 90%;\n  height: 90%;\n  transition: all 300ms;\n}\na img:hover {\n  transform: scale(1.15);\n  transition: all 300ms;\n  cursor: pointer;\n}\n@media (max-width: 767px) {\n  .contenedor {\n    -moz-columns: 2;\n         columns: 2;\n  }\n}\n/* Móviles en vertical */\n@media (max-width: 480px) {\n  .contenedor {\n    -moz-columns: 1;\n         columns: 1;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL2tsYW4va2xhbi5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL2tsYW4vQzpcXFVzZXJzXFxJYWdvXFxEb2N1bWVudHNcXGZtcy12b3Rlcy9zcmNcXGFwcFxcY29tcG9uZW50c1xcZm1zLWFyZ1xca2xhblxca2xhbi5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxnQkFBZ0I7QUNDaEI7RUFDSSxpQkFBQTtFQUNBLGtCQUFBO0VBQ0EsV0FBQTtFQUNBLHVCQUFBO0VBQ0Esb0JBQUE7T0FBQSxlQUFBO0VBQ0Esb0JBQUE7QURDSjtBQ0VBO0VBQ0ksZ0JBQUE7RUFDQSxVQUFBO0VBQ0EsV0FBQTtFQUNBLHFCQUFBO0FEQ0o7QUNFQTtFQUtJLHNCQUFBO0VBQ0EscUJBQUE7RUFDQSxlQUFBO0FEQ0o7QUNFQTtFQUNJO0lBQ0ksZUFBQTtTQUFBLFVBQUE7RURDTjtBQUNGO0FDR0Esd0JBQUE7QUFFQTtFQUNJO0lBQ0ksZUFBQTtTQUFBLFVBQUE7RURGTjtBQUNGIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL2tsYW4va2xhbi5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIkBjaGFyc2V0IFwiVVRGLThcIjtcbi5jb250ZW5lZG9yIHtcbiAgbWFyZ2luLXRvcDogMTAwcHg7XG4gIHBhZGRpbmctbGVmdDogM3JlbTtcbiAgd2lkdGg6IDEwMCU7XG4gIG1heC13aWR0aDogd2lkdGggMTkyMHB4O1xuICBjb2x1bW4tY291bnQ6IDU7XG4gIG1hcmdpbi1ib3R0b206IDM1cmVtO1xufVxuXG5hIGltZyB7XG4gIG1hcmdpbi10b3A6IDUwcHg7XG4gIHdpZHRoOiA5MCU7XG4gIGhlaWdodDogOTAlO1xuICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XG59XG5cbmEgaW1nOmhvdmVyIHtcbiAgLXdlYmtpdC10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICAtbW96LXRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIC1tcy10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICAtby10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICB0cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XG4gIGN1cnNvcjogcG9pbnRlcjtcbn1cblxuQG1lZGlhIChtYXgtd2lkdGg6IDc2N3B4KSB7XG4gIC5jb250ZW5lZG9yIHtcbiAgICBjb2x1bW5zOiAyO1xuICB9XG59XG4vKiBNw7N2aWxlcyBlbiB2ZXJ0aWNhbCAqL1xuQG1lZGlhIChtYXgtd2lkdGg6IDQ4MHB4KSB7XG4gIC5jb250ZW5lZG9yIHtcbiAgICBjb2x1bW5zOiAxO1xuICB9XG59IiwiXHJcbi5jb250ZW5lZG9yIHtcclxuICAgIG1hcmdpbi10b3A6IDEwMHB4O1xyXG4gICAgcGFkZGluZy1sZWZ0OiAzcmVtO1xyXG4gICAgd2lkdGg6MTAwJTtcclxuICAgIG1heC13aWR0aDogd2lkdGggMTkyMHB4O1xyXG4gICAgY29sdW1uLWNvdW50OiA1O1xyXG4gICAgbWFyZ2luLWJvdHRvbTogMzVyZW07XHJcbn1cclxuXHJcbmEgaW1ne1xyXG4gICAgbWFyZ2luLXRvcDogNTBweDtcclxuICAgIHdpZHRoOiA5MCU7XHJcbiAgICBoZWlnaHQ6IDkwJTtcclxuICAgIHRyYW5zaXRpb246IGFsbCAzMDBtcztcclxufVxyXG5cclxuYSBpbWc6aG92ZXJ7XHJcbiAgICAtd2Via2l0LXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIC1tb3otdHJhbnNmb3JtOnNjYWxlKDEuMTUpO1xyXG4gICAgLW1zLXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIC1vLXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIHRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIHRyYW5zaXRpb246IGFsbCAzMDBtcztcclxuICAgIGN1cnNvcjogcG9pbnRlcjtcclxufVxyXG5cclxuQG1lZGlhIChtYXgtd2lkdGg6IDc2N3B4KSB7IFxyXG4gICAgLmNvbnRlbmVkb3Ige1xyXG4gICAgICAgIGNvbHVtbnM6MjtcclxuICAgIH1cclxuXHJcbn1cclxuICAgICAgICBcclxuLyogTcOzdmlsZXMgZW4gdmVydGljYWwgKi9cclxuXHJcbkBtZWRpYSAobWF4LXdpZHRoOiA0ODBweCkge1xyXG4gICAgLmNvbnRlbmVkb3Ige1xyXG4gICAgICAgIGNvbHVtbnM6IDE7XHJcbiAgICB9XHJcbn0iXX0= */";
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/klan/klan.component.ts":
+  /*!***********************************************************!*\
+    !*** ./src/app/components/fms-arg/klan/klan.component.ts ***!
+    \***********************************************************/
+
+  /*! exports provided: KlanComponent */
+
+  /***/
+  function srcAppComponentsFmsArgKlanKlanComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "KlanComponent", function () {
+      return KlanComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+
+    var KlanComponent = /*#__PURE__*/function () {
+      function KlanComponent() {
+        _classCallCheck(this, KlanComponent);
+      }
+
+      _createClass(KlanComponent, [{
+        key: "ngOnInit",
+        value: function ngOnInit() {}
+      }]);
+
+      return KlanComponent;
+    }();
+
+    KlanComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-klan',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./klan.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/klan/klan.component.html"))["default"],
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./klan.component.scss */
+      "./src/app/components/fms-arg/klan/klan.component.scss"))["default"]]
+    })], KlanComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/mecha/mecha.component.scss":
+  /*!***************************************************************!*\
+    !*** ./src/app/components/fms-arg/mecha/mecha.component.scss ***!
+    \***************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppComponentsFmsArgMechaMechaComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "@charset \"UTF-8\";\n.contenedor {\n  margin-top: 100px;\n  padding-left: 3rem;\n  width: 100%;\n  max-width: width 1920px;\n  -moz-column-count: 5;\n       column-count: 5;\n  margin-bottom: 35rem;\n}\na img {\n  margin-top: 50px;\n  width: 90%;\n  height: 90%;\n  transition: all 300ms;\n}\na img:hover {\n  transform: scale(1.15);\n  transition: all 300ms;\n  cursor: pointer;\n}\n@media (max-width: 767px) {\n  .contenedor {\n    -moz-columns: 2;\n         columns: 2;\n  }\n}\n/* Móviles en vertical */\n@media (max-width: 480px) {\n  .contenedor {\n    -moz-columns: 1;\n         columns: 1;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL21lY2hhL21lY2hhLmNvbXBvbmVudC5zY3NzIiwic3JjL2FwcC9jb21wb25lbnRzL2Ztcy1hcmcvbWVjaGEvQzpcXFVzZXJzXFxJYWdvXFxEb2N1bWVudHNcXGZtcy12b3Rlcy9zcmNcXGFwcFxcY29tcG9uZW50c1xcZm1zLWFyZ1xcbWVjaGFcXG1lY2hhLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLGdCQUFnQjtBQ0NoQjtFQUNJLGlCQUFBO0VBQ0Esa0JBQUE7RUFDQSxXQUFBO0VBQ0EsdUJBQUE7RUFDQSxvQkFBQTtPQUFBLGVBQUE7RUFDQSxvQkFBQTtBRENKO0FDRUE7RUFDSSxnQkFBQTtFQUNBLFVBQUE7RUFDQSxXQUFBO0VBQ0EscUJBQUE7QURDSjtBQ0VBO0VBS0ksc0JBQUE7RUFDQSxxQkFBQTtFQUNBLGVBQUE7QURDSjtBQ0VBO0VBQ0k7SUFDSSxlQUFBO1NBQUEsVUFBQTtFRENOO0FBQ0Y7QUNHQSx3QkFBQTtBQUVBO0VBQ0k7SUFDSSxlQUFBO1NBQUEsVUFBQTtFREZOO0FBQ0YiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2Ztcy1hcmcvbWVjaGEvbWVjaGEuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAY2hhcnNldCBcIlVURi04XCI7XG4uY29udGVuZWRvciB7XG4gIG1hcmdpbi10b3A6IDEwMHB4O1xuICBwYWRkaW5nLWxlZnQ6IDNyZW07XG4gIHdpZHRoOiAxMDAlO1xuICBtYXgtd2lkdGg6IHdpZHRoIDE5MjBweDtcbiAgY29sdW1uLWNvdW50OiA1O1xuICBtYXJnaW4tYm90dG9tOiAzNXJlbTtcbn1cblxuYSBpbWcge1xuICBtYXJnaW4tdG9wOiA1MHB4O1xuICB3aWR0aDogOTAlO1xuICBoZWlnaHQ6IDkwJTtcbiAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xufVxuXG5hIGltZzpob3ZlciB7XG4gIC13ZWJraXQtdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgLW1vei10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICAtbXMtdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgLW8tdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xuICBjdXJzb3I6IHBvaW50ZXI7XG59XG5cbkBtZWRpYSAobWF4LXdpZHRoOiA3NjdweCkge1xuICAuY29udGVuZWRvciB7XG4gICAgY29sdW1uczogMjtcbiAgfVxufVxuLyogTcOzdmlsZXMgZW4gdmVydGljYWwgKi9cbkBtZWRpYSAobWF4LXdpZHRoOiA0ODBweCkge1xuICAuY29udGVuZWRvciB7XG4gICAgY29sdW1uczogMTtcbiAgfVxufSIsIlxyXG4uY29udGVuZWRvciB7XHJcbiAgICBtYXJnaW4tdG9wOiAxMDBweDtcclxuICAgIHBhZGRpbmctbGVmdDogM3JlbTtcclxuICAgIHdpZHRoOjEwMCU7XHJcbiAgICBtYXgtd2lkdGg6IHdpZHRoIDE5MjBweDtcclxuICAgIGNvbHVtbi1jb3VudDogNTtcclxuICAgIG1hcmdpbi1ib3R0b206IDM1cmVtO1xyXG59XHJcblxyXG5hIGltZ3tcclxuICAgIG1hcmdpbi10b3A6IDUwcHg7XHJcbiAgICB3aWR0aDogOTAlO1xyXG4gICAgaGVpZ2h0OiA5MCU7XHJcbiAgICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XHJcbn1cclxuXHJcbmEgaW1nOmhvdmVye1xyXG4gICAgLXdlYmtpdC10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICAtbW96LXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIC1tcy10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICAtby10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICB0cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XHJcbiAgICBjdXJzb3I6IHBvaW50ZXI7XHJcbn1cclxuXHJcbkBtZWRpYSAobWF4LXdpZHRoOiA3NjdweCkgeyBcclxuICAgIC5jb250ZW5lZG9yIHtcclxuICAgICAgICBjb2x1bW5zOjI7XHJcbiAgICB9XHJcblxyXG59XHJcbiAgICAgICAgXHJcbi8qIE3Ds3ZpbGVzIGVuIHZlcnRpY2FsICovXHJcblxyXG5AbWVkaWEgKG1heC13aWR0aDogNDgwcHgpIHtcclxuICAgIC5jb250ZW5lZG9yIHtcclxuICAgICAgICBjb2x1bW5zOiAxO1xyXG4gICAgfVxyXG59Il19 */";
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/mecha/mecha.component.ts":
+  /*!*************************************************************!*\
+    !*** ./src/app/components/fms-arg/mecha/mecha.component.ts ***!
+    \*************************************************************/
+
+  /*! exports provided: MechaComponent */
+
+  /***/
+  function srcAppComponentsFmsArgMechaMechaComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "MechaComponent", function () {
+      return MechaComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+
+    var MechaComponent = /*#__PURE__*/function () {
+      function MechaComponent() {
+        _classCallCheck(this, MechaComponent);
+      }
+
+      _createClass(MechaComponent, [{
+        key: "ngOnInit",
+        value: function ngOnInit() {}
+      }]);
+
+      return MechaComponent;
+    }();
+
+    MechaComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-mecha',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./mecha.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/mecha/mecha.component.html"))["default"],
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./mecha.component.scss */
+      "./src/app/components/fms-arg/mecha/mecha.component.scss"))["default"]]
+    })], MechaComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/mks/mks.component.scss":
+  /*!***********************************************************!*\
+    !*** ./src/app/components/fms-arg/mks/mks.component.scss ***!
+    \***********************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppComponentsFmsArgMksMksComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "@charset \"UTF-8\";\n.contenedor {\n  margin-top: 100px;\n  padding-left: 3rem;\n  width: 100%;\n  max-width: width 1920px;\n  -moz-column-count: 5;\n       column-count: 5;\n  margin-bottom: 35rem;\n}\na img {\n  margin-top: 50px;\n  width: 90%;\n  height: 90%;\n  transition: all 300ms;\n}\na img:hover {\n  transform: scale(1.15);\n  transition: all 300ms;\n  cursor: pointer;\n}\n@media (max-width: 767px) {\n  .contenedor {\n    -moz-columns: 2;\n         columns: 2;\n  }\n}\n/* Móviles en vertical */\n@media (max-width: 480px) {\n  .contenedor {\n    -moz-columns: 1;\n         columns: 1;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL21rcy9ta3MuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvZm1zLWFyZy9ta3MvQzpcXFVzZXJzXFxJYWdvXFxEb2N1bWVudHNcXGZtcy12b3Rlcy9zcmNcXGFwcFxcY29tcG9uZW50c1xcZm1zLWFyZ1xcbWtzXFxta3MuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsZ0JBQWdCO0FDQ2hCO0VBQ0ksaUJBQUE7RUFDQSxrQkFBQTtFQUNBLFdBQUE7RUFDQSx1QkFBQTtFQUNBLG9CQUFBO09BQUEsZUFBQTtFQUNBLG9CQUFBO0FEQ0o7QUNFQTtFQUNJLGdCQUFBO0VBQ0EsVUFBQTtFQUNBLFdBQUE7RUFDQSxxQkFBQTtBRENKO0FDRUE7RUFLSSxzQkFBQTtFQUNBLHFCQUFBO0VBQ0EsZUFBQTtBRENKO0FDRUE7RUFDSTtJQUNJLGVBQUE7U0FBQSxVQUFBO0VEQ047QUFDRjtBQ0dBLHdCQUFBO0FBRUE7RUFDSTtJQUNJLGVBQUE7U0FBQSxVQUFBO0VERk47QUFDRiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvZm1zLWFyZy9ta3MvbWtzLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGNoYXJzZXQgXCJVVEYtOFwiO1xuLmNvbnRlbmVkb3Ige1xuICBtYXJnaW4tdG9wOiAxMDBweDtcbiAgcGFkZGluZy1sZWZ0OiAzcmVtO1xuICB3aWR0aDogMTAwJTtcbiAgbWF4LXdpZHRoOiB3aWR0aCAxOTIwcHg7XG4gIGNvbHVtbi1jb3VudDogNTtcbiAgbWFyZ2luLWJvdHRvbTogMzVyZW07XG59XG5cbmEgaW1nIHtcbiAgbWFyZ2luLXRvcDogNTBweDtcbiAgd2lkdGg6IDkwJTtcbiAgaGVpZ2h0OiA5MCU7XG4gIHRyYW5zaXRpb246IGFsbCAzMDBtcztcbn1cblxuYSBpbWc6aG92ZXIge1xuICAtd2Via2l0LXRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIC1tb3otdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgLW1zLXRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIC1vLXRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIHRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIHRyYW5zaXRpb246IGFsbCAzMDBtcztcbiAgY3Vyc29yOiBwb2ludGVyO1xufVxuXG5AbWVkaWEgKG1heC13aWR0aDogNzY3cHgpIHtcbiAgLmNvbnRlbmVkb3Ige1xuICAgIGNvbHVtbnM6IDI7XG4gIH1cbn1cbi8qIE3Ds3ZpbGVzIGVuIHZlcnRpY2FsICovXG5AbWVkaWEgKG1heC13aWR0aDogNDgwcHgpIHtcbiAgLmNvbnRlbmVkb3Ige1xuICAgIGNvbHVtbnM6IDE7XG4gIH1cbn0iLCJcclxuLmNvbnRlbmVkb3Ige1xyXG4gICAgbWFyZ2luLXRvcDogMTAwcHg7XHJcbiAgICBwYWRkaW5nLWxlZnQ6IDNyZW07XHJcbiAgICB3aWR0aDoxMDAlO1xyXG4gICAgbWF4LXdpZHRoOiB3aWR0aCAxOTIwcHg7XHJcbiAgICBjb2x1bW4tY291bnQ6IDU7XHJcbiAgICBtYXJnaW4tYm90dG9tOiAzNXJlbTtcclxufVxyXG5cclxuYSBpbWd7XHJcbiAgICBtYXJnaW4tdG9wOiA1MHB4O1xyXG4gICAgd2lkdGg6IDkwJTtcclxuICAgIGhlaWdodDogOTAlO1xyXG4gICAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xyXG59XHJcblxyXG5hIGltZzpob3ZlcntcclxuICAgIC13ZWJraXQtdHJhbnNmb3JtOnNjYWxlKDEuMTUpO1xyXG4gICAgLW1vei10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICAtbXMtdHJhbnNmb3JtOnNjYWxlKDEuMTUpO1xyXG4gICAgLW8tdHJhbnNmb3JtOnNjYWxlKDEuMTUpO1xyXG4gICAgdHJhbnNmb3JtOnNjYWxlKDEuMTUpO1xyXG4gICAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xyXG4gICAgY3Vyc29yOiBwb2ludGVyO1xyXG59XHJcblxyXG5AbWVkaWEgKG1heC13aWR0aDogNzY3cHgpIHsgXHJcbiAgICAuY29udGVuZWRvciB7XHJcbiAgICAgICAgY29sdW1uczoyO1xyXG4gICAgfVxyXG5cclxufVxyXG4gICAgICAgIFxyXG4vKiBNw7N2aWxlcyBlbiB2ZXJ0aWNhbCAqL1xyXG5cclxuQG1lZGlhIChtYXgtd2lkdGg6IDQ4MHB4KSB7XHJcbiAgICAuY29udGVuZWRvciB7XHJcbiAgICAgICAgY29sdW1uczogMTtcclxuICAgIH1cclxufSJdfQ== */";
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/mks/mks.component.ts":
+  /*!*********************************************************!*\
+    !*** ./src/app/components/fms-arg/mks/mks.component.ts ***!
+    \*********************************************************/
+
+  /*! exports provided: MksComponent */
+
+  /***/
+  function srcAppComponentsFmsArgMksMksComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "MksComponent", function () {
+      return MksComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+
+    var MksComponent = /*#__PURE__*/function () {
+      function MksComponent() {
+        _classCallCheck(this, MksComponent);
+      }
+
+      _createClass(MksComponent, [{
+        key: "ngOnInit",
+        value: function ngOnInit() {}
+      }]);
+
+      return MksComponent;
+    }();
+
+    MksComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-mks',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./mks.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/mks/mks.component.html"))["default"],
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./mks.component.scss */
+      "./src/app/components/fms-arg/mks/mks.component.scss"))["default"]]
+    })], MksComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/nacho/nacho.component.scss":
+  /*!***************************************************************!*\
+    !*** ./src/app/components/fms-arg/nacho/nacho.component.scss ***!
+    \***************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppComponentsFmsArgNachoNachoComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "@charset \"UTF-8\";\n.contenedor {\n  margin-top: 100px;\n  padding-left: 3rem;\n  width: 100%;\n  max-width: width 1920px;\n  -moz-column-count: 5;\n       column-count: 5;\n  margin-bottom: 35rem;\n}\na img {\n  margin-top: 50px;\n  width: 90%;\n  height: 90%;\n  transition: all 300ms;\n}\na img:hover {\n  transform: scale(1.15);\n  transition: all 300ms;\n  cursor: pointer;\n}\n@media (max-width: 767px) {\n  .contenedor {\n    -moz-columns: 2;\n         columns: 2;\n  }\n}\n/* Móviles en vertical */\n@media (max-width: 480px) {\n  .contenedor {\n    -moz-columns: 1;\n         columns: 1;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL25hY2hvL25hY2hvLmNvbXBvbmVudC5zY3NzIiwic3JjL2FwcC9jb21wb25lbnRzL2Ztcy1hcmcvbmFjaG8vQzpcXFVzZXJzXFxJYWdvXFxEb2N1bWVudHNcXGZtcy12b3Rlcy9zcmNcXGFwcFxcY29tcG9uZW50c1xcZm1zLWFyZ1xcbmFjaG9cXG5hY2hvLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLGdCQUFnQjtBQ0NoQjtFQUNJLGlCQUFBO0VBQ0Esa0JBQUE7RUFDQSxXQUFBO0VBQ0EsdUJBQUE7RUFDQSxvQkFBQTtPQUFBLGVBQUE7RUFDQSxvQkFBQTtBRENKO0FDRUE7RUFDSSxnQkFBQTtFQUNBLFVBQUE7RUFDQSxXQUFBO0VBQ0EscUJBQUE7QURDSjtBQ0VBO0VBS0ksc0JBQUE7RUFDQSxxQkFBQTtFQUNBLGVBQUE7QURDSjtBQ0VBO0VBQ0k7SUFDSSxlQUFBO1NBQUEsVUFBQTtFRENOO0FBQ0Y7QUNHQSx3QkFBQTtBQUVBO0VBQ0k7SUFDSSxlQUFBO1NBQUEsVUFBQTtFREZOO0FBQ0YiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2Ztcy1hcmcvbmFjaG8vbmFjaG8uY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAY2hhcnNldCBcIlVURi04XCI7XG4uY29udGVuZWRvciB7XG4gIG1hcmdpbi10b3A6IDEwMHB4O1xuICBwYWRkaW5nLWxlZnQ6IDNyZW07XG4gIHdpZHRoOiAxMDAlO1xuICBtYXgtd2lkdGg6IHdpZHRoIDE5MjBweDtcbiAgY29sdW1uLWNvdW50OiA1O1xuICBtYXJnaW4tYm90dG9tOiAzNXJlbTtcbn1cblxuYSBpbWcge1xuICBtYXJnaW4tdG9wOiA1MHB4O1xuICB3aWR0aDogOTAlO1xuICBoZWlnaHQ6IDkwJTtcbiAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xufVxuXG5hIGltZzpob3ZlciB7XG4gIC13ZWJraXQtdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgLW1vei10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICAtbXMtdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgLW8tdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xuICBjdXJzb3I6IHBvaW50ZXI7XG59XG5cbkBtZWRpYSAobWF4LXdpZHRoOiA3NjdweCkge1xuICAuY29udGVuZWRvciB7XG4gICAgY29sdW1uczogMjtcbiAgfVxufVxuLyogTcOzdmlsZXMgZW4gdmVydGljYWwgKi9cbkBtZWRpYSAobWF4LXdpZHRoOiA0ODBweCkge1xuICAuY29udGVuZWRvciB7XG4gICAgY29sdW1uczogMTtcbiAgfVxufSIsIlxyXG4uY29udGVuZWRvciB7XHJcbiAgICBtYXJnaW4tdG9wOiAxMDBweDtcclxuICAgIHBhZGRpbmctbGVmdDogM3JlbTtcclxuICAgIHdpZHRoOjEwMCU7XHJcbiAgICBtYXgtd2lkdGg6IHdpZHRoIDE5MjBweDtcclxuICAgIGNvbHVtbi1jb3VudDogNTtcclxuICAgIG1hcmdpbi1ib3R0b206IDM1cmVtO1xyXG59XHJcblxyXG5hIGltZ3tcclxuICAgIG1hcmdpbi10b3A6IDUwcHg7XHJcbiAgICB3aWR0aDogOTAlO1xyXG4gICAgaGVpZ2h0OiA5MCU7XHJcbiAgICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XHJcbn1cclxuXHJcbmEgaW1nOmhvdmVye1xyXG4gICAgLXdlYmtpdC10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICAtbW96LXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIC1tcy10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICAtby10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICB0cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XHJcbiAgICBjdXJzb3I6IHBvaW50ZXI7XHJcbn1cclxuXHJcbkBtZWRpYSAobWF4LXdpZHRoOiA3NjdweCkgeyBcclxuICAgIC5jb250ZW5lZG9yIHtcclxuICAgICAgICBjb2x1bW5zOjI7XHJcbiAgICB9XHJcblxyXG59XHJcbiAgICAgICAgXHJcbi8qIE3Ds3ZpbGVzIGVuIHZlcnRpY2FsICovXHJcblxyXG5AbWVkaWEgKG1heC13aWR0aDogNDgwcHgpIHtcclxuICAgIC5jb250ZW5lZG9yIHtcclxuICAgICAgICBjb2x1bW5zOiAxO1xyXG4gICAgfVxyXG59Il19 */";
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/nacho/nacho.component.ts":
+  /*!*************************************************************!*\
+    !*** ./src/app/components/fms-arg/nacho/nacho.component.ts ***!
+    \*************************************************************/
+
+  /*! exports provided: NachoComponent */
+
+  /***/
+  function srcAppComponentsFmsArgNachoNachoComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "NachoComponent", function () {
+      return NachoComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+
+    var NachoComponent = /*#__PURE__*/function () {
+      function NachoComponent() {
+        _classCallCheck(this, NachoComponent);
+      }
+
+      _createClass(NachoComponent, [{
+        key: "ngOnInit",
+        value: function ngOnInit() {}
+      }]);
+
+      return NachoComponent;
+    }();
+
+    NachoComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-nacho',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./nacho.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/nacho/nacho.component.html"))["default"],
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./nacho.component.scss */
+      "./src/app/components/fms-arg/nacho/nacho.component.scss"))["default"]]
+    })], NachoComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/papo/papo.component.scss":
+  /*!*************************************************************!*\
+    !*** ./src/app/components/fms-arg/papo/papo.component.scss ***!
+    \*************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppComponentsFmsArgPapoPapoComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "@charset \"UTF-8\";\n.contenedor {\n  margin-top: 100px;\n  padding-left: 3rem;\n  width: 100%;\n  max-width: width 1920px;\n  -moz-column-count: 5;\n       column-count: 5;\n  margin-bottom: 35rem;\n}\na img {\n  margin-top: 50px;\n  width: 90%;\n  height: 90%;\n  transition: all 300ms;\n}\na img:hover {\n  transform: scale(1.15);\n  transition: all 300ms;\n  cursor: pointer;\n}\n@media (max-width: 767px) {\n  .contenedor {\n    -moz-columns: 2;\n         columns: 2;\n  }\n}\n/* Móviles en vertical */\n@media (max-width: 480px) {\n  .contenedor {\n    -moz-columns: 1;\n         columns: 1;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL3BhcG8vcGFwby5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL3BhcG8vQzpcXFVzZXJzXFxJYWdvXFxEb2N1bWVudHNcXGZtcy12b3Rlcy9zcmNcXGFwcFxcY29tcG9uZW50c1xcZm1zLWFyZ1xccGFwb1xccGFwby5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxnQkFBZ0I7QUNDaEI7RUFDSSxpQkFBQTtFQUNBLGtCQUFBO0VBQ0EsV0FBQTtFQUNBLHVCQUFBO0VBQ0Esb0JBQUE7T0FBQSxlQUFBO0VBQ0Esb0JBQUE7QURDSjtBQ0VBO0VBQ0ksZ0JBQUE7RUFDQSxVQUFBO0VBQ0EsV0FBQTtFQUNBLHFCQUFBO0FEQ0o7QUNFQTtFQUtJLHNCQUFBO0VBQ0EscUJBQUE7RUFDQSxlQUFBO0FEQ0o7QUNFQTtFQUNJO0lBQ0ksZUFBQTtTQUFBLFVBQUE7RURDTjtBQUNGO0FDR0Esd0JBQUE7QUFFQTtFQUNJO0lBQ0ksZUFBQTtTQUFBLFVBQUE7RURGTjtBQUNGIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL3BhcG8vcGFwby5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIkBjaGFyc2V0IFwiVVRGLThcIjtcbi5jb250ZW5lZG9yIHtcbiAgbWFyZ2luLXRvcDogMTAwcHg7XG4gIHBhZGRpbmctbGVmdDogM3JlbTtcbiAgd2lkdGg6IDEwMCU7XG4gIG1heC13aWR0aDogd2lkdGggMTkyMHB4O1xuICBjb2x1bW4tY291bnQ6IDU7XG4gIG1hcmdpbi1ib3R0b206IDM1cmVtO1xufVxuXG5hIGltZyB7XG4gIG1hcmdpbi10b3A6IDUwcHg7XG4gIHdpZHRoOiA5MCU7XG4gIGhlaWdodDogOTAlO1xuICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XG59XG5cbmEgaW1nOmhvdmVyIHtcbiAgLXdlYmtpdC10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICAtbW96LXRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIC1tcy10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICAtby10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICB0cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XG4gIGN1cnNvcjogcG9pbnRlcjtcbn1cblxuQG1lZGlhIChtYXgtd2lkdGg6IDc2N3B4KSB7XG4gIC5jb250ZW5lZG9yIHtcbiAgICBjb2x1bW5zOiAyO1xuICB9XG59XG4vKiBNw7N2aWxlcyBlbiB2ZXJ0aWNhbCAqL1xuQG1lZGlhIChtYXgtd2lkdGg6IDQ4MHB4KSB7XG4gIC5jb250ZW5lZG9yIHtcbiAgICBjb2x1bW5zOiAxO1xuICB9XG59IiwiXHJcbi5jb250ZW5lZG9yIHtcclxuICAgIG1hcmdpbi10b3A6IDEwMHB4O1xyXG4gICAgcGFkZGluZy1sZWZ0OiAzcmVtO1xyXG4gICAgd2lkdGg6MTAwJTtcclxuICAgIG1heC13aWR0aDogd2lkdGggMTkyMHB4O1xyXG4gICAgY29sdW1uLWNvdW50OiA1O1xyXG4gICAgbWFyZ2luLWJvdHRvbTogMzVyZW07XHJcbn1cclxuXHJcbmEgaW1ne1xyXG4gICAgbWFyZ2luLXRvcDogNTBweDtcclxuICAgIHdpZHRoOiA5MCU7XHJcbiAgICBoZWlnaHQ6IDkwJTtcclxuICAgIHRyYW5zaXRpb246IGFsbCAzMDBtcztcclxufVxyXG5cclxuYSBpbWc6aG92ZXJ7XHJcbiAgICAtd2Via2l0LXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIC1tb3otdHJhbnNmb3JtOnNjYWxlKDEuMTUpO1xyXG4gICAgLW1zLXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIC1vLXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIHRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIHRyYW5zaXRpb246IGFsbCAzMDBtcztcclxuICAgIGN1cnNvcjogcG9pbnRlcjtcclxufVxyXG5cclxuQG1lZGlhIChtYXgtd2lkdGg6IDc2N3B4KSB7IFxyXG4gICAgLmNvbnRlbmVkb3Ige1xyXG4gICAgICAgIGNvbHVtbnM6MjtcclxuICAgIH1cclxuXHJcbn1cclxuICAgICAgICBcclxuLyogTcOzdmlsZXMgZW4gdmVydGljYWwgKi9cclxuXHJcbkBtZWRpYSAobWF4LXdpZHRoOiA0ODBweCkge1xyXG4gICAgLmNvbnRlbmVkb3Ige1xyXG4gICAgICAgIGNvbHVtbnM6IDE7XHJcbiAgICB9XHJcbn0iXX0= */";
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/papo/papo.component.ts":
+  /*!***********************************************************!*\
+    !*** ./src/app/components/fms-arg/papo/papo.component.ts ***!
+    \***********************************************************/
+
+  /*! exports provided: PapoComponent */
+
+  /***/
+  function srcAppComponentsFmsArgPapoPapoComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "PapoComponent", function () {
+      return PapoComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+
+    var PapoComponent = /*#__PURE__*/function () {
+      function PapoComponent() {
+        _classCallCheck(this, PapoComponent);
+      }
+
+      _createClass(PapoComponent, [{
+        key: "ngOnInit",
+        value: function ngOnInit() {}
+      }]);
+
+      return PapoComponent;
+    }();
+
+    PapoComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-papo',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./papo.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/papo/papo.component.html"))["default"],
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./papo.component.scss */
+      "./src/app/components/fms-arg/papo/papo.component.scss"))["default"]]
+    })], PapoComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/stuart/stuart.component.scss":
+  /*!*****************************************************************!*\
+    !*** ./src/app/components/fms-arg/stuart/stuart.component.scss ***!
+    \*****************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppComponentsFmsArgStuartStuartComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "@charset \"UTF-8\";\n.contenedor {\n  margin-top: 100px;\n  padding-left: 3rem;\n  width: 100%;\n  max-width: width 1920px;\n  -moz-column-count: 5;\n       column-count: 5;\n  margin-bottom: 35rem;\n}\na img {\n  margin-top: 50px;\n  width: 90%;\n  height: 90%;\n  transition: all 300ms;\n}\na img:hover {\n  transform: scale(1.15);\n  transition: all 300ms;\n  cursor: pointer;\n}\n@media (max-width: 767px) {\n  .contenedor {\n    -moz-columns: 2;\n         columns: 2;\n  }\n}\n/* Móviles en vertical */\n@media (max-width: 480px) {\n  .contenedor {\n    -moz-columns: 1;\n         columns: 1;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL3N0dWFydC9zdHVhcnQuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvZm1zLWFyZy9zdHVhcnQvQzpcXFVzZXJzXFxJYWdvXFxEb2N1bWVudHNcXGZtcy12b3Rlcy9zcmNcXGFwcFxcY29tcG9uZW50c1xcZm1zLWFyZ1xcc3R1YXJ0XFxzdHVhcnQuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsZ0JBQWdCO0FDQ2hCO0VBQ0ksaUJBQUE7RUFDQSxrQkFBQTtFQUNBLFdBQUE7RUFDQSx1QkFBQTtFQUNBLG9CQUFBO09BQUEsZUFBQTtFQUNBLG9CQUFBO0FEQ0o7QUNFQTtFQUNJLGdCQUFBO0VBQ0EsVUFBQTtFQUNBLFdBQUE7RUFDQSxxQkFBQTtBRENKO0FDRUE7RUFLSSxzQkFBQTtFQUNBLHFCQUFBO0VBQ0EsZUFBQTtBRENKO0FDRUE7RUFDSTtJQUNJLGVBQUE7U0FBQSxVQUFBO0VEQ047QUFDRjtBQ0dBLHdCQUFBO0FBRUE7RUFDSTtJQUNJLGVBQUE7U0FBQSxVQUFBO0VERk47QUFDRiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvZm1zLWFyZy9zdHVhcnQvc3R1YXJ0LmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGNoYXJzZXQgXCJVVEYtOFwiO1xuLmNvbnRlbmVkb3Ige1xuICBtYXJnaW4tdG9wOiAxMDBweDtcbiAgcGFkZGluZy1sZWZ0OiAzcmVtO1xuICB3aWR0aDogMTAwJTtcbiAgbWF4LXdpZHRoOiB3aWR0aCAxOTIwcHg7XG4gIGNvbHVtbi1jb3VudDogNTtcbiAgbWFyZ2luLWJvdHRvbTogMzVyZW07XG59XG5cbmEgaW1nIHtcbiAgbWFyZ2luLXRvcDogNTBweDtcbiAgd2lkdGg6IDkwJTtcbiAgaGVpZ2h0OiA5MCU7XG4gIHRyYW5zaXRpb246IGFsbCAzMDBtcztcbn1cblxuYSBpbWc6aG92ZXIge1xuICAtd2Via2l0LXRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIC1tb3otdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgLW1zLXRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIC1vLXRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIHRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIHRyYW5zaXRpb246IGFsbCAzMDBtcztcbiAgY3Vyc29yOiBwb2ludGVyO1xufVxuXG5AbWVkaWEgKG1heC13aWR0aDogNzY3cHgpIHtcbiAgLmNvbnRlbmVkb3Ige1xuICAgIGNvbHVtbnM6IDI7XG4gIH1cbn1cbi8qIE3Ds3ZpbGVzIGVuIHZlcnRpY2FsICovXG5AbWVkaWEgKG1heC13aWR0aDogNDgwcHgpIHtcbiAgLmNvbnRlbmVkb3Ige1xuICAgIGNvbHVtbnM6IDE7XG4gIH1cbn0iLCJcclxuLmNvbnRlbmVkb3Ige1xyXG4gICAgbWFyZ2luLXRvcDogMTAwcHg7XHJcbiAgICBwYWRkaW5nLWxlZnQ6IDNyZW07XHJcbiAgICB3aWR0aDoxMDAlO1xyXG4gICAgbWF4LXdpZHRoOiB3aWR0aCAxOTIwcHg7XHJcbiAgICBjb2x1bW4tY291bnQ6IDU7XHJcbiAgICBtYXJnaW4tYm90dG9tOiAzNXJlbTtcclxufVxyXG5cclxuYSBpbWd7XHJcbiAgICBtYXJnaW4tdG9wOiA1MHB4O1xyXG4gICAgd2lkdGg6IDkwJTtcclxuICAgIGhlaWdodDogOTAlO1xyXG4gICAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xyXG59XHJcblxyXG5hIGltZzpob3ZlcntcclxuICAgIC13ZWJraXQtdHJhbnNmb3JtOnNjYWxlKDEuMTUpO1xyXG4gICAgLW1vei10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICAtbXMtdHJhbnNmb3JtOnNjYWxlKDEuMTUpO1xyXG4gICAgLW8tdHJhbnNmb3JtOnNjYWxlKDEuMTUpO1xyXG4gICAgdHJhbnNmb3JtOnNjYWxlKDEuMTUpO1xyXG4gICAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xyXG4gICAgY3Vyc29yOiBwb2ludGVyO1xyXG59XHJcblxyXG5AbWVkaWEgKG1heC13aWR0aDogNzY3cHgpIHsgXHJcbiAgICAuY29udGVuZWRvciB7XHJcbiAgICAgICAgY29sdW1uczoyO1xyXG4gICAgfVxyXG5cclxufVxyXG4gICAgICAgIFxyXG4vKiBNw7N2aWxlcyBlbiB2ZXJ0aWNhbCAqL1xyXG5cclxuQG1lZGlhIChtYXgtd2lkdGg6IDQ4MHB4KSB7XHJcbiAgICAuY29udGVuZWRvciB7XHJcbiAgICAgICAgY29sdW1uczogMTtcclxuICAgIH1cclxufSJdfQ== */";
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/stuart/stuart.component.ts":
+  /*!***************************************************************!*\
+    !*** ./src/app/components/fms-arg/stuart/stuart.component.ts ***!
+    \***************************************************************/
+
+  /*! exports provided: StuartComponent */
+
+  /***/
+  function srcAppComponentsFmsArgStuartStuartComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "StuartComponent", function () {
+      return StuartComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+
+    var StuartComponent = /*#__PURE__*/function () {
+      function StuartComponent() {
+        _classCallCheck(this, StuartComponent);
+      }
+
+      _createClass(StuartComponent, [{
+        key: "ngOnInit",
+        value: function ngOnInit() {}
+      }]);
+
+      return StuartComponent;
+    }();
+
+    StuartComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-stuart',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./stuart.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/stuart/stuart.component.html"))["default"],
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./stuart.component.scss */
+      "./src/app/components/fms-arg/stuart/stuart.component.scss"))["default"]]
+    })], StuartComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/sub/sub.component.scss":
+  /*!***********************************************************!*\
+    !*** ./src/app/components/fms-arg/sub/sub.component.scss ***!
+    \***********************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppComponentsFmsArgSubSubComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "@charset \"UTF-8\";\n.contenedor {\n  margin-top: 100px;\n  padding-left: 3rem;\n  width: 100%;\n  max-width: width 1920px;\n  -moz-column-count: 5;\n       column-count: 5;\n  margin-bottom: 35rem;\n}\na img {\n  margin-top: 50px;\n  width: 90%;\n  height: 90%;\n  transition: all 300ms;\n}\na img:hover {\n  transform: scale(1.15);\n  transition: all 300ms;\n  cursor: pointer;\n}\n@media (max-width: 767px) {\n  .contenedor {\n    -moz-columns: 2;\n         columns: 2;\n  }\n}\n/* Móviles en vertical */\n@media (max-width: 480px) {\n  .contenedor {\n    -moz-columns: 1;\n         columns: 1;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL3N1Yi9zdWIuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvZm1zLWFyZy9zdWIvQzpcXFVzZXJzXFxJYWdvXFxEb2N1bWVudHNcXGZtcy12b3Rlcy9zcmNcXGFwcFxcY29tcG9uZW50c1xcZm1zLWFyZ1xcc3ViXFxzdWIuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsZ0JBQWdCO0FDQ2hCO0VBQ0ksaUJBQUE7RUFDQSxrQkFBQTtFQUNBLFdBQUE7RUFDQSx1QkFBQTtFQUNBLG9CQUFBO09BQUEsZUFBQTtFQUNBLG9CQUFBO0FEQ0o7QUNFQTtFQUNJLGdCQUFBO0VBQ0EsVUFBQTtFQUNBLFdBQUE7RUFDQSxxQkFBQTtBRENKO0FDRUE7RUFLSSxzQkFBQTtFQUNBLHFCQUFBO0VBQ0EsZUFBQTtBRENKO0FDRUE7RUFDSTtJQUNJLGVBQUE7U0FBQSxVQUFBO0VEQ047QUFDRjtBQ0dBLHdCQUFBO0FBRUE7RUFDSTtJQUNJLGVBQUE7U0FBQSxVQUFBO0VERk47QUFDRiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvZm1zLWFyZy9zdWIvc3ViLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGNoYXJzZXQgXCJVVEYtOFwiO1xuLmNvbnRlbmVkb3Ige1xuICBtYXJnaW4tdG9wOiAxMDBweDtcbiAgcGFkZGluZy1sZWZ0OiAzcmVtO1xuICB3aWR0aDogMTAwJTtcbiAgbWF4LXdpZHRoOiB3aWR0aCAxOTIwcHg7XG4gIGNvbHVtbi1jb3VudDogNTtcbiAgbWFyZ2luLWJvdHRvbTogMzVyZW07XG59XG5cbmEgaW1nIHtcbiAgbWFyZ2luLXRvcDogNTBweDtcbiAgd2lkdGg6IDkwJTtcbiAgaGVpZ2h0OiA5MCU7XG4gIHRyYW5zaXRpb246IGFsbCAzMDBtcztcbn1cblxuYSBpbWc6aG92ZXIge1xuICAtd2Via2l0LXRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIC1tb3otdHJhbnNmb3JtOiBzY2FsZSgxLjE1KTtcbiAgLW1zLXRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIC1vLXRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIHRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIHRyYW5zaXRpb246IGFsbCAzMDBtcztcbiAgY3Vyc29yOiBwb2ludGVyO1xufVxuXG5AbWVkaWEgKG1heC13aWR0aDogNzY3cHgpIHtcbiAgLmNvbnRlbmVkb3Ige1xuICAgIGNvbHVtbnM6IDI7XG4gIH1cbn1cbi8qIE3Ds3ZpbGVzIGVuIHZlcnRpY2FsICovXG5AbWVkaWEgKG1heC13aWR0aDogNDgwcHgpIHtcbiAgLmNvbnRlbmVkb3Ige1xuICAgIGNvbHVtbnM6IDE7XG4gIH1cbn0iLCJcclxuLmNvbnRlbmVkb3Ige1xyXG4gICAgbWFyZ2luLXRvcDogMTAwcHg7XHJcbiAgICBwYWRkaW5nLWxlZnQ6IDNyZW07XHJcbiAgICB3aWR0aDoxMDAlO1xyXG4gICAgbWF4LXdpZHRoOiB3aWR0aCAxOTIwcHg7XHJcbiAgICBjb2x1bW4tY291bnQ6IDU7XHJcbiAgICBtYXJnaW4tYm90dG9tOiAzNXJlbTtcclxufVxyXG5cclxuYSBpbWd7XHJcbiAgICBtYXJnaW4tdG9wOiA1MHB4O1xyXG4gICAgd2lkdGg6IDkwJTtcclxuICAgIGhlaWdodDogOTAlO1xyXG4gICAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xyXG59XHJcblxyXG5hIGltZzpob3ZlcntcclxuICAgIC13ZWJraXQtdHJhbnNmb3JtOnNjYWxlKDEuMTUpO1xyXG4gICAgLW1vei10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICAtbXMtdHJhbnNmb3JtOnNjYWxlKDEuMTUpO1xyXG4gICAgLW8tdHJhbnNmb3JtOnNjYWxlKDEuMTUpO1xyXG4gICAgdHJhbnNmb3JtOnNjYWxlKDEuMTUpO1xyXG4gICAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xyXG4gICAgY3Vyc29yOiBwb2ludGVyO1xyXG59XHJcblxyXG5AbWVkaWEgKG1heC13aWR0aDogNzY3cHgpIHsgXHJcbiAgICAuY29udGVuZWRvciB7XHJcbiAgICAgICAgY29sdW1uczoyO1xyXG4gICAgfVxyXG5cclxufVxyXG4gICAgICAgIFxyXG4vKiBNw7N2aWxlcyBlbiB2ZXJ0aWNhbCAqL1xyXG5cclxuQG1lZGlhIChtYXgtd2lkdGg6IDQ4MHB4KSB7XHJcbiAgICAuY29udGVuZWRvciB7XHJcbiAgICAgICAgY29sdW1uczogMTtcclxuICAgIH1cclxufSJdfQ== */";
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/sub/sub.component.ts":
+  /*!*********************************************************!*\
+    !*** ./src/app/components/fms-arg/sub/sub.component.ts ***!
+    \*********************************************************/
+
+  /*! exports provided: SubComponent */
+
+  /***/
+  function srcAppComponentsFmsArgSubSubComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "SubComponent", function () {
+      return SubComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+
+    var SubComponent = /*#__PURE__*/function () {
+      function SubComponent() {
+        _classCallCheck(this, SubComponent);
+      }
+
+      _createClass(SubComponent, [{
+        key: "ngOnInit",
+        value: function ngOnInit() {}
+      }]);
+
+      return SubComponent;
+    }();
+
+    SubComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-sub',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./sub.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/sub/sub.component.html"))["default"],
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./sub.component.scss */
+      "./src/app/components/fms-arg/sub/sub.component.scss"))["default"]]
+    })], SubComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/wolf/wolf.component.scss":
+  /*!*************************************************************!*\
+    !*** ./src/app/components/fms-arg/wolf/wolf.component.scss ***!
+    \*************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppComponentsFmsArgWolfWolfComponentScss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "@charset \"UTF-8\";\n.contenedor {\n  margin-top: 100px;\n  padding-left: 3rem;\n  width: 100%;\n  max-width: width 1920px;\n  -moz-column-count: 5;\n       column-count: 5;\n  margin-bottom: 35rem;\n}\na img {\n  margin-top: 50px;\n  width: 90%;\n  height: 90%;\n  transition: all 300ms;\n}\na img:hover {\n  transform: scale(1.15);\n  transition: all 300ms;\n  cursor: pointer;\n}\n@media (max-width: 767px) {\n  .contenedor {\n    -moz-columns: 2;\n         columns: 2;\n  }\n}\n/* Móviles en vertical */\n@media (max-width: 480px) {\n  .contenedor {\n    -moz-columns: 1;\n         columns: 1;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL3dvbGYvd29sZi5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL3dvbGYvQzpcXFVzZXJzXFxJYWdvXFxEb2N1bWVudHNcXGZtcy12b3Rlcy9zcmNcXGFwcFxcY29tcG9uZW50c1xcZm1zLWFyZ1xcd29sZlxcd29sZi5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxnQkFBZ0I7QUNDaEI7RUFDSSxpQkFBQTtFQUNBLGtCQUFBO0VBQ0EsV0FBQTtFQUNBLHVCQUFBO0VBQ0Esb0JBQUE7T0FBQSxlQUFBO0VBQ0Esb0JBQUE7QURDSjtBQ0VBO0VBQ0ksZ0JBQUE7RUFDQSxVQUFBO0VBQ0EsV0FBQTtFQUNBLHFCQUFBO0FEQ0o7QUNFQTtFQUtJLHNCQUFBO0VBQ0EscUJBQUE7RUFDQSxlQUFBO0FEQ0o7QUNFQTtFQUNJO0lBQ0ksZUFBQTtTQUFBLFVBQUE7RURDTjtBQUNGO0FDR0Esd0JBQUE7QUFFQTtFQUNJO0lBQ0ksZUFBQTtTQUFBLFVBQUE7RURGTjtBQUNGIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50cy9mbXMtYXJnL3dvbGYvd29sZi5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIkBjaGFyc2V0IFwiVVRGLThcIjtcbi5jb250ZW5lZG9yIHtcbiAgbWFyZ2luLXRvcDogMTAwcHg7XG4gIHBhZGRpbmctbGVmdDogM3JlbTtcbiAgd2lkdGg6IDEwMCU7XG4gIG1heC13aWR0aDogd2lkdGggMTkyMHB4O1xuICBjb2x1bW4tY291bnQ6IDU7XG4gIG1hcmdpbi1ib3R0b206IDM1cmVtO1xufVxuXG5hIGltZyB7XG4gIG1hcmdpbi10b3A6IDUwcHg7XG4gIHdpZHRoOiA5MCU7XG4gIGhlaWdodDogOTAlO1xuICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XG59XG5cbmEgaW1nOmhvdmVyIHtcbiAgLXdlYmtpdC10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICAtbW96LXRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIC1tcy10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICAtby10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICB0cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XG4gIGN1cnNvcjogcG9pbnRlcjtcbn1cblxuQG1lZGlhIChtYXgtd2lkdGg6IDc2N3B4KSB7XG4gIC5jb250ZW5lZG9yIHtcbiAgICBjb2x1bW5zOiAyO1xuICB9XG59XG4vKiBNw7N2aWxlcyBlbiB2ZXJ0aWNhbCAqL1xuQG1lZGlhIChtYXgtd2lkdGg6IDQ4MHB4KSB7XG4gIC5jb250ZW5lZG9yIHtcbiAgICBjb2x1bW5zOiAxO1xuICB9XG59IiwiXHJcbi5jb250ZW5lZG9yIHtcclxuICAgIG1hcmdpbi10b3A6IDEwMHB4O1xyXG4gICAgcGFkZGluZy1sZWZ0OiAzcmVtO1xyXG4gICAgd2lkdGg6MTAwJTtcclxuICAgIG1heC13aWR0aDogd2lkdGggMTkyMHB4O1xyXG4gICAgY29sdW1uLWNvdW50OiA1O1xyXG4gICAgbWFyZ2luLWJvdHRvbTogMzVyZW07XHJcbn1cclxuXHJcbmEgaW1ne1xyXG4gICAgbWFyZ2luLXRvcDogNTBweDtcclxuICAgIHdpZHRoOiA5MCU7XHJcbiAgICBoZWlnaHQ6IDkwJTtcclxuICAgIHRyYW5zaXRpb246IGFsbCAzMDBtcztcclxufVxyXG5cclxuYSBpbWc6aG92ZXJ7XHJcbiAgICAtd2Via2l0LXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIC1tb3otdHJhbnNmb3JtOnNjYWxlKDEuMTUpO1xyXG4gICAgLW1zLXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIC1vLXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIHRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIHRyYW5zaXRpb246IGFsbCAzMDBtcztcclxuICAgIGN1cnNvcjogcG9pbnRlcjtcclxufVxyXG5cclxuQG1lZGlhIChtYXgtd2lkdGg6IDc2N3B4KSB7IFxyXG4gICAgLmNvbnRlbmVkb3Ige1xyXG4gICAgICAgIGNvbHVtbnM6MjtcclxuICAgIH1cclxuXHJcbn1cclxuICAgICAgICBcclxuLyogTcOzdmlsZXMgZW4gdmVydGljYWwgKi9cclxuXHJcbkBtZWRpYSAobWF4LXdpZHRoOiA0ODBweCkge1xyXG4gICAgLmNvbnRlbmVkb3Ige1xyXG4gICAgICAgIGNvbHVtbnM6IDE7XHJcbiAgICB9XHJcbn0iXX0= */";
+    /***/
+  },
+
+  /***/
+  "./src/app/components/fms-arg/wolf/wolf.component.ts":
+  /*!***********************************************************!*\
+    !*** ./src/app/components/fms-arg/wolf/wolf.component.ts ***!
+    \***********************************************************/
+
+  /*! exports provided: WolfComponent */
+
+  /***/
+  function srcAppComponentsFmsArgWolfWolfComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "WolfComponent", function () {
+      return WolfComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+
+    var WolfComponent = /*#__PURE__*/function () {
+      function WolfComponent() {
+        _classCallCheck(this, WolfComponent);
+      }
+
+      _createClass(WolfComponent, [{
+        key: "ngOnInit",
+        value: function ngOnInit() {}
+      }]);
+
+      return WolfComponent;
+    }();
+
+    WolfComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-wolf',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./wolf.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/components/fms-arg/wolf/wolf.component.html"))["default"],
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./wolf.component.scss */
+      "./src/app/components/fms-arg/wolf/wolf.component.scss"))["default"]]
+    })], WolfComponent);
+    /***/
+  },
+
+  /***/
   "./src/app/components/fms-esp/fms-esp.component.scss":
   /*!***********************************************************!*\
     !*** ./src/app/components/fms-esp/fms-esp.component.scss ***!
@@ -3613,7 +4903,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "@charset \"UTF-8\";\n.contenedor {\n  margin-top: 100px;\n  padding-left: 7rem;\n  width: 100%;\n  max-width: width 1920px;\n  -moz-column-count: 5;\n       column-count: 5;\n}\na img:hover {\n  transform: scale(1.15);\n  transition: all 300ms;\n  cursor: pointer;\n}\na img {\n  margin-top: 25px;\n  margin-bottom: 15px;\n  width: 60%;\n  height: 60%;\n  transition: all 300ms;\n}\n@media (max-width: 767px) {\n  .contenedor {\n    -moz-columns: 2;\n         columns: 2;\n  }\n}\n/* Móviles en vertical */\n@media (max-width: 480px) {\n  .contenedor {\n    -moz-columns: 1;\n         columns: 1;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9mbXMtZXNwL2Ztcy1lc3AuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvZm1zLWVzcC9DOlxcVXNlcnNcXElhZ29cXERvY3VtZW50c1xcZm1zLXZvdGVzL3NyY1xcYXBwXFxjb21wb25lbnRzXFxmbXMtZXNwXFxmbXMtZXNwLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLGdCQUFnQjtBQ0FoQjtFQUNJLGlCQUFBO0VBQ0Esa0JBQUE7RUFDQSxXQUFBO0VBQ0EsdUJBQUE7RUFDQSxvQkFBQTtPQUFBLGVBQUE7QURFSjtBQ0NBO0VBS0ksc0JBQUE7RUFDQSxxQkFBQTtFQUNBLGVBQUE7QURFSjtBQ0NBO0VBQ0ksZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLFVBQUE7RUFDQSxXQUFBO0VBQ0EscUJBQUE7QURFSjtBQ0NBO0VBQ0k7SUFDSSxlQUFBO1NBQUEsVUFBQTtFREVOO0FBQ0Y7QUNFQSx3QkFBQTtBQUVBO0VBQ0k7SUFDSSxlQUFBO1NBQUEsVUFBQTtFREROO0FBQ0YiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2Ztcy1lc3AvZm1zLWVzcC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIkBjaGFyc2V0IFwiVVRGLThcIjtcbi5jb250ZW5lZG9yIHtcbiAgbWFyZ2luLXRvcDogMTAwcHg7XG4gIHBhZGRpbmctbGVmdDogN3JlbTtcbiAgd2lkdGg6IDEwMCU7XG4gIG1heC13aWR0aDogd2lkdGggMTkyMHB4O1xuICBjb2x1bW4tY291bnQ6IDU7XG59XG5cbmEgaW1nOmhvdmVyIHtcbiAgLXdlYmtpdC10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICAtbW96LXRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIC1tcy10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICAtby10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICB0cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XG4gIGN1cnNvcjogcG9pbnRlcjtcbn1cblxuYSBpbWcge1xuICBtYXJnaW4tdG9wOiAyNXB4O1xuICBtYXJnaW4tYm90dG9tOiAxNXB4O1xuICB3aWR0aDogNjAlO1xuICBoZWlnaHQ6IDYwJTtcbiAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xufVxuXG5AbWVkaWEgKG1heC13aWR0aDogNzY3cHgpIHtcbiAgLmNvbnRlbmVkb3Ige1xuICAgIGNvbHVtbnM6IDI7XG4gIH1cbn1cbi8qIE3Ds3ZpbGVzIGVuIHZlcnRpY2FsICovXG5AbWVkaWEgKG1heC13aWR0aDogNDgwcHgpIHtcbiAgLmNvbnRlbmVkb3Ige1xuICAgIGNvbHVtbnM6IDE7XG4gIH1cbn0iLCIuY29udGVuZWRvciB7XHJcbiAgICBtYXJnaW4tdG9wOiAxMDBweDtcclxuICAgIHBhZGRpbmctbGVmdDogN3JlbTtcclxuICAgIHdpZHRoOjEwMCU7XHJcbiAgICBtYXgtd2lkdGg6IHdpZHRoIDE5MjBweDtcclxuICAgIGNvbHVtbi1jb3VudDogNTtcclxufVxyXG5cclxuYSBpbWc6aG92ZXJ7XHJcbiAgICAtd2Via2l0LXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIC1tb3otdHJhbnNmb3JtOnNjYWxlKDEuMTUpO1xyXG4gICAgLW1zLXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIC1vLXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIHRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIHRyYW5zaXRpb246IGFsbCAzMDBtcztcclxuICAgIGN1cnNvcjogcG9pbnRlcjtcclxufVxyXG5cclxuYSBpbWd7XHJcbiAgICBtYXJnaW4tdG9wOiAyNXB4O1xyXG4gICAgbWFyZ2luLWJvdHRvbTogMTVweDtcclxuICAgIHdpZHRoOiA2MCU7XHJcbiAgICBoZWlnaHQ6IDYwJTtcclxuICAgIHRyYW5zaXRpb246IGFsbCAzMDBtcztcclxufVxyXG5cclxuQG1lZGlhIChtYXgtd2lkdGg6IDc2N3B4KSB7IFxyXG4gICAgLmNvbnRlbmVkb3Ige1xyXG4gICAgICAgIGNvbHVtbnM6MjtcclxuICAgIH1cclxuXHJcbn1cclxuICAgICAgICBcclxuLyogTcOzdmlsZXMgZW4gdmVydGljYWwgKi9cclxuXHJcbkBtZWRpYSAobWF4LXdpZHRoOiA0ODBweCkge1xyXG4gICAgLmNvbnRlbmVkb3Ige1xyXG4gICAgICAgIGNvbHVtbnM6IDE7XHJcbiAgICB9XHJcbn0iXX0= */";
+    __webpack_exports__["default"] = "@charset \"UTF-8\";\n.contenedor {\n  margin-top: 100px;\n  padding-left: 7rem;\n  width: 100%;\n  max-width: width 1920px;\n  -moz-column-count: 5;\n       column-count: 5;\n}\na img:hover {\n  transform: scale(1.15);\n  transition: all 300ms;\n  cursor: pointer;\n}\na img {\n  margin-top: 25px;\n  margin-bottom: 15px;\n  width: 60%;\n  height: 60%;\n  transition: all 300ms;\n}\n@media (max-width: 767px) {\n  .contenedor {\n    -moz-columns: 2;\n         columns: 2;\n  }\n}\n/* Móviles en vertical */\n@media (max-width: 480px) {\n  .contenedor {\n    -moz-columns: 1;\n         columns: 1;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9mbXMtZXNwL2Ztcy1lc3AuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2NvbXBvbmVudHMvZm1zLWVzcC9DOlxcVXNlcnNcXElhZ29cXERvY3VtZW50c1xcZm1zLXZvdGVzL3NyY1xcYXBwXFxjb21wb25lbnRzXFxmbXMtZXNwXFxmbXMtZXNwLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLGdCQUFnQjtBQ0NoQjtFQUNJLGlCQUFBO0VBQ0Esa0JBQUE7RUFDQSxXQUFBO0VBQ0EsdUJBQUE7RUFDQSxvQkFBQTtPQUFBLGVBQUE7QURDSjtBQ0VBO0VBS0ksc0JBQUE7RUFDQSxxQkFBQTtFQUNBLGVBQUE7QURDSjtBQ0VBO0VBQ0ksZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLFVBQUE7RUFDQSxXQUFBO0VBQ0EscUJBQUE7QURDSjtBQ0VBO0VBQ0k7SUFDSSxlQUFBO1NBQUEsVUFBQTtFRENOO0FBQ0Y7QUNHQSx3QkFBQTtBQUVBO0VBQ0k7SUFDSSxlQUFBO1NBQUEsVUFBQTtFREZOO0FBQ0YiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2Ztcy1lc3AvZm1zLWVzcC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIkBjaGFyc2V0IFwiVVRGLThcIjtcbi5jb250ZW5lZG9yIHtcbiAgbWFyZ2luLXRvcDogMTAwcHg7XG4gIHBhZGRpbmctbGVmdDogN3JlbTtcbiAgd2lkdGg6IDEwMCU7XG4gIG1heC13aWR0aDogd2lkdGggMTkyMHB4O1xuICBjb2x1bW4tY291bnQ6IDU7XG59XG5cbmEgaW1nOmhvdmVyIHtcbiAgLXdlYmtpdC10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICAtbW96LXRyYW5zZm9ybTogc2NhbGUoMS4xNSk7XG4gIC1tcy10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICAtby10cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICB0cmFuc2Zvcm06IHNjYWxlKDEuMTUpO1xuICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XG4gIGN1cnNvcjogcG9pbnRlcjtcbn1cblxuYSBpbWcge1xuICBtYXJnaW4tdG9wOiAyNXB4O1xuICBtYXJnaW4tYm90dG9tOiAxNXB4O1xuICB3aWR0aDogNjAlO1xuICBoZWlnaHQ6IDYwJTtcbiAgdHJhbnNpdGlvbjogYWxsIDMwMG1zO1xufVxuXG5AbWVkaWEgKG1heC13aWR0aDogNzY3cHgpIHtcbiAgLmNvbnRlbmVkb3Ige1xuICAgIGNvbHVtbnM6IDI7XG4gIH1cbn1cbi8qIE3Ds3ZpbGVzIGVuIHZlcnRpY2FsICovXG5AbWVkaWEgKG1heC13aWR0aDogNDgwcHgpIHtcbiAgLmNvbnRlbmVkb3Ige1xuICAgIGNvbHVtbnM6IDE7XG4gIH1cbn0iLCJcclxuLmNvbnRlbmVkb3Ige1xyXG4gICAgbWFyZ2luLXRvcDogMTAwcHg7XHJcbiAgICBwYWRkaW5nLWxlZnQ6IDdyZW07XHJcbiAgICB3aWR0aDoxMDAlO1xyXG4gICAgbWF4LXdpZHRoOiB3aWR0aCAxOTIwcHg7XHJcbiAgICBjb2x1bW4tY291bnQ6IDU7XHJcbn1cclxuXHJcbmEgaW1nOmhvdmVye1xyXG4gICAgLXdlYmtpdC10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICAtbW96LXRyYW5zZm9ybTpzY2FsZSgxLjE1KTtcclxuICAgIC1tcy10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICAtby10cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICB0cmFuc2Zvcm06c2NhbGUoMS4xNSk7XHJcbiAgICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XHJcbiAgICBjdXJzb3I6IHBvaW50ZXI7XHJcbn1cclxuXHJcbmEgaW1ne1xyXG4gICAgbWFyZ2luLXRvcDogMjVweDtcclxuICAgIG1hcmdpbi1ib3R0b206IDE1cHg7XHJcbiAgICB3aWR0aDogNjAlO1xyXG4gICAgaGVpZ2h0OiA2MCU7XHJcbiAgICB0cmFuc2l0aW9uOiBhbGwgMzAwbXM7XHJcbn1cclxuXHJcbkBtZWRpYSAobWF4LXdpZHRoOiA3NjdweCkgeyBcclxuICAgIC5jb250ZW5lZG9yIHtcclxuICAgICAgICBjb2x1bW5zOjI7XHJcbiAgICB9XHJcblxyXG59XHJcbiAgICAgICAgXHJcbi8qIE3Ds3ZpbGVzIGVuIHZlcnRpY2FsICovXHJcblxyXG5AbWVkaWEgKG1heC13aWR0aDogNDgwcHgpIHtcclxuICAgIC5jb250ZW5lZG9yIHtcclxuICAgICAgICBjb2x1bW5zOiAxO1xyXG4gICAgfVxyXG59Il19 */";
     /***/
   },
 
@@ -3947,19 +5237,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var BoneComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var BoneComponent = /*#__PURE__*/function (_src_app_components_b) {
+      _inherits(BoneComponent, _src_app_components_b);
+
+      var _super4 = _createSuper(BoneComponent);
+
       function BoneComponent() {
         _classCallCheck(this, BoneComponent);
+
+        return _super4.apply(this, arguments);
       }
 
-      _createClass(BoneComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return BoneComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     BoneComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-bone',
@@ -4024,19 +5321,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var GarzaComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var GarzaComponent = /*#__PURE__*/function (_src_app_components_b2) {
+      _inherits(GarzaComponent, _src_app_components_b2);
+
+      var _super5 = _createSuper(GarzaComponent);
+
       function GarzaComponent() {
         _classCallCheck(this, GarzaComponent);
+
+        return _super5.apply(this, arguments);
       }
 
-      _createClass(GarzaComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return GarzaComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     GarzaComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-garza',
@@ -4101,19 +5405,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var JonybComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var JonybComponent = /*#__PURE__*/function (_src_app_components_b3) {
+      _inherits(JonybComponent, _src_app_components_b3);
+
+      var _super6 = _createSuper(JonybComponent);
+
       function JonybComponent() {
         _classCallCheck(this, JonybComponent);
+
+        return _super6.apply(this, arguments);
       }
 
-      _createClass(JonybComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return JonybComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     JonybComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-jonyb',
@@ -4178,19 +5489,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var LoboComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var LoboComponent = /*#__PURE__*/function (_src_app_components_b4) {
+      _inherits(LoboComponent, _src_app_components_b4);
+
+      var _super7 = _createSuper(LoboComponent);
+
       function LoboComponent() {
         _classCallCheck(this, LoboComponent);
+
+        return _super7.apply(this, arguments);
       }
 
-      _createClass(LoboComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return LoboComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     LoboComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-lobo',
@@ -4255,19 +5573,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var PotenciaComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var PotenciaComponent = /*#__PURE__*/function (_src_app_components_b5) {
+      _inherits(PotenciaComponent, _src_app_components_b5);
+
+      var _super8 = _createSuper(PotenciaComponent);
+
       function PotenciaComponent() {
         _classCallCheck(this, PotenciaComponent);
+
+        return _super8.apply(this, arguments);
       }
 
-      _createClass(PotenciaComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return PotenciaComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     PotenciaComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-potencia',
@@ -4332,19 +5657,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var RapderComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var RapderComponent = /*#__PURE__*/function (_src_app_components_b6) {
+      _inherits(RapderComponent, _src_app_components_b6);
+
+      var _super9 = _createSuper(RapderComponent);
+
       function RapderComponent() {
         _classCallCheck(this, RapderComponent);
+
+        return _super9.apply(this, arguments);
       }
 
-      _createClass(RapderComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return RapderComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     RapderComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-rapder',
@@ -4409,19 +5741,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var RcComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var RcComponent = /*#__PURE__*/function (_src_app_components_b7) {
+      _inherits(RcComponent, _src_app_components_b7);
+
+      var _super10 = _createSuper(RcComponent);
+
       function RcComponent() {
         _classCallCheck(this, RcComponent);
+
+        return _super10.apply(this, arguments);
       }
 
-      _createClass(RcComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return RcComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     RcComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-rc',
@@ -4486,19 +5825,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var SkiperComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var SkiperComponent = /*#__PURE__*/function (_src_app_components_b8) {
+      _inherits(SkiperComponent, _src_app_components_b8);
+
+      var _super11 = _createSuper(SkiperComponent);
+
       function SkiperComponent() {
         _classCallCheck(this, SkiperComponent);
+
+        return _super11.apply(this, arguments);
       }
 
-      _createClass(SkiperComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return SkiperComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     SkiperComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-skiper',
@@ -4563,19 +5909,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var YoikerComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var YoikerComponent = /*#__PURE__*/function (_src_app_components_b9) {
+      _inherits(YoikerComponent, _src_app_components_b9);
+
+      var _super12 = _createSuper(YoikerComponent);
+
       function YoikerComponent() {
         _classCallCheck(this, YoikerComponent);
+
+        return _super12.apply(this, arguments);
       }
 
-      _createClass(YoikerComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return YoikerComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     YoikerComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-yoiker',
@@ -4640,19 +5993,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/core */
     "./node_modules/@angular/core/fesm2015/core.js");
+    /* harmony import */
 
-    var ZticmaComponent = /*#__PURE__*/function () {
+
+    var src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! src/app/components/base-component/base-component.component */
+    "./src/app/components/base-component/base-component.component.ts");
+
+    var ZticmaComponent = /*#__PURE__*/function (_src_app_components_b10) {
+      _inherits(ZticmaComponent, _src_app_components_b10);
+
+      var _super13 = _createSuper(ZticmaComponent);
+
       function ZticmaComponent() {
         _classCallCheck(this, ZticmaComponent);
+
+        return _super13.apply(this, arguments);
       }
 
-      _createClass(ZticmaComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
       return ZticmaComponent;
-    }();
+    }(src_app_components_base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"]);
 
     ZticmaComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
       selector: 'app-zticma',
@@ -4865,15 +6225,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! src/app/components/base-component/base-component.component */
     "./src/app/components/base-component/base-component.component.ts");
 
-    var ChoqueComponent = /*#__PURE__*/function (_src_app_components_b) {
-      _inherits(ChoqueComponent, _src_app_components_b);
+    var ChoqueComponent = /*#__PURE__*/function (_src_app_components_b11) {
+      _inherits(ChoqueComponent, _src_app_components_b11);
 
-      var _super4 = _createSuper(ChoqueComponent);
+      var _super14 = _createSuper(ChoqueComponent);
 
       function ChoqueComponent() {
         _classCallCheck(this, ChoqueComponent);
 
-        return _super4.apply(this, arguments);
+        return _super14.apply(this, arguments);
       }
 
       return ChoqueComponent;
@@ -4949,15 +6309,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! src/app/components/base-component/base-component.component */
     "./src/app/components/base-component/base-component.component.ts");
 
-    var JazeComponent = /*#__PURE__*/function (_src_app_components_b2) {
-      _inherits(JazeComponent, _src_app_components_b2);
+    var JazeComponent = /*#__PURE__*/function (_src_app_components_b12) {
+      _inherits(JazeComponent, _src_app_components_b12);
 
-      var _super5 = _createSuper(JazeComponent);
+      var _super15 = _createSuper(JazeComponent);
 
       function JazeComponent() {
         _classCallCheck(this, JazeComponent);
 
-        return _super5.apply(this, arguments);
+        return _super15.apply(this, arguments);
       }
 
       return JazeComponent;
@@ -5033,15 +6393,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! src/app/components/base-component/base-component.component */
     "./src/app/components/base-component/base-component.component.ts");
 
-    var JotaComponent = /*#__PURE__*/function (_src_app_components_b3) {
-      _inherits(JotaComponent, _src_app_components_b3);
+    var JotaComponent = /*#__PURE__*/function (_src_app_components_b13) {
+      _inherits(JotaComponent, _src_app_components_b13);
 
-      var _super6 = _createSuper(JotaComponent);
+      var _super16 = _createSuper(JotaComponent);
 
       function JotaComponent() {
         _classCallCheck(this, JotaComponent);
 
-        return _super6.apply(this, arguments);
+        return _super16.apply(this, arguments);
       }
 
       return JotaComponent;
@@ -5117,15 +6477,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! src/app/components/base-component/base-component.component */
     "./src/app/components/base-component/base-component.component.ts");
 
-    var LitzenComponent = /*#__PURE__*/function (_src_app_components_b4) {
-      _inherits(LitzenComponent, _src_app_components_b4);
+    var LitzenComponent = /*#__PURE__*/function (_src_app_components_b14) {
+      _inherits(LitzenComponent, _src_app_components_b14);
 
-      var _super7 = _createSuper(LitzenComponent);
+      var _super17 = _createSuper(LitzenComponent);
 
       function LitzenComponent() {
         _classCallCheck(this, LitzenComponent);
 
-        return _super7.apply(this, arguments);
+        return _super17.apply(this, arguments);
       }
 
       return LitzenComponent;
@@ -5201,15 +6561,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! src/app/components/base-component/base-component.component */
     "./src/app/components/base-component/base-component.component.ts");
 
-    var NekroosComponent = /*#__PURE__*/function (_src_app_components_b5) {
-      _inherits(NekroosComponent, _src_app_components_b5);
+    var NekroosComponent = /*#__PURE__*/function (_src_app_components_b15) {
+      _inherits(NekroosComponent, _src_app_components_b15);
 
-      var _super8 = _createSuper(NekroosComponent);
+      var _super18 = _createSuper(NekroosComponent);
 
       function NekroosComponent() {
         _classCallCheck(this, NekroosComponent);
 
-        return _super8.apply(this, arguments);
+        return _super18.apply(this, arguments);
       }
 
       return NekroosComponent;
@@ -5285,15 +6645,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! src/app/components/base-component/base-component.component */
     "./src/app/components/base-component/base-component.component.ts");
 
-    var NeweraComponent = /*#__PURE__*/function (_src_app_components_b6) {
-      _inherits(NeweraComponent, _src_app_components_b6);
+    var NeweraComponent = /*#__PURE__*/function (_src_app_components_b16) {
+      _inherits(NeweraComponent, _src_app_components_b16);
 
-      var _super9 = _createSuper(NeweraComponent);
+      var _super19 = _createSuper(NeweraComponent);
 
       function NeweraComponent() {
         _classCallCheck(this, NeweraComponent);
 
-        return _super9.apply(this, arguments);
+        return _super19.apply(this, arguments);
       }
 
       return NeweraComponent;
@@ -5369,15 +6729,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! src/app/components/base-component/base-component.component */
     "./src/app/components/base-component/base-component.component.ts");
 
-    var RamsetComponent = /*#__PURE__*/function (_src_app_components_b7) {
-      _inherits(RamsetComponent, _src_app_components_b7);
+    var RamsetComponent = /*#__PURE__*/function (_src_app_components_b17) {
+      _inherits(RamsetComponent, _src_app_components_b17);
 
-      var _super10 = _createSuper(RamsetComponent);
+      var _super20 = _createSuper(RamsetComponent);
 
       function RamsetComponent() {
         _classCallCheck(this, RamsetComponent);
 
-        return _super10.apply(this, arguments);
+        return _super20.apply(this, arguments);
       }
 
       return RamsetComponent;
@@ -5453,15 +6813,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! src/app/components/base-component/base-component.component */
     "./src/app/components/base-component/base-component.component.ts");
 
-    var SkillComponent = /*#__PURE__*/function (_src_app_components_b8) {
-      _inherits(SkillComponent, _src_app_components_b8);
+    var SkillComponent = /*#__PURE__*/function (_src_app_components_b18) {
+      _inherits(SkillComponent, _src_app_components_b18);
 
-      var _super11 = _createSuper(SkillComponent);
+      var _super21 = _createSuper(SkillComponent);
 
       function SkillComponent() {
         _classCallCheck(this, SkillComponent);
 
-        return _super11.apply(this, arguments);
+        return _super21.apply(this, arguments);
       }
 
       return SkillComponent;
@@ -5537,15 +6897,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! src/app/components/base-component/base-component.component */
     "./src/app/components/base-component/base-component.component.ts");
 
-    var StickComponent = /*#__PURE__*/function (_src_app_components_b9) {
-      _inherits(StickComponent, _src_app_components_b9);
+    var StickComponent = /*#__PURE__*/function (_src_app_components_b19) {
+      _inherits(StickComponent, _src_app_components_b19);
 
-      var _super12 = _createSuper(StickComponent);
+      var _super22 = _createSuper(StickComponent);
 
       function StickComponent() {
         _classCallCheck(this, StickComponent);
 
-        return _super12.apply(this, arguments);
+        return _super22.apply(this, arguments);
       }
 
       return StickComponent;
@@ -5621,15 +6981,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! src/app/components/base-component/base-component.component */
     "./src/app/components/base-component/base-component.component.ts");
 
-    var StrikeComponent = /*#__PURE__*/function (_src_app_components_b10) {
-      _inherits(StrikeComponent, _src_app_components_b10);
+    var StrikeComponent = /*#__PURE__*/function (_src_app_components_b20) {
+      _inherits(StrikeComponent, _src_app_components_b20);
 
-      var _super13 = _createSuper(StrikeComponent);
+      var _super23 = _createSuper(StrikeComponent);
 
       function StrikeComponent() {
         _classCallCheck(this, StrikeComponent);
 
-        return _super13.apply(this, arguments);
+        return _super23.apply(this, arguments);
       }
 
       return StrikeComponent;
@@ -5814,12 +7174,12 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var GazirComponent = /*#__PURE__*/function (_base_component_base_4) {
       _inherits(GazirComponent, _base_component_base_4);
 
-      var _super14 = _createSuper(GazirComponent);
+      var _super24 = _createSuper(GazirComponent);
 
       function GazirComponent() {
         _classCallCheck(this, GazirComponent);
 
-        return _super14.apply(this, arguments);
+        return _super24.apply(this, arguments);
       }
 
       return GazirComponent;
@@ -6009,12 +7369,12 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var KhanComponent = /*#__PURE__*/function (_base_component_base_5) {
       _inherits(KhanComponent, _base_component_base_5);
 
-      var _super15 = _createSuper(KhanComponent);
+      var _super25 = _createSuper(KhanComponent);
 
       function KhanComponent() {
         _classCallCheck(this, KhanComponent);
 
-        return _super15.apply(this, arguments);
+        return _super25.apply(this, arguments);
       }
 
       return KhanComponent;
@@ -6201,12 +7561,12 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var MnakComponent = /*#__PURE__*/function (_base_component_base_6) {
       _inherits(MnakComponent, _base_component_base_6);
 
-      var _super16 = _createSuper(MnakComponent);
+      var _super26 = _createSuper(MnakComponent);
 
       function MnakComponent() {
         _classCallCheck(this, MnakComponent);
 
-        return _super16.apply(this, arguments);
+        return _super26.apply(this, arguments);
       }
 
       return MnakComponent;
@@ -6285,12 +7645,12 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var MregoComponent = /*#__PURE__*/function (_base_component_base_7) {
       _inherits(MregoComponent, _base_component_base_7);
 
-      var _super17 = _createSuper(MregoComponent);
+      var _super27 = _createSuper(MregoComponent);
 
       function MregoComponent() {
         _classCallCheck(this, MregoComponent);
 
-        return _super17.apply(this, arguments);
+        return _super27.apply(this, arguments);
       }
 
       return MregoComponent;
@@ -6498,12 +7858,12 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var SweetpainComponent = /*#__PURE__*/function (_base_component_base_8) {
       _inherits(SweetpainComponent, _base_component_base_8);
 
-      var _super18 = _createSuper(SweetpainComponent);
+      var _super28 = _createSuper(SweetpainComponent);
 
       function SweetpainComponent() {
         _classCallCheck(this, SweetpainComponent);
 
-        return _super18.apply(this, arguments);
+        return _super28.apply(this, arguments);
       }
 
       return SweetpainComponent;
@@ -6693,12 +8053,12 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var TirpaComponent = /*#__PURE__*/function (_base_component_base_9) {
       _inherits(TirpaComponent, _base_component_base_9);
 
-      var _super19 = _createSuper(TirpaComponent);
+      var _super29 = _createSuper(TirpaComponent);
 
       function TirpaComponent() {
         _classCallCheck(this, TirpaComponent);
 
-        return _super19.apply(this, arguments);
+        return _super29.apply(this, arguments);
       }
 
       return TirpaComponent;
@@ -6777,12 +8137,12 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var ZaskoComponent = /*#__PURE__*/function (_base_component_base_10) {
       _inherits(ZaskoComponent, _base_component_base_10);
 
-      var _super20 = _createSuper(ZaskoComponent);
+      var _super30 = _createSuper(ZaskoComponent);
 
       function ZaskoComponent() {
         _classCallCheck(this, ZaskoComponent);
 
-        return _super20.apply(this, arguments);
+        return _super30.apply(this, arguments);
       }
 
       return ZaskoComponent;
@@ -7143,11 +8503,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var S2020_BATTLE_PERU_J1_STRIKE_LITZEN = "xDXnifts8JM";
     var S2020_BATTLE_PERU_J1_CHOQUE_SKILL = "5oETXuzmnME"; //Batallas FMSMex T2020 Jornada1
 
-    var S2020_BATTLE_MEX_J1_RAPDER_SKIPER = "x4imf5uv24U";
-    var S2020_BATTLE_MEX_J1_POTENCIA_RC = "x4imf5uv24U";
-    var S2020_BATTLE_MEX_J1_YOIKER_ZTICMA = "x4imf5uv24U";
-    var S2020_BATTLE_MEX_J1_LOBO_ESTEPARIO_GARZA = "x4imf5uv24U";
-    var S2020_BATTLE_MEX_J1_BONE_JONY_BELTRAN = "x4imf5uv24U";
+    var S2020_BATTLE_MEX_J1_RAPDER_SKIPER = "wOoE8Y5drsU";
+    var S2020_BATTLE_MEX_J1_POTENCIA_RC = "EFzDoKBGuhA";
+    var S2020_BATTLE_MEX_J1_YOIKER_ZTICMA = "O8KU941R3Eo";
+    var S2020_BATTLE_MEX_J1_LOBO_ESTEPARIO_GARZA = "0kkgfJQRCII";
+    var S2020_BATTLE_MEX_J1_BONE_JONY_BELTRAN = "iNq-SKcYppI";
     /***/
   },
 
@@ -7252,7 +8612,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         this.hardMode = new _round_model__WEBPACK_IMPORTED_MODULE_1__["RoundModel"](6);
         this.thematic1 = new _round_model__WEBPACK_IMPORTED_MODULE_1__["RoundModel"](4);
         this.thematic2 = new _round_model__WEBPACK_IMPORTED_MODULE_1__["RoundModel"](4);
-        this.characters = new _round_model__WEBPACK_IMPORTED_MODULE_1__["RoundModel"](6);
+        this.characters = new _round_model__WEBPACK_IMPORTED_MODULE_1__["RoundModel"](8);
         this.blood1 = new _round_model__WEBPACK_IMPORTED_MODULE_1__["RoundModel"](6);
         this.blood2 = new _round_model__WEBPACK_IMPORTED_MODULE_1__["RoundModel"](6);
         this.deluxe = new _round_model__WEBPACK_IMPORTED_MODULE_1__["RoundModel"](11);

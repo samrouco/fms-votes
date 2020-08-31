@@ -54,6 +54,17 @@ import { ChoqueComponent } from './components/fms-per/gallos/choque/choque.compo
 import { StrikeComponent } from './components/fms-per/gallos/strike/strike.component';
 import { EventEmitter } from '@angular/core';
 import { BaseComponentComponent } from './components/base-component/base-component.component';
+import { FmsArgComponent } from './components/fms-arg/fms-arg.component';
+import { CachaComponent } from './components/fms-arg/cacha/cacha.component';
+import { DtokeComponent } from './components/fms-arg/dtoke/dtoke.component';
+import { KlanComponent } from './components/fms-arg/klan/klan.component';
+import { MechaComponent } from './components/fms-arg/mecha/mecha.component';
+import { MksComponent } from './components/fms-arg/mks/mks.component';
+import { NachoComponent } from './components/fms-arg/nacho/nacho.component';
+import { PapoComponent } from './components/fms-arg/papo/papo.component';
+import { StuartComponent } from './components/fms-arg/stuart/stuart.component';
+import { SubComponent } from './components/fms-arg/sub/sub.component';
+import { WolfComponent } from './components/fms-arg/wolf/wolf.component';
 
 
 @NgModule({
@@ -104,6 +115,17 @@ import { BaseComponentComponent } from './components/base-component/base-compone
     ChoqueComponent,
     StrikeComponent,
     BaseComponentComponent,
+    FmsArgComponent,
+    CachaComponent,
+    DtokeComponent,
+    KlanComponent,
+    MechaComponent,
+    MksComponent,
+    NachoComponent,
+    PapoComponent,
+    StuartComponent,
+    SubComponent,
+    WolfComponent,
 
   ],
   imports: [

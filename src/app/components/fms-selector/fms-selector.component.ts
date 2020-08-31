@@ -15,6 +15,10 @@ export class FmsSelectorComponent implements OnInit {
   ngOnInit() {
   }
 
+  irfmsarg(){
+    this.router.navigate(['/FmsArg'])
+  }
+
   irfmsesp(){
     this.router.navigate(['/FmsEsp'])
   }

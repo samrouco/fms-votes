@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { NgModule, Component } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { McSelectorComponent } from './components/mc-selector/mc-selector.component';
 import { EasyComponent } from './components/easy/easy.component';
@@ -42,11 +42,33 @@ import { RamsetComponent } from './components/fms-per/gallos/ramset/ramset.compo
 import { SkillComponent } from './components/fms-per/gallos/skill/skill.component';
 import { StickComponent } from './components/fms-per/gallos/stick/stick.component';
 import { StrikeComponent } from './components/fms-per/gallos/strike/strike.component';
+import { CachaComponent } from './components/fms-arg/cacha/cacha.component';
+import { DtokeComponent } from './components/fms-arg/dtoke/dtoke.component';
+import { KlanComponent } from './components/fms-arg/klan/klan.component';
+import { MechaComponent } from './components/fms-arg/mecha/mecha.component';
+import { MksComponent } from './components/fms-arg/mks/mks.component';
+import { NachoComponent } from './components/fms-arg/nacho/nacho.component';
+import { PapoComponent } from './components/fms-arg/papo/papo.component';
+import { StuartComponent } from './components/fms-arg/stuart/stuart.component';
+import { SubComponent } from './components/fms-arg/sub/sub.component';
+import { WolfComponent } from './components/fms-arg/wolf/wolf.component';
+import { FmsArgComponent } from './components/fms-arg/fms-arg.component';
 
 
 
 const routes: Routes = [
   {path: 'FmsSelector', component: FmsSelectorComponent},
+  {path: 'FmsArg' , component: FmsArgComponent},
+  {path: 'Cacha' , component: CachaComponent},
+  {path: 'Dtoke' , component: DtokeComponent},  
+  {path: 'Klan' , component: KlanComponent},
+  {path: 'Mecha' , component: MechaComponent},
+  {path: 'Mks' , component: MksComponent},
+  {path: 'Nacho' , component: NachoComponent},
+  {path: 'Papo' , component: PapoComponent},
+  {path: 'Stuart' , component: StuartComponent},
+  {path: 'Sub' , component: SubComponent},
+  {path: 'Wolf' , component: WolfComponent},
   {path: 'FmsEsp', component: FmsEspComponent},
   {path: 'Blon' , component: BlonComponent},
   {path: 'Bnet' , component: BnetComponent},
