@@ -65,6 +65,17 @@ import { PapoComponent } from './components/fms-arg/papo/papo.component';
 import { StuartComponent } from './components/fms-arg/stuart/stuart.component';
 import { SubComponent } from './components/fms-arg/sub/sub.component';
 import { WolfComponent } from './components/fms-arg/wolf/wolf.component';
+import { FmsChiComponent } from './components/fms-chi/fms-chi.component';
+import { JokkerComponent } from './components/fms-chi/jokker/jokker.component';
+import { TomcrowleyComponent } from './components/fms-chi/tomcrowley/tomcrowley.component';
+import { NitroComponent } from './components/fms-chi/nitro/nitro.component';
+import { EsezetaComponent } from './components/fms-chi/esezeta/esezeta.component';
+import { PepegrilloComponent } from './components/fms-chi/pepegrillo/pepegrillo.component';
+import { ElmenorComponent } from './components/fms-chi/elmenor/elmenor.component';
+import { RictoComponent } from './components/fms-chi/ricto/ricto.component';
+import { AcertijoComponent } from './components/fms-chi/acertijo/acertijo.component';
+import { TeoremaComponent } from './components/fms-chi/teorema/teorema.component';
+import { JoqerrComponent } from './components/fms-chi/joqerr/joqerr.component';
 
 
 @NgModule({
@@ -126,6 +137,17 @@ import { WolfComponent } from './components/fms-arg/wolf/wolf.component';
     StuartComponent,
     SubComponent,
     WolfComponent,
+    FmsChiComponent,
+    JokkerComponent,
+    TomcrowleyComponent,
+    NitroComponent,
+    EsezetaComponent,
+    PepegrilloComponent,
+    ElmenorComponent,
+    RictoComponent,
+    AcertijoComponent,
+    TeoremaComponent,
+    JoqerrComponent,
 
   ],
   imports: [

@@ -53,6 +53,17 @@ import { StuartComponent } from './components/fms-arg/stuart/stuart.component';
 import { SubComponent } from './components/fms-arg/sub/sub.component';
 import { WolfComponent } from './components/fms-arg/wolf/wolf.component';
 import { FmsArgComponent } from './components/fms-arg/fms-arg.component';
+import { FmsChiComponent } from './components/fms-chi/fms-chi.component';
+import { AcertijoComponent } from './components/fms-chi/acertijo/acertijo.component';
+import { ElmenorComponent } from './components/fms-chi/elmenor/elmenor.component';
+import { EsezetaComponent } from './components/fms-chi/esezeta/esezeta.component';
+import { JokkerComponent } from './components/fms-chi/jokker/jokker.component';
+import { JoqerrComponent } from './components/fms-chi/joqerr/joqerr.component';
+import { NitroComponent } from './components/fms-chi/nitro/nitro.component';
+import { PepegrilloComponent } from './components/fms-chi/pepegrillo/pepegrillo.component';
+import { RictoComponent } from './components/fms-chi/ricto/ricto.component';
+import { TeoremaComponent } from './components/fms-chi/teorema/teorema.component';
+import { TomcrowleyComponent } from './components/fms-chi/tomcrowley/tomcrowley.component';
 
 
 
@@ -91,6 +102,17 @@ const routes: Routes = [
   {path: 'Skiper' , component:SkiperComponent},
   {path: 'Yoiker' , component:YoikerComponent},
   {path: 'Zticma' , component:ZticmaComponent},
+  {path: 'FmsChi' , component:FmsChiComponent},
+  {path: 'Acertijo' , component:AcertijoComponent},
+  {path: 'Elmenor' , component:ElmenorComponent},
+  {path: 'Esezeta' , component:EsezetaComponent},
+  {path: 'Jokker' , component:JokkerComponent},
+  {path: 'Joqerr' , component:JoqerrComponent},
+  {path: 'Nitro', component:NitroComponent},
+  {path: 'Pepegrillo' , component:PepegrilloComponent},
+  {path: 'Ricto' , component:RictoComponent},
+  {path: 'Teorema' , component:TeoremaComponent},
+  {path: 'Tomcrowley' , component:TomcrowleyComponent},
   {path: 'FmsPer' , component:FmsPerComponent},
   {path: 'Choque' , component:ChoqueComponent},
   {path: 'Jaze' , component:JazeComponent},
