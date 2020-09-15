@@ -40,14 +40,14 @@ export class BaseComponentComponent implements OnInit {
     this.router.navigate(['/Easy']);
   }
 
-  public goToMc(mc: string, introsCount: number) {
-    this.playAudio(mc, introsCount);
+  public goToMc(mc: string, introsCount: number, folder: string) {
+    this.playAudio(mc, introsCount, folder);
     this.router.navigate(['/' + mc]);
   }
 
-  playAudio(mcName: string, numeroRimas: number): void{
+  playAudio(mcName: string, introsCount: number, folder: string): void{
     let audio = new Audio();
-    audio.src = "../../../assets/sounds/spain/"+ mcName + "/" + mcName + "_intro" + this.getRandom(numeroRimas) + ".mp3";
+    audio.src = "../../../assets/sounds/"+folder+"/"+ mcName + "/" + mcName + "_intro" + this.getRandom(introsCount) + ".mp3";
     audio.load();
     audio.play();
   }
