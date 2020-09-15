@@ -39,4 +39,21 @@ export class BaseComponentComponent implements OnInit {
     this.sharingService.setData(this.scoreData);
     this.router.navigate(['/Easy']);
   }
+
+  public goToMc(mc: string, introsCount: number) {
+    this.playAudio(mc, introsCount);
+    this.router.navigate(['/' + mc]);
+  }
+
+  playAudio(mcName: string, numeroRimas: number): void{
+    let audio = new Audio();
+    audio.src = "../../../assets/sounds/spain/"+ mcName + "/" + mcName + "_intro" + this.getRandom(numeroRimas) + ".mp3";
+    audio.load();
+    audio.play();
+  }
+
+  getRandom(max: number){
+    var value = parseInt(((Math.random() * 100) % max).toString());
+    return value + 1;
+  }
 }
