@@ -32,10 +32,15 @@ export class ResultsComponent implements OnInit {
   getTwitterUrl(): void {
     var scoreMc1 = parseFloat(this.scoreData.Mc1.result.toString());
     var scoreMc2 = parseFloat(this.scoreData.Mc2.result.toString());
-    var winnerMc = scoreMc1 > scoreMc2 ? this.scoreData.Mc1 : this.scoreData.Mc2;
-    var loserMc = winnerMc === this.scoreData.Mc1 ? this.scoreData.Mc2 : this.scoreData.Mc1;
+    var winnerMc = Math.abs(scoreMc1 - scoreMc2) <= 5 ? null : (scoreMc1 > scoreMc2 ? this.scoreData.Mc1 : this.scoreData.Mc2);
+    var loserMc = winnerMc != null ?  (winnerMc === this.scoreData.Mc1 ? this.scoreData.Mc2 : this.scoreData.Mc1) : null;
+    var concatToUrl = "";
 
-    var concatToUrl = "Ganador: " + winnerMc.name.toUpperCase() + " con " + winnerMc.result + " puntos frente a " + loserMc.name.toUpperCase() + " con " + loserMc.result + " puntos. %0D%0D%23VotosFMS";
+    if(winnerMc === null && loserMc === null){
+      concatToUrl = "REPLICA! " + this.scoreData.Mc1.name + " " + scoreMc1 + " puntos frente a " + this.scoreData.Mc2.name + " con " + scoreMc2  + " puntos";
+    }else{
+      concatToUrl = "Ganador: " + winnerMc.name.toUpperCase() + " con " + winnerMc.result + " puntos frente a " + loserMc.name.toUpperCase() + " con " + loserMc.result + " puntos. %0D%0D%23VotosFMS";
+    }
     concatToUrl = concatToUrl.replace(" ", "%20");
 
     window.open("https://twitter.com/intent/tweet?text=" + concatToUrl, "_blank");
