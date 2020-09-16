@@ -3,7 +3,7 @@ import { SharingService } from 'src/app/services/SharingService';
 import { Router } from '@angular/router';
 import { ScoreModel } from 'src/app/models/score-model';
 import { McModel } from 'src/app/models/mc-model';
-import { EventEmitterService } from '../base/event-emmiter.service';
+import { EventEmitterService } from '../../services/event-emmiter.service';
 import { BaseComponentComponent } from '../base-component/base-component.component';
 
 @Component({

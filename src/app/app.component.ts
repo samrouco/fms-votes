@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { EventEmitterService } from './components/base/event-emmiter.service';
+import { EventEmitterService } from './services/event-emmiter.service';
 
 @Component({
   selector: 'app-root',
@@ -12,6 +12,9 @@ export class AppComponent implements OnInit {
   public video: any;
   public player: any;
   public reframed: Boolean = false;
+
+  public audio: HTMLAudioElement;
+
   visible = false;
   constructor(
     private eventEmitterService: EventEmitterService
@@ -39,6 +42,14 @@ export class AppComponent implements OnInit {
   }
   ngOnInit() {
 
+    this.audio = new Audio();
+
+    this.audio.addEventListener('ended', (event) => {
+      if(this.player !== undefined){
+        this.player.unMute();
+      }
+    });
+
     if (this.eventEmitterService.loadVideoSubscription == undefined) {
       this.eventEmitterService.loadVideoSubscription = this.eventEmitterService.
         loadYTvideo.subscribe((videoId: string) => {
@@ -53,9 +64,22 @@ export class AppComponent implements OnInit {
       this.eventEmitterService.stopVideoSubscription = this.eventEmitterService.
         stopYTvideo.subscribe(() =>{
           this.stopYTVideo();
-          console.log("STOP");
           this.visible = false;
         });
+    }
+
+    if(this.eventEmitterService.stopIntroAudioSubscription == undefined){
+      this.eventEmitterService.stopIntroAudioSubscription = this.eventEmitterService.stopIntroAudio.subscribe(() => {
+        this.audio.pause();
+      })
+    }
+
+    if(this.eventEmitterService.startIntroAudioSubscription == undefined){
+      this.eventEmitterService.startIntroAudioSubscription = this.eventEmitterService.startIntroAudio.subscribe((path: string) => {
+        this.audio.src = path;
+        this.audio.load();
+        this.audio.play();
+      })
     }
 
   }
@@ -89,6 +113,12 @@ export class AppComponent implements OnInit {
       });
     }else{
       this.player.loadVideoById(this.video, 1);
+      if(!this.audio.ended){
+        console.log("YES");
+        this.player.mute();
+      }else{
+        console.log("NO")
+      }
     }
   }
 
@@ -104,6 +134,11 @@ export class AppComponent implements OnInit {
     } else {
       event.target.playVideo();
     }
+
+    if(!this.audio.ended){
+      this.player.mute();
+    }
+
   }
 
   /* 5. API will call this function when Player State changes like PLAYING, PAUSED, ENDED */

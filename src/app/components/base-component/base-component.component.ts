@@ -3,7 +3,7 @@ import { ScoreModel } from 'src/app/models/score-model';
 import { SharingService } from 'src/app/services/SharingService';
 import { Router } from '@angular/router';
 import { McModel } from 'src/app/models/mc-model';
-import { EventEmitterService } from '../base/event-emmiter.service';
+import { EventEmitterService } from '../../services/event-emmiter.service';
 import * as NAMES from '../../constants';
 @Component({
   selector: 'app-base-component',
@@ -12,6 +12,7 @@ import * as NAMES from '../../constants';
 })
 export class BaseComponentComponent implements OnInit {
   scoreData: ScoreModel;
+  audio: HTMLAudioElement;
   public CONSTANTS = NAMES;
 
   constructor(
@@ -20,7 +21,7 @@ export class BaseComponentComponent implements OnInit {
     private eventEmitterservice: EventEmitterService
   ) {
     this.scoreData = new ScoreModel();
-
+    this.audio = new Audio();
   }
 
   ngOnInit() {
@@ -46,10 +47,7 @@ export class BaseComponentComponent implements OnInit {
   }
 
   playAudio(mcName: string, introsCount: number, folder: string): void{
-    let audio = new Audio();
-    audio.src = "../../../assets/sounds/"+folder+"/"+ mcName + "/" + mcName + "_intro" + this.getRandom(introsCount) + ".mp3";
-    audio.load();
-    audio.play();
+    this.eventEmitterservice.startIntro("../../../assets/sounds/"+folder+"/"+ mcName + "/" + mcName + "_intro" + this.getRandom(introsCount) + ".mp3");
   }
 
   getRandom(max: number){

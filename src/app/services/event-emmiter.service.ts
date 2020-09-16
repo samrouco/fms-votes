@@ -9,8 +9,12 @@ export class EventEmitterService {
 
   loadYTvideo = new EventEmitter();
   stopYTvideo = new EventEmitter();
+  stopIntroAudio = new EventEmitter();
+  startIntroAudio = new EventEmitter();
   loadVideoSubscription: Subscription;
   stopVideoSubscription: Subscription;
+  stopIntroAudioSubscription: Subscription;
+  startIntroAudioSubscription: Subscription;
 
   constructor() { }
 
@@ -21,4 +25,14 @@ export class EventEmitterService {
   stopVideo(){
     this.stopYTvideo.emit();
   }
+
+  stopAudio(){
+    this.stopIntroAudio.emit();
+  }
+
+  startIntro(path: string) {
+    this.startIntroAudio.emit(path);
+  }
+
+
 }

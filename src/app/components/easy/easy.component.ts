@@ -4,7 +4,7 @@ import { ScoreModel } from 'src/app/models/score-model';
 import { Router } from '@angular/router';
 import { HAMMER_LOADER } from '@angular/platform-browser';
 import { hasLifecycleHook } from '@angular/compiler/src/lifecycle_reflector';
-import { EventEmitterService } from '../base/event-emmiter.service';
+import { EventEmitterService } from '../../services/event-emmiter.service';
 
 @Component({
   selector: 'app-easy',

@@ -2,7 +2,7 @@ import { Component, OnInit, Input, Directive } from '@angular/core';
 import { SharingService } from '../../services/SharingService';
 import { ScoreModel } from 'src/app/models/score-model';
 import { Router } from '@angular/router';
-import { EventEmitterService } from '../base/event-emmiter.service';
+import { EventEmitterService } from '../../services/event-emmiter.service';
 
 @Component({
   selector: 'app-results',
