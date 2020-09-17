@@ -58,7 +58,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.SWEET_PAIN_NAME, CONSTANTS.BLON_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_SWEET_PAIN_BLON)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/blon_sweetpain.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.SWEET_PAIN_NAME, CONSTANTS.BLON_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_SWEET_PAIN_BLON)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/blon_sweetpain.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/S2020/J2/blon_gazir.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n");
 
 /***/ }),
 
@@ -84,7 +84,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ERRECE_NAME, CONSTANTS.BNET_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ERRECE_BNET)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/bnet_errece.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ERRECE_NAME, CONSTANTS.BNET_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ERRECE_BNET)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/bnet_errece.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/S2020/J2/bnet_mrego.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n");
 
 /***/ }),
 
@@ -136,7 +136,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ERRECE_NAME, CONSTANTS.BNET_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ERRECE_BNET)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/bnet_errece.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ERRECE_NAME, CONSTANTS.BNET_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ERRECE_BNET)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/bnet_errece.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/S2020/J2/errece_khan.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n");
 
 /***/ }),
 
@@ -175,7 +175,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a (click)=\"ircacha()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_cacha.png\"></a>\n        <a (click)=\"irklan()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_klan.png\" alt=\"\"></a>\n        <a (click)=\"irdtoke()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_dtoke.png\" alt=\"\"></a>\n        <a (click)=\"irmecha()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_mecha.png\" alt=\"\"></a>\n        <a (click)=\"irpapo()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_papo.png\" alt=\"\"></a>\n        <a (click)=\"irmks()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_mks.png\" alt=\"\"></a>\n        <a (click)=\"irstuart()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_stuart.png\" alt=\"\"></a>\n        <a (click)=\"irsub()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_sub.png\" alt=\"\"></a>\n        <a (click)=\"irnacho()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_nacho.png\" alt=\"\"></a>\n        <a (click)=\"irwolf()\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_wolf.png\" alt=\"\"></a>\n    </div>\n</div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"goToMc('cacha',3, 'argentina')\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_cacha.png\"></a>\r\n        <a (click)=\"goToMc('klan',3, 'argentina')\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_klan.png\" alt=\"\"></a>\r\n        <a (click)=\"goToMc('dtoke',1, 'argentina')\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_dtoke.png\" alt=\"\"></a>\r\n        <a (click)=\"goToMc('mecha',3, 'argentina')\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_mecha.png\" alt=\"\"></a>\r\n        <a (click)=\"goToMc('papo',3, 'argentina')\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_papo.png\" alt=\"\"></a>\r\n        <a (click)=\"goToMc('mks',3, 'argentina')\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_mks.png\" alt=\"\"></a>\r\n        <a (click)=\"goToMc('stuart',2, 'argentina')\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_stuart.png\" alt=\"\"></a>\r\n        <a (click)=\"goToMc('sub',3, 'argentina')\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_sub.png\" alt=\"\"></a>\r\n        <a (click)=\"goToMc('nacho',2, 'argentina')\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_nacho.png\" alt=\"\"></a>\r\n        <a (click)=\"goToMc('wolf',1, 'argentina')\"><img src=\"../../../assets/images/marcos_mc/arg/tarj_wolf.png\" alt=\"\"></a>\r\n    </div>\r\n</div>\r\n");
 
 /***/ }),
 
@@ -292,7 +292,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/ricto_acertijo.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/ricto_acertijo.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/S2020/J2/acertijo_jokker.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n\n");
 
 /***/ }),
 
@@ -305,7 +305,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/pepegrillo_elmenor.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/pepegrillo_elmenor.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/S2020/J2/esezeta_elmenor.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n");
 
 /***/ }),
 
@@ -318,7 +318,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/nitro_esezeta.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/nitro_esezeta.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/S2020/J2/esezeta_elmenor.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n");
 
 /***/ }),
 
@@ -344,7 +344,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/jokker_tomcrowley.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/jokker_tomcrowley.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/S2020/J2/acertijo_jokker.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n");
 
 /***/ }),
 
@@ -357,7 +357,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/teorema_joqerr.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/teorema_joqerr.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/S2020/J2/nitro_joqerr.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n");
 
 /***/ }),
 
@@ -370,7 +370,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/nitro_esezeta.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>");
+/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/nitro_esezeta.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/S2020/J2/nitro_joqerr.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>");
 
 /***/ }),
 
@@ -383,7 +383,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/pepegrillo_elmenor.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/pepegrillo_elmenor.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/S2020/J2/pepegrillo_tomcrowley.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n");
 
 /***/ }),
 
@@ -396,7 +396,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/ricto_acertijo.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/ricto_acertijo.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/S2020/J2/ricto_teorema.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n");
 
 /***/ }),
 
@@ -409,7 +409,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/teorema_joqerr.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/teorema_joqerr.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/S2020/J2/ricto_teorema.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n");
 
 /***/ }),
 
@@ -422,7 +422,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/jokker_tomcrowley.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j2.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\n<div class=\"contenedor\">\n    <div>\n        <a ><img src=\"../../../../assets/images/batallas_chi/S2020/J1/jokker_tomcrowley.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/S2020/J2/pepegrillo_tomcrowley.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j3.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j4.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j5.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j6.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j7.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/j8.png\"></a>\n        <a><img src=\"../../../../assets/images/batallas_chi/Proximamente/jornada final.png\"></a>\n    </div>\n</div>\n");
 
 /***/ }),
 
@@ -435,7 +435,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"irblon()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_blon1.png\"></a>\r\n        <a (click)=\"irgazir()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_gazir.png\" alt=\"\"></a>\r\n        <a (click)=\"irkhan()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_khan.png\" alt=\"\"></a>\r\n        <a (click)=\"irmnak()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_mnak.png\" alt=\"\"></a>\r\n        <a (click)=\"irmrego()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_mrego.png\" alt=\"\"></a>\r\n        <a (click)=\"irerrece()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_errece.png\" alt=\"\"></a>\r\n        <a (click)=\"irtirpa()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_tirpa.png\" alt=\"\"></a>\r\n        <a (click)=\"irbnet()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_bnet.png\" alt=\"\"></a>\r\n        <a (click)=\"irzasko()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_zasko1.png\" alt=\"\"></a>\r\n        <a (click)=\"irsweetpain()\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_sweetpain.png\" alt=\"\"></a>\r\n    </div>\r\n</div>\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"goToMc('blon', 3, 'spain')\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_blon1.png\"></a>\r\n        <a (click)=\"goToMc('gazir', 3, 'spain')\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_gazir.png\" alt=\"\"></a>\r\n        <a (click)=\"goToMc('khan', 3, 'spain')\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_khan.png\" alt=\"\"></a>\r\n        <a (click)=\"goToMc('mnak', 3, 'spain')\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_mnak.png\" alt=\"\"></a>\r\n        <a (click)=\"goToMc('mrego', 1, 'spain')\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_mrego.png\" alt=\"\"></a>\r\n        <a (click)=\"goToMc('errece', 3, 'spain')\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_errece.png\" alt=\"\"></a>\r\n        <a (click)=\"goToMc('tirpa', 1, 'spain')\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_tirpa.png\" alt=\"\"></a>\r\n        <a (click)=\"goToMc('bnet', 3, 'spain')\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_bnet.png\" alt=\"\"></a>\r\n        <a (click)=\"goToMc('zasko', 3, 'spain')\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_zasko1.png\" alt=\"\"></a>\r\n        <a (click)=\"goToMc('sweetpain', 2, 'spain')\"><img src=\"../../../assets/images/marcos_mc/esp/tarj_sweetpain.png\" alt=\"\"></a>\r\n    </div>\r\n</div>\r\n");
 
 /***/ }),
 
@@ -747,7 +747,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ZASKO_NAME, CONSTANTS.GAZIR_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ZASKO_GAZIR)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/gazir_zasko.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ZASKO_NAME, CONSTANTS.GAZIR_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ZASKO_GAZIR)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/gazir_zasko.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/S2020/J2/blon_gazir.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n");
 
 /***/ }),
 
@@ -773,7 +773,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MNAK_NAME, CONSTANTS.KHAN_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MNAK_KHAN)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/khan_mnak.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MNAK_NAME, CONSTANTS.KHAN_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MNAK_KHAN)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/khan_mnak.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/S2020/J2/errece_khan.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n");
 
 /***/ }),
 
@@ -799,7 +799,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MNAK_NAME, CONSTANTS.KHAN_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MNAK_KHAN)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/khan_mnak.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MNAK_NAME, CONSTANTS.KHAN_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MNAK_KHAN)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/khan_mnak.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/S2020/J2/tirpa_mnak.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n");
 
 /***/ }),
 
@@ -812,7 +812,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MR_EGO_NAME, CONSTANTS.TIRPA_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MR_EGO_TIRPA)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/tirpa_mrego.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MR_EGO_NAME, CONSTANTS.TIRPA_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MR_EGO_TIRPA)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/tirpa_mrego.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/S2020/J2/bnet_mrego.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n");
 
 /***/ }),
 
@@ -838,7 +838,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.SWEET_PAIN_NAME, CONSTANTS.BLON_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_SWEET_PAIN_BLON)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/blon_sweetpain.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a> \r\n    </div>\r\n</div>\r\n\r\n\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.SWEET_PAIN_NAME, CONSTANTS.BLON_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_SWEET_PAIN_BLON)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/blon_sweetpain.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/S2020/J2/zasko_sweetpain.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a> \r\n    </div>\r\n</div>\r\n\r\n\r\n");
 
 /***/ }),
 
@@ -851,7 +851,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"scoreTable\">\r\n  <tbody>\r\n    <div class=\"thematic\">\r\n      <tr class=\"firstThematic\">\r\n        <td class=\"mc\">\r\n          {{ scoreData.Mc1.name }}\r\n        </td>\r\n\r\n        <td *ngFor=\"let patron of scoreData.Mc1.thematic1.patrons\">\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"\r\n              autocomplete=\"off\" />\r\n          </mat-form-field>\r\n        </td>\r\n\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.skills\" autocomplete=\"off\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.flow\" autocomplete=\"off\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.scene\" autocomplete=\"off\" />\r\n          </mat-form-field>\r\n        </td>\r\n      </tr>\r\n      <tr class=\"secondThematic\">\r\n        <td class=\"mc\">\r\n          {{ scoreData.Mc2.name }}\r\n        </td>\r\n        <td *ngFor=\"let patron of scoreData.Mc2.thematic1.patrons\">\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\" autocomplete=\"off\" />\r\n          </mat-form-field>\r\n        </td>\r\n\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.skills\" autocomplete=\"off\"/>\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.flow\" autocomplete=\"off\"/>\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.scene\" autocomplete=\"off\"/>\r\n          </mat-form-field>\r\n        </td>\r\n      </tr>\r\n    </div>\r\n    <!--SECOND THEMATIC-->\r\n    <div class=\"thematic\">\r\n      <tr class=\"firstThematic\">\r\n        <td class=\"mc\">\r\n          {{ scoreData.Mc2.name }}\r\n        </td>\r\n\r\n        <td *ngFor=\"let patron of scoreData.Mc2.thematic2.patrons\">\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\" />\r\n          </mat-form-field>\r\n        </td>\r\n\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n      </tr>\r\n      <tr class=\"secondThematic\">\r\n        <td class=\"mc\">\r\n          {{ scoreData.Mc1.name }}\r\n        </td>\r\n        <td *ngFor=\"let patron of scoreData.Mc2.thematic2.patrons\">\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\" />\r\n          </mat-form-field>\r\n        </td>\r\n\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n      </tr>\r\n    </div>\r\n    <tr>\r\n      <td colspan=\"10\">\r\n        <div>\r\n          <button class=\"glow-on-hover\" type=\"button\" (click)=\"navigateToCharacters()\">Personajes</button>\r\n        </div>\r\n      </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<table class=\"scoreTable\">\r\n  <tbody>\r\n    <div class=\"thematic\">\r\n      <tr class=\"firstThematic\">\r\n        <td class=\"mc\">\r\n          {{ scoreData.Mc1.name }}\r\n        </td>\r\n\r\n        <td *ngFor=\"let patron of scoreData.Mc1.thematic1.patrons\">\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\"\r\n              autocomplete=\"off\" />\r\n          </mat-form-field>\r\n        </td>\r\n\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.skills\" autocomplete=\"off\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.flow\" autocomplete=\"off\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic1.extraScore.scene\" autocomplete=\"off\" />\r\n          </mat-form-field>\r\n        </td>\r\n      </tr>\r\n      <tr class=\"secondThematic\">\r\n        <td class=\"mc\">\r\n          {{ scoreData.Mc2.name }}\r\n        </td>\r\n        <td *ngFor=\"let patron of scoreData.Mc2.thematic1.patrons\">\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\" autocomplete=\"off\" />\r\n          </mat-form-field>\r\n        </td>\r\n\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.skills\" autocomplete=\"off\"/>\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.flow\" autocomplete=\"off\"/>\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic1.extraScore.scene\" autocomplete=\"off\"/>\r\n          </mat-form-field>\r\n        </td>\r\n      </tr>\r\n    </div>\r\n    <!--SECOND THEMATIC-->\r\n    <div class=\"thematic\">\r\n      <tr class=\"firstThematic\">\r\n        <td class=\"mc\">\r\n          {{ scoreData.Mc2.name }}\r\n        </td>\r\n\r\n        <td *ngFor=\"let patron of scoreData.Mc2.thematic2.patrons\">\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\" />\r\n          </mat-form-field>\r\n        </td>\r\n\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc2.thematic2.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n      </tr>\r\n      <tr class=\"secondThematic\">\r\n        <td class=\"mc\">\r\n          {{ scoreData.Mc1.name }}\r\n        </td>\r\n        <td *ngFor=\"let patron of scoreData.Mc2.thematic2.patrons\">\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" patronNumber maxlength=\"1\" matInput [(ngModel)]=\"patron.score\" />\r\n          </mat-form-field>\r\n        </td>\r\n\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 20px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Sk\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.skills\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Fl\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.flow\" />\r\n          </mat-form-field>\r\n        </td>\r\n        <td>\r\n          <mat-form-field class=\"scoreInput\" style=\"margin-left: 5px;\">\r\n            <input type=\"text\" class=\"inputTextCenter\" placeholder=\"Es\" maxlength=\"1\" extraScoreNumber maxlength=\"1\" matInput\r\n              [(ngModel)]=\"scoreData.Mc1.thematic2.extraScore.scene\" />\r\n          </mat-form-field>\r\n        </td>\r\n      </tr>\r\n    </div>\r\n    <tr>\r\n      <td colspan=\"10\">\r\n        <div>\r\n          <button class=\"glow-on-hover\" type=\"button\" (click)=\"navigateToCharacters()\">Random</button>\r\n        </div>\r\n      </td>\r\n    </tr>\r\n  </tbody>\r\n</table>\r\n");
 
 /***/ }),
 
@@ -864,7 +864,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MR_EGO_NAME, CONSTANTS.TIRPA_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MR_EGO_TIRPA)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/tirpa_mrego.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.MR_EGO_NAME, CONSTANTS.TIRPA_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_MR_EGO_TIRPA)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/tirpa_mrego.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/S2020/J2/tirpa_mnak.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n");
 
 /***/ }),
 
@@ -877,7 +877,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ZASKO_NAME, CONSTANTS.GAZIR_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ZASKO_GAZIR)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/gazir_zasko.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j2.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("\r\n<div class=\"contenedor\">\r\n    <div>\r\n        <a (click)=\"this.goToBattle(CONSTANTS.ZASKO_NAME, CONSTANTS.GAZIR_NAME, CONSTANTS.S2020_BATTLE_ESP_J1_ZASKO_GAZIR)\"><img src=\"../../../assets/images/batallas_esp/S2020/J1/gazir_zasko.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/S2020/J2/zasko_sweetpain.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j3.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j4.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j5.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j6.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j7.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/j8.png\"></a>\r\n        <a><img src=\"../../../assets/images/batallas_esp/Proximamente/jornada final.png\"></a>\r\n    </div>\r\n</div>\r\n\r\n\r\n");
 
 /***/ }),
 
@@ -1257,60 +1257,60 @@ __webpack_require__.r(__webpack_exports__);
 const routes = [
     { path: 'FmsSelector', component: _components_fms_selector_fms_selector_component__WEBPACK_IMPORTED_MODULE_11__["FmsSelectorComponent"] },
     { path: 'FmsArg', component: _components_fms_arg_fms_arg_component__WEBPACK_IMPORTED_MODULE_55__["FmsArgComponent"] },
-    { path: 'Cacha', component: _components_fms_arg_cacha_cacha_component__WEBPACK_IMPORTED_MODULE_45__["CachaComponent"] },
-    { path: 'Dtoke', component: _components_fms_arg_dtoke_dtoke_component__WEBPACK_IMPORTED_MODULE_46__["DtokeComponent"] },
-    { path: 'Klan', component: _components_fms_arg_klan_klan_component__WEBPACK_IMPORTED_MODULE_47__["KlanComponent"] },
-    { path: 'Mecha', component: _components_fms_arg_mecha_mecha_component__WEBPACK_IMPORTED_MODULE_48__["MechaComponent"] },
-    { path: 'Mks', component: _components_fms_arg_mks_mks_component__WEBPACK_IMPORTED_MODULE_49__["MksComponent"] },
-    { path: 'Nacho', component: _components_fms_arg_nacho_nacho_component__WEBPACK_IMPORTED_MODULE_50__["NachoComponent"] },
-    { path: 'Papo', component: _components_fms_arg_papo_papo_component__WEBPACK_IMPORTED_MODULE_51__["PapoComponent"] },
-    { path: 'Stuart', component: _components_fms_arg_stuart_stuart_component__WEBPACK_IMPORTED_MODULE_52__["StuartComponent"] },
-    { path: 'Sub', component: _components_fms_arg_sub_sub_component__WEBPACK_IMPORTED_MODULE_53__["SubComponent"] },
-    { path: 'Wolf', component: _components_fms_arg_wolf_wolf_component__WEBPACK_IMPORTED_MODULE_54__["WolfComponent"] },
+    { path: 'cacha', component: _components_fms_arg_cacha_cacha_component__WEBPACK_IMPORTED_MODULE_45__["CachaComponent"] },
+    { path: 'dtoke', component: _components_fms_arg_dtoke_dtoke_component__WEBPACK_IMPORTED_MODULE_46__["DtokeComponent"] },
+    { path: 'klan', component: _components_fms_arg_klan_klan_component__WEBPACK_IMPORTED_MODULE_47__["KlanComponent"] },
+    { path: 'mecha', component: _components_fms_arg_mecha_mecha_component__WEBPACK_IMPORTED_MODULE_48__["MechaComponent"] },
+    { path: 'mks', component: _components_fms_arg_mks_mks_component__WEBPACK_IMPORTED_MODULE_49__["MksComponent"] },
+    { path: 'nacho', component: _components_fms_arg_nacho_nacho_component__WEBPACK_IMPORTED_MODULE_50__["NachoComponent"] },
+    { path: 'papo', component: _components_fms_arg_papo_papo_component__WEBPACK_IMPORTED_MODULE_51__["PapoComponent"] },
+    { path: 'stuart', component: _components_fms_arg_stuart_stuart_component__WEBPACK_IMPORTED_MODULE_52__["StuartComponent"] },
+    { path: 'sub', component: _components_fms_arg_sub_sub_component__WEBPACK_IMPORTED_MODULE_53__["SubComponent"] },
+    { path: 'wolf', component: _components_fms_arg_wolf_wolf_component__WEBPACK_IMPORTED_MODULE_54__["WolfComponent"] },
     { path: 'FmsEsp', component: _components_fms_esp_fms_esp_component__WEBPACK_IMPORTED_MODULE_12__["FmsEspComponent"] },
-    { path: 'Blon', component: _components_blon_blon_component__WEBPACK_IMPORTED_MODULE_13__["BlonComponent"] },
-    { path: 'Bnet', component: _components_bnet_bnet_component__WEBPACK_IMPORTED_MODULE_14__["BnetComponent"] },
-    { path: 'Errece', component: _components_errece_errece_component__WEBPACK_IMPORTED_MODULE_15__["ErreceComponent"] },
-    { path: 'Gazir', component: _components_gazir_gazir_component__WEBPACK_IMPORTED_MODULE_16__["GazirComponent"] },
-    { path: 'Khan', component: _components_khan_khan_component__WEBPACK_IMPORTED_MODULE_17__["KhanComponent"] },
-    { path: 'Mnak', component: _components_mnak_mnak_component__WEBPACK_IMPORTED_MODULE_18__["MnakComponent"] },
-    { path: 'Mrego', component: _components_mrego_mrego_component__WEBPACK_IMPORTED_MODULE_19__["MregoComponent"] },
-    { path: 'Sweetpain', component: _components_sweetpain_sweetpain_component__WEBPACK_IMPORTED_MODULE_20__["SweetpainComponent"] },
-    { path: 'Tirpa', component: _components_tirpa_tirpa_component__WEBPACK_IMPORTED_MODULE_21__["TirpaComponent"] },
-    { path: 'Zasko', component: _components_zasko_zasko_component__WEBPACK_IMPORTED_MODULE_22__["ZaskoComponent"] },
+    { path: 'blon', component: _components_blon_blon_component__WEBPACK_IMPORTED_MODULE_13__["BlonComponent"] },
+    { path: 'bnet', component: _components_bnet_bnet_component__WEBPACK_IMPORTED_MODULE_14__["BnetComponent"] },
+    { path: 'errece', component: _components_errece_errece_component__WEBPACK_IMPORTED_MODULE_15__["ErreceComponent"] },
+    { path: 'gazir', component: _components_gazir_gazir_component__WEBPACK_IMPORTED_MODULE_16__["GazirComponent"] },
+    { path: 'khan', component: _components_khan_khan_component__WEBPACK_IMPORTED_MODULE_17__["KhanComponent"] },
+    { path: 'mnak', component: _components_mnak_mnak_component__WEBPACK_IMPORTED_MODULE_18__["MnakComponent"] },
+    { path: 'mrego', component: _components_mrego_mrego_component__WEBPACK_IMPORTED_MODULE_19__["MregoComponent"] },
+    { path: 'sweetpain', component: _components_sweetpain_sweetpain_component__WEBPACK_IMPORTED_MODULE_20__["SweetpainComponent"] },
+    { path: 'tirpa', component: _components_tirpa_tirpa_component__WEBPACK_IMPORTED_MODULE_21__["TirpaComponent"] },
+    { path: 'zasko', component: _components_zasko_zasko_component__WEBPACK_IMPORTED_MODULE_22__["ZaskoComponent"] },
     { path: 'FmsMex', component: _components_fms_mex_fms_mex_component__WEBPACK_IMPORTED_MODULE_23__["FmsMexComponent"] },
-    { path: 'Bone', component: _components_fms_mex_gallos_bone_bone_component__WEBPACK_IMPORTED_MODULE_25__["BoneComponent"] },
-    { path: 'Garza', component: _components_fms_mex_gallos_garza_garza_component__WEBPACK_IMPORTED_MODULE_26__["GarzaComponent"] },
-    { path: 'Jonyb', component: _components_fms_mex_gallos_jonyb_jonyb_component__WEBPACK_IMPORTED_MODULE_27__["JonybComponent"] },
-    { path: 'Lobo', component: _components_fms_mex_gallos_lobo_lobo_component__WEBPACK_IMPORTED_MODULE_28__["LoboComponent"] },
-    { path: 'Potencia', component: _components_fms_mex_gallos_potencia_potencia_component__WEBPACK_IMPORTED_MODULE_29__["PotenciaComponent"] },
-    { path: 'Rapder', component: _components_fms_mex_gallos_rapder_rapder_component__WEBPACK_IMPORTED_MODULE_30__["RapderComponent"] },
-    { path: 'Rc', component: _components_fms_mex_gallos_rc_rc_component__WEBPACK_IMPORTED_MODULE_31__["RcComponent"] },
-    { path: 'Skiper', component: _components_fms_mex_gallos_skiper_skiper_component__WEBPACK_IMPORTED_MODULE_32__["SkiperComponent"] },
-    { path: 'Yoiker', component: _components_fms_mex_gallos_yoiker_yoiker_component__WEBPACK_IMPORTED_MODULE_33__["YoikerComponent"] },
-    { path: 'Zticma', component: _components_fms_mex_gallos_zticma_zticma_component__WEBPACK_IMPORTED_MODULE_34__["ZticmaComponent"] },
+    { path: 'bone', component: _components_fms_mex_gallos_bone_bone_component__WEBPACK_IMPORTED_MODULE_25__["BoneComponent"] },
+    { path: 'garza', component: _components_fms_mex_gallos_garza_garza_component__WEBPACK_IMPORTED_MODULE_26__["GarzaComponent"] },
+    { path: 'jonyb', component: _components_fms_mex_gallos_jonyb_jonyb_component__WEBPACK_IMPORTED_MODULE_27__["JonybComponent"] },
+    { path: 'lobo', component: _components_fms_mex_gallos_lobo_lobo_component__WEBPACK_IMPORTED_MODULE_28__["LoboComponent"] },
+    { path: 'potencia', component: _components_fms_mex_gallos_potencia_potencia_component__WEBPACK_IMPORTED_MODULE_29__["PotenciaComponent"] },
+    { path: 'rapder', component: _components_fms_mex_gallos_rapder_rapder_component__WEBPACK_IMPORTED_MODULE_30__["RapderComponent"] },
+    { path: 'rc', component: _components_fms_mex_gallos_rc_rc_component__WEBPACK_IMPORTED_MODULE_31__["RcComponent"] },
+    { path: 'skiper', component: _components_fms_mex_gallos_skiper_skiper_component__WEBPACK_IMPORTED_MODULE_32__["SkiperComponent"] },
+    { path: 'yoiker', component: _components_fms_mex_gallos_yoiker_yoiker_component__WEBPACK_IMPORTED_MODULE_33__["YoikerComponent"] },
+    { path: 'zticma', component: _components_fms_mex_gallos_zticma_zticma_component__WEBPACK_IMPORTED_MODULE_34__["ZticmaComponent"] },
     { path: 'FmsChi', component: _components_fms_chi_fms_chi_component__WEBPACK_IMPORTED_MODULE_56__["FmsChiComponent"] },
-    { path: 'Acertijo', component: _components_fms_chi_acertijo_acertijo_component__WEBPACK_IMPORTED_MODULE_57__["AcertijoComponent"] },
-    { path: 'Elmenor', component: _components_fms_chi_elmenor_elmenor_component__WEBPACK_IMPORTED_MODULE_58__["ElmenorComponent"] },
-    { path: 'Esezeta', component: _components_fms_chi_esezeta_esezeta_component__WEBPACK_IMPORTED_MODULE_59__["EsezetaComponent"] },
-    { path: 'Jokker', component: _components_fms_chi_jokker_jokker_component__WEBPACK_IMPORTED_MODULE_60__["JokkerComponent"] },
-    { path: 'Joqerr', component: _components_fms_chi_joqerr_joqerr_component__WEBPACK_IMPORTED_MODULE_61__["JoqerrComponent"] },
-    { path: 'Nitro', component: _components_fms_chi_nitro_nitro_component__WEBPACK_IMPORTED_MODULE_62__["NitroComponent"] },
-    { path: 'Pepegrillo', component: _components_fms_chi_pepegrillo_pepegrillo_component__WEBPACK_IMPORTED_MODULE_63__["PepegrilloComponent"] },
-    { path: 'Ricto', component: _components_fms_chi_ricto_ricto_component__WEBPACK_IMPORTED_MODULE_64__["RictoComponent"] },
-    { path: 'Teorema', component: _components_fms_chi_teorema_teorema_component__WEBPACK_IMPORTED_MODULE_65__["TeoremaComponent"] },
-    { path: 'Tomcrowley', component: _components_fms_chi_tomcrowley_tomcrowley_component__WEBPACK_IMPORTED_MODULE_66__["TomcrowleyComponent"] },
-    { path: 'FmsPer', component: _components_fms_per_fms_per_component__WEBPACK_IMPORTED_MODULE_24__["FmsPerComponent"] },
-    { path: 'Choque', component: _components_fms_per_gallos_choque_choque_component__WEBPACK_IMPORTED_MODULE_35__["ChoqueComponent"] },
-    { path: 'Jaze', component: _components_fms_per_gallos_jaze_jaze_component__WEBPACK_IMPORTED_MODULE_36__["JazeComponent"] },
-    { path: 'Jota', component: _components_fms_per_gallos_jota_jota_component__WEBPACK_IMPORTED_MODULE_37__["JotaComponent"] },
-    { path: 'Litzen', component: _components_fms_per_gallos_litzen_litzen_component__WEBPACK_IMPORTED_MODULE_38__["LitzenComponent"] },
-    { path: 'Nekroos', component: _components_fms_per_gallos_nekroos_nekroos_component__WEBPACK_IMPORTED_MODULE_39__["NekroosComponent"] },
-    { path: 'Newera', component: _components_fms_per_gallos_newera_newera_component__WEBPACK_IMPORTED_MODULE_40__["NeweraComponent"] },
-    { path: 'Ramset', component: _components_fms_per_gallos_ramset_ramset_component__WEBPACK_IMPORTED_MODULE_41__["RamsetComponent"] },
-    { path: 'Skill', component: _components_fms_per_gallos_skill_skill_component__WEBPACK_IMPORTED_MODULE_42__["SkillComponent"] },
-    { path: 'Stick', component: _components_fms_per_gallos_stick_stick_component__WEBPACK_IMPORTED_MODULE_43__["StickComponent"] },
-    { path: 'Strike', component: _components_fms_per_gallos_strike_strike_component__WEBPACK_IMPORTED_MODULE_44__["StrikeComponent"] },
+    { path: 'acertijo', component: _components_fms_chi_acertijo_acertijo_component__WEBPACK_IMPORTED_MODULE_57__["AcertijoComponent"] },
+    { path: 'elmenor', component: _components_fms_chi_elmenor_elmenor_component__WEBPACK_IMPORTED_MODULE_58__["ElmenorComponent"] },
+    { path: 'esezeta', component: _components_fms_chi_esezeta_esezeta_component__WEBPACK_IMPORTED_MODULE_59__["EsezetaComponent"] },
+    { path: 'jokker', component: _components_fms_chi_jokker_jokker_component__WEBPACK_IMPORTED_MODULE_60__["JokkerComponent"] },
+    { path: 'joqerr', component: _components_fms_chi_joqerr_joqerr_component__WEBPACK_IMPORTED_MODULE_61__["JoqerrComponent"] },
+    { path: 'nitro', component: _components_fms_chi_nitro_nitro_component__WEBPACK_IMPORTED_MODULE_62__["NitroComponent"] },
+    { path: 'pepegrillo', component: _components_fms_chi_pepegrillo_pepegrillo_component__WEBPACK_IMPORTED_MODULE_63__["PepegrilloComponent"] },
+    { path: 'ricto', component: _components_fms_chi_ricto_ricto_component__WEBPACK_IMPORTED_MODULE_64__["RictoComponent"] },
+    { path: 'teorema', component: _components_fms_chi_teorema_teorema_component__WEBPACK_IMPORTED_MODULE_65__["TeoremaComponent"] },
+    { path: 'tomcrowley', component: _components_fms_chi_tomcrowley_tomcrowley_component__WEBPACK_IMPORTED_MODULE_66__["TomcrowleyComponent"] },
+    { path: 'fmsPer', component: _components_fms_per_fms_per_component__WEBPACK_IMPORTED_MODULE_24__["FmsPerComponent"] },
+    { path: 'choque', component: _components_fms_per_gallos_choque_choque_component__WEBPACK_IMPORTED_MODULE_35__["ChoqueComponent"] },
+    { path: 'jaze', component: _components_fms_per_gallos_jaze_jaze_component__WEBPACK_IMPORTED_MODULE_36__["JazeComponent"] },
+    { path: 'jota', component: _components_fms_per_gallos_jota_jota_component__WEBPACK_IMPORTED_MODULE_37__["JotaComponent"] },
+    { path: 'litzen', component: _components_fms_per_gallos_litzen_litzen_component__WEBPACK_IMPORTED_MODULE_38__["LitzenComponent"] },
+    { path: 'nekroos', component: _components_fms_per_gallos_nekroos_nekroos_component__WEBPACK_IMPORTED_MODULE_39__["NekroosComponent"] },
+    { path: 'newera', component: _components_fms_per_gallos_newera_newera_component__WEBPACK_IMPORTED_MODULE_40__["NeweraComponent"] },
+    { path: 'ramset', component: _components_fms_per_gallos_ramset_ramset_component__WEBPACK_IMPORTED_MODULE_41__["RamsetComponent"] },
+    { path: 'skill', component: _components_fms_per_gallos_skill_skill_component__WEBPACK_IMPORTED_MODULE_42__["SkillComponent"] },
+    { path: 'stick', component: _components_fms_per_gallos_stick_stick_component__WEBPACK_IMPORTED_MODULE_43__["StickComponent"] },
+    { path: 'strike', component: _components_fms_per_gallos_strike_strike_component__WEBPACK_IMPORTED_MODULE_44__["StrikeComponent"] },
     { path: 'McSelector', component: _components_mc_selector_mc_selector_component__WEBPACK_IMPORTED_MODULE_3__["McSelectorComponent"] },
     { path: 'Easy', component: _components_easy_easy_component__WEBPACK_IMPORTED_MODULE_4__["EasyComponent"] },
     { path: 'Hard', component: _components_hard_hard_component__WEBPACK_IMPORTED_MODULE_5__["HardComponent"] },
@@ -1359,7 +1359,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AppComponent", function() { return AppComponent; });
 /* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _components_base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/base/event-emmiter.service */ "./src/app/components/base/event-emmiter.service.ts");
+/* harmony import */ var _services_event_emmiter_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./services/event-emmiter.service */ "./src/app/services/event-emmiter.service.ts");
 
 
 
@@ -1386,6 +1386,12 @@ let AppComponent = class AppComponent {
         window['onYouTubeIframeAPIReady'] = () => this.startVideo();
     }
     ngOnInit() {
+        this.audio = new Audio();
+        this.audio.addEventListener('ended', (event) => {
+            if (this.player !== undefined) {
+                this.player.unMute();
+            }
+        });
         if (this.eventEmitterService.loadVideoSubscription == undefined) {
             this.eventEmitterService.loadVideoSubscription = this.eventEmitterService.
                 loadYTvideo.subscribe((videoId) => {
@@ -1399,8 +1405,19 @@ let AppComponent = class AppComponent {
             this.eventEmitterService.stopVideoSubscription = this.eventEmitterService.
                 stopYTvideo.subscribe(() => {
                 this.stopYTVideo();
-                console.log("STOP");
                 this.visible = false;
+            });
+        }
+        if (this.eventEmitterService.stopIntroAudioSubscription == undefined) {
+            this.eventEmitterService.stopIntroAudioSubscription = this.eventEmitterService.stopIntroAudio.subscribe(() => {
+                this.audio.pause();
+            });
+        }
+        if (this.eventEmitterService.startIntroAudioSubscription == undefined) {
+            this.eventEmitterService.startIntroAudioSubscription = this.eventEmitterService.startIntroAudio.subscribe((path) => {
+                this.audio.src = path;
+                this.audio.load();
+                this.audio.play();
             });
         }
     }
@@ -1433,6 +1450,13 @@ let AppComponent = class AppComponent {
         }
         else {
             this.player.loadVideoById(this.video, 1);
+            if (!this.audio.ended) {
+                console.log("YES");
+                this.player.mute();
+            }
+            else {
+                console.log("NO");
+            }
         }
     }
     /* 4. It will be called when the Video Player is ready */
@@ -1445,6 +1469,9 @@ let AppComponent = class AppComponent {
         }
         else {
             event.target.playVideo();
+        }
+        if (!this.audio.ended) {
+            this.player.mute();
         }
     }
     /* 5. API will call this function when Player State changes like PLAYING, PAUSED, ENDED */
@@ -1492,7 +1519,7 @@ let AppComponent = class AppComponent {
     ;
 };
 AppComponent.ctorParameters = () => [
-    { type: _components_base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_2__["EventEmitterService"] }
+    { type: _services_event_emmiter_service__WEBPACK_IMPORTED_MODULE_2__["EventEmitterService"] }
 ];
 AppComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
@@ -1794,7 +1821,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var src_app_services_SharingService__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! src/app/services/SharingService */ "./src/app/services/SharingService.ts");
 /* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
 /* harmony import */ var src_app_models_mc_model__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! src/app/models/mc-model */ "./src/app/models/mc-model.ts");
-/* harmony import */ var _base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../base/event-emmiter.service */ "./src/app/components/base/event-emmiter.service.ts");
+/* harmony import */ var _services_event_emmiter_service__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../services/event-emmiter.service */ "./src/app/services/event-emmiter.service.ts");
 /* harmony import */ var _constants__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../constants */ "./src/app/constants.ts");
 
 
@@ -1811,6 +1838,7 @@ let BaseComponentComponent = class BaseComponentComponent {
         this.eventEmitterservice = eventEmitterservice;
         this.CONSTANTS = _constants__WEBPACK_IMPORTED_MODULE_7__;
         this.scoreData = new src_app_models_score_model__WEBPACK_IMPORTED_MODULE_2__["ScoreModel"]();
+        this.audio = new Audio();
     }
     ngOnInit() {
         this.eventEmitterservice.stopVideo();
@@ -1824,11 +1852,22 @@ let BaseComponentComponent = class BaseComponentComponent {
         this.sharingService.setData(this.scoreData);
         this.router.navigate(['/Easy']);
     }
+    goToMc(mc, introsCount, folder) {
+        this.playAudio(mc, introsCount, folder);
+        this.router.navigate(['/' + mc]);
+    }
+    playAudio(mcName, introsCount, folder) {
+        this.eventEmitterservice.startIntro("../../../assets/sounds/" + folder + "/" + mcName + "/" + mcName + "_intro" + this.getRandom(introsCount) + ".mp3");
+    }
+    getRandom(max) {
+        var value = parseInt(((Math.random() * 100) % max).toString());
+        return value + 1;
+    }
 };
 BaseComponentComponent.ctorParameters = () => [
     { type: src_app_services_SharingService__WEBPACK_IMPORTED_MODULE_3__["SharingService"] },
     { type: _angular_router__WEBPACK_IMPORTED_MODULE_4__["Router"] },
-    { type: _base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_6__["EventEmitterService"] }
+    { type: _services_event_emmiter_service__WEBPACK_IMPORTED_MODULE_6__["EventEmitterService"] }
 ];
 BaseComponentComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
@@ -1837,43 +1876,6 @@ BaseComponentComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
         styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./base-component.component.scss */ "./src/app/components/base-component/base-component.component.scss")).default]
     })
 ], BaseComponentComponent);
-
-
-
-/***/ }),
-
-/***/ "./src/app/components/base/event-emmiter.service.ts":
-/*!**********************************************************!*\
-  !*** ./src/app/components/base/event-emmiter.service.ts ***!
-  \**********************************************************/
-/*! exports provided: EventEmitterService */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "EventEmitterService", function() { return EventEmitterService; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-
-
-
-let EventEmitterService = class EventEmitterService {
-    constructor() {
-        this.loadYTvideo = new _angular_core__WEBPACK_IMPORTED_MODULE_1__["EventEmitter"]();
-        this.stopYTvideo = new _angular_core__WEBPACK_IMPORTED_MODULE_1__["EventEmitter"]();
-    }
-    loadVideo(videoId) {
-        this.loadYTvideo.emit(videoId);
-    }
-    stopVideo() {
-        this.stopYTvideo.emit();
-    }
-};
-EventEmitterService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
-    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
-        providedIn: 'root'
-    })
-], EventEmitterService);
 
 
 
@@ -2288,7 +2290,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
 /* harmony import */ var _services_SharingService__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../services/SharingService */ "./src/app/services/SharingService.ts");
 /* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
-/* harmony import */ var _base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../base/event-emmiter.service */ "./src/app/components/base/event-emmiter.service.ts");
+/* harmony import */ var _services_event_emmiter_service__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../services/event-emmiter.service */ "./src/app/services/event-emmiter.service.ts");
 
 
 
@@ -2319,7 +2321,7 @@ let EasyComponent = class EasyComponent {
 EasyComponent.ctorParameters = () => [
     { type: _services_SharingService__WEBPACK_IMPORTED_MODULE_2__["SharingService"] },
     { type: _angular_router__WEBPACK_IMPORTED_MODULE_3__["Router"] },
-    { type: _base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_4__["EventEmitterService"] }
+    { type: _services_event_emmiter_service__WEBPACK_IMPORTED_MODULE_4__["EventEmitterService"] }
 ];
 EasyComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
@@ -2489,50 +2491,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "FmsArgComponent", function() { return FmsArgComponent; });
 /* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
+/* harmony import */ var _base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../base-component/base-component.component */ "./src/app/components/base-component/base-component.component.ts");
 
 
 
-let FmsArgComponent = class FmsArgComponent {
-    constructor(router) {
-        this.router = router;
-    }
-    ngOnInit() {
-    }
-    ircacha() {
-        this.router.navigate(['/Cacha']);
-    }
-    irklan() {
-        this.router.navigate(['/Klan']);
-    }
-    irdtoke() {
-        this.router.navigate(['/Dtoke']);
-    }
-    irmecha() {
-        this.router.navigate(['/Mecha']);
-    }
-    irpapo() {
-        this.router.navigate(['/Papo']);
-    }
-    irmks() {
-        this.router.navigate(['/Mks']);
-    }
-    irstuart() {
-        this.router.navigate(['/Stuart']);
-    }
-    irsub() {
-        this.router.navigate(['/Sub']);
-    }
-    irnacho() {
-        this.router.navigate(['/Nacho']);
-    }
-    irwolf() {
-        this.router.navigate(['/Wolf']);
-    }
+let FmsArgComponent = class FmsArgComponent extends _base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"] {
 };
-FmsArgComponent.ctorParameters = () => [
-    { type: _angular_router__WEBPACK_IMPORTED_MODULE_2__["Router"] }
-];
 FmsArgComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-fms-arg',
@@ -3443,63 +3407,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "FmsEspComponent", function() { return FmsEspComponent; });
 /* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
+/* harmony import */ var _base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../base-component/base-component.component */ "./src/app/components/base-component/base-component.component.ts");
 
 
 
-let FmsEspComponent = class FmsEspComponent {
-    constructor(router) {
-        this.router = router;
-    }
+let FmsEspComponent = class FmsEspComponent extends _base_component_base_component_component__WEBPACK_IMPORTED_MODULE_2__["BaseComponentComponent"] {
     ngOnInit() {
     }
-    irblon() {
-        this.playAudio("blon", 3);
-        this.router.navigate(['/Blon']);
-    }
-    irgazir() {
-        this.router.navigate(['/Gazir']);
-    }
-    irkhan() {
-        this.router.navigate(['/Khan']);
-    }
-    irmnak() {
-        this.playAudio("mnak", 3);
-        this.router.navigate(['/Mnak']);
-    }
-    irmrego() {
-        this.router.navigate(['/Mrego']);
-    }
-    irerrece() {
-        this.router.navigate(['/Errece']);
-    }
-    irtirpa() {
-        this.router.navigate(['/Tirpa']);
-    }
-    irbnet() {
-        this.playAudio("bnet", 1);
-        this.router.navigate(['/Bnet']);
-    }
-    irzasko() {
-        this.router.navigate(['/Zasko']);
-    }
-    irsweetpain() {
-        this.router.navigate(['/Sweetpain']);
-    }
-    playAudio(mcName, numeroRimas) {
-        let audio = new Audio();
-        audio.src = "../../../assets/sounds/spain/" + mcName + "/" + mcName + "_intro" + this.getRandom(numeroRimas) + ".mp3";
-        audio.load();
-        audio.play();
-    }
-    getRandom(max) {
-        var value = parseInt(((Math.random() * 100) % max).toString());
-        return value + 1;
-    }
 };
-FmsEspComponent.ctorParameters = () => [
-    { type: _angular_router__WEBPACK_IMPORTED_MODULE_2__["Router"] }
-];
 FmsEspComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'app-fms-esp',
@@ -4922,7 +4837,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
 /* harmony import */ var _services_SharingService__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../services/SharingService */ "./src/app/services/SharingService.ts");
 /* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
-/* harmony import */ var _base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../base/event-emmiter.service */ "./src/app/components/base/event-emmiter.service.ts");
+/* harmony import */ var _services_event_emmiter_service__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../services/event-emmiter.service */ "./src/app/services/event-emmiter.service.ts");
 
 
 
@@ -4943,9 +4858,15 @@ let ResultsComponent = class ResultsComponent {
     getTwitterUrl() {
         var scoreMc1 = parseFloat(this.scoreData.Mc1.result.toString());
         var scoreMc2 = parseFloat(this.scoreData.Mc2.result.toString());
-        var winnerMc = scoreMc1 > scoreMc2 ? this.scoreData.Mc1 : this.scoreData.Mc2;
-        var loserMc = winnerMc === this.scoreData.Mc1 ? this.scoreData.Mc2 : this.scoreData.Mc1;
-        var concatToUrl = "Ganador: " + winnerMc.name.toUpperCase() + " con " + winnerMc.result + " puntos frente a " + loserMc.name.toUpperCase() + " con " + loserMc.result + " puntos. %0D%0D%23VotosFMS";
+        var winnerMc = Math.abs(scoreMc1 - scoreMc2) <= 5 ? null : (scoreMc1 > scoreMc2 ? this.scoreData.Mc1 : this.scoreData.Mc2);
+        var loserMc = winnerMc != null ? (winnerMc === this.scoreData.Mc1 ? this.scoreData.Mc2 : this.scoreData.Mc1) : null;
+        var concatToUrl = "";
+        if (winnerMc === null && loserMc === null) {
+            concatToUrl = "REPLICA! " + this.scoreData.Mc1.name + " " + scoreMc1 + " puntos frente a " + this.scoreData.Mc2.name + " con " + scoreMc2 + " puntos";
+        }
+        else {
+            concatToUrl = "Ganador: " + winnerMc.name.toUpperCase() + " con " + winnerMc.result + " puntos frente a " + loserMc.name.toUpperCase() + " con " + loserMc.result + " puntos. %0D%0D%23VotosFMS";
+        }
         concatToUrl = concatToUrl.replace(" ", "%20");
         window.open("https://twitter.com/intent/tweet?text=" + concatToUrl, "_blank");
     }
@@ -4955,7 +4876,7 @@ let ResultsComponent = class ResultsComponent {
 ResultsComponent.ctorParameters = () => [
     { type: _services_SharingService__WEBPACK_IMPORTED_MODULE_2__["SharingService"] },
     { type: _angular_router__WEBPACK_IMPORTED_MODULE_3__["Router"] },
-    { type: _base_event_emmiter_service__WEBPACK_IMPORTED_MODULE_4__["EventEmitterService"] }
+    { type: _services_event_emmiter_service__WEBPACK_IMPORTED_MODULE_4__["EventEmitterService"] }
 ];
 tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Input"])()
@@ -5475,6 +5396,51 @@ let SharingService = class SharingService {
 SharingService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])()
 ], SharingService);
+
+
+
+/***/ }),
+
+/***/ "./src/app/services/event-emmiter.service.ts":
+/*!***************************************************!*\
+  !*** ./src/app/services/event-emmiter.service.ts ***!
+  \***************************************************/
+/*! exports provided: EventEmitterService */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "EventEmitterService", function() { return EventEmitterService; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+
+
+
+let EventEmitterService = class EventEmitterService {
+    constructor() {
+        this.loadYTvideo = new _angular_core__WEBPACK_IMPORTED_MODULE_1__["EventEmitter"]();
+        this.stopYTvideo = new _angular_core__WEBPACK_IMPORTED_MODULE_1__["EventEmitter"]();
+        this.stopIntroAudio = new _angular_core__WEBPACK_IMPORTED_MODULE_1__["EventEmitter"]();
+        this.startIntroAudio = new _angular_core__WEBPACK_IMPORTED_MODULE_1__["EventEmitter"]();
+    }
+    loadVideo(videoId) {
+        this.loadYTvideo.emit(videoId);
+    }
+    stopVideo() {
+        this.stopYTvideo.emit();
+    }
+    stopAudio() {
+        this.stopIntroAudio.emit();
+    }
+    startIntro(path) {
+        this.startIntroAudio.emit(path);
+    }
+};
+EventEmitterService = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
+        providedIn: 'root'
+    })
+], EventEmitterService);
 
 
 
