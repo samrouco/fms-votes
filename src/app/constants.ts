@@ -1,3 +1,15 @@
+//Nombre FMSArg
+export const CACHA_NAME = "Cacha";
+export const DTOKE_NAME = "Dtoke";
+export const KLAN_NAME = "Klan";
+export const MECHA_NAME = "Mecha";
+export const MKS_NAME = "Mks";
+export const NACHO_NAME = "Nacho";
+export const PAPO_NAME = "Papo";
+export const STUART_NAME = "Stuart";
+export const SUB_NAME = "Sub";
+export const WOLF_NAME = "Wolf";
+
 //Nombres FMSEsp
 export const ZASKO_NAME = "Zasko";
 export const MR_EGO_NAME = "Mr. Ego";
@@ -34,6 +46,26 @@ export const GARZA_NAME = "Garza";
 export const RAPDER_NAME = "Rapder";
 export const RC_NAME = "RC";
 export const SKIPER_NAME = "Skiper";
+
+//Nombres FMSChi
+export const ACERTIJO_NAME = "Acertijo";
+export const EL_MENOR_NAME = "El menor";
+export const ESEZETA_NAME = "Esezeta";
+export const JOKKER_NAME = "Jokker";
+export const JOQERR_NAME = "Joqerr";
+export const NITRO_NAME = "Nitro";
+export const PEPE_GRILLO_NAME = "Pepe grillo";
+export const RICTO_NAME = "Ricto";
+export const TEOREMA_NAME = "Teorema";
+export const TOM_CROWLEY_NAME = "Tom crowley";
+
+//Batallas FMSArg T2020 Jornada1
+export const S2020_BATTLE_ARG_J1_DTOKE_WOLF = "unHYEBUUhTA";
+export const S2020_BATTLE_ARG_J1_KLAN_MECHA = "CITYxc8d1s4";
+export const S2020_BATTLE_ARG_J1_NACHO_STUART = "MEGpuTZcWs0";
+export const S2020_BATTLE_ARG_J1_PAPO_SUB = "Cej2qbUa90E";
+export const S2020_BATTLE_ARG_J1_MKS_CACHA = "b_jGUNwZWkU";
+
 
 //Batallas FMSEsp T2020 Jornada1
 export const S2020_BATTLE_ESP_J1_SWEET_PAIN_BLON = "lc5-dUqm7j4";
@@ -77,5 +109,25 @@ export const S2020_BATTLE_MEX_J1_YOIKER_ZTICMA = "O8KU941R3Eo";
 export const S2020_BATTLE_MEX_J1_LOBO_ESTEPARIO_GARZA = "0kkgfJQRCII";
 export const S2020_BATTLE_MEX_J1_BONE_JONY_BELTRAN = "iNq-SKcYppI";
 
+//Batallas FMSMex T2020 Jornada2
+export const S2020_BATTLE_MEX_J2_POTENCIA_GARZA = "fTeKIwtS1N0";
+export const S2020_BATTLE_MEX_J2_RAPDER_YOIKER = "xCub5PbulVQ";
+export const S2020_BATTLE_MEX_J2_JONY_BELTRAN_ZTICMA = "0D6pyQ4A_acE8Y5drsU";
+export const S2020_BATTLE_MEX_J2_SKIPER_LOBO_ESTEPARIO = "Us-0pgY49LQ";
+export const S2020_BATTLE_MEX_J2_RC_BONE = "PcIqTvchtUU";
+
+//Batallas FMSChi T2020 Jornada1
+export const S2020_BATTLE_CHI_J1_TEOREMA_JOQERR = "x4GUvZFUM7c";
+export const S2020_BATTLE_CHI_J1_ESEZETA_NITRO = "0F7TZyIYNZo";
+export const S2020_BATTLE_CHI_J1_ACERTIJO_RICTO = "24a023t7RyI";
+export const S2020_BATTLE_CHI_J1_PEPE_GRILLO_EL_MENOR = "Ie5MxYLb7v8";
+export const S2020_BATTLE_CHI_J1_JOKKER_TOM_CROWLEY = "WX4a7xlYkHQ";
+
+//Batallas FMSChi T2020 Jornada2
+export const S2020_BATTLE_CHI_J2_JOQERR_NITRO = "JXN7zJfSPE0";
+export const S2020_BATTLE_CHI_J2_TEOREMA_RICTO = "pugYFvVRcAs";
+export const S2020_BATTLE_CHI_J2_PEPE_GRILLO_TOM_CROWLEY = "Fn-Z_yRAKrE";
+export const S2020_BATTLE_CHI_J2_JOKKER_ACERTIJO = "nkuxArh1G2M";
+export const S2020_BATTLE_CHI_J2_ESEZETA_EL_MENOR = "nY2d9eTgwkg";
 
 
