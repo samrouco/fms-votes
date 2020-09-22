@@ -42,18 +42,33 @@ export const S2020_BATTLE_ESP_J1_ERRECE_BNET = "PtMQbN9x8I8";
 export const S2020_BATTLE_ESP_J1_MNAK_KHAN = "IkJmWaNTMgI";
 export const S2020_BATTLE_ESP_J1_MR_EGO_TIRPA = "yNbtrwnNH-g";
 
+//Batallas FMSEsp T2020 Jornada2
+export const S2020_BATTLE_ESP_J2_GAZIR_BLON = "VWCoBAR43Mw";
+export const S2020_BATTLE_ESP_J2_ERRECE_KHAN = "3ncbGT25ZBY";
+export const S2020_BATTLE_ESP_J2_SWEET_PAIN_ZASKO = "RWBu-ocdRHI";
+export const S2020_BATTLE_ESP_J2_TIRPA_MNAK = "_fdT4oLoKA8";
+export const S2020_BATTLE_ESP_J2_BNET_MREGO = "R25_FzPrlkU";
+
+
 //Batallas FMSPeru T2020 Jornada1
 export const S2020_BATTLE_PERU_J1_JAZE_JOTA = "BI-GRSXLg1M";
 export const S2020_BATTLE_PERU_J1_NEKROOS_NEW_ERA = "t3QIr-A2rlA";
-export const S2020_BATTLE_PERU_J1_ENZO_ZIKA = "AyrFdto_vxE";
+export const S2020_BATTLE_PERU_J1_RAMSET_STICK = "hoWQZG6Cnb4";
 export const S2020_BATTLE_PERU_J1_STRIKE_LITZEN = "xDXnifts8JM";
 export const S2020_BATTLE_PERU_J1_CHOQUE_SKILL = "5oETXuzmnME";
 
-//Batallas FMSPeru T2020 Jornada1
+//Batallas FMSPeru T2020 Jornada2
 export const S2020_BATTLE_PERU_J2_LITZEN_JOTA = "SRerWQGQq_Q";
 export const S2020_BATTLE_PERU_J2_JAZE_STRIKE = "iwdEQY80y6s";
 export const S2020_BATTLE_PERU_J2_NEW_ERA_CHOQUE = "zsrNsoa3BBI";
 export const S2020_BATTLE_PERU_J2_SKILL_RAMSET = "toFaJg0xRV4";
+
+//Batallas FMSPeru T2020 Jornada3
+export const S2020_BATTLE_PERU_J3_JAZE_CHOQUE = "jz6J6U9FrUg";
+export const S2020_BATTLE_PERU_J3_NEKROOS_RAMSET = "KJqMg4l39Vw";
+export const S2020_BATTLE_PERU_J3_STICK_LITZEN = "MQoE_TaM1LE";
+export const S2020_BATTLE_PERU_J3_STRIKE_NEW_ERA = "a9ZewINsmxE";
+export const S2020_BATTLE_PERU_J3_JOTA_SKILL = "N2eHuB1kB1s";
 
 //Batallas FMSMex T2020 Jornada1
 export const S2020_BATTLE_MEX_J1_RAPDER_SKIPER = "wOoE8Y5drsU";
