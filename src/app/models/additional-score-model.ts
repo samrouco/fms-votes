@@ -4,7 +4,7 @@ export class AdditionalScoreModel {
   scene;
 
   getTotal(): number {
-    const result = parseInt(this.getFlow().toString()) + parseInt(this.getSkills().toString())  + parseInt(this.getScene().toString());
+    const result = parseFloat(this.getFlow().toString()) + parseFloat(this.getSkills().toString())  + parseFloat(this.getScene().toString());
     console.log(result !== undefined ? result : 0);
     return result !== undefined ? result : 0;
   }
