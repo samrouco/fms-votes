@@ -33,8 +33,6 @@ export class PatronNumberDirective {
     if (event.keyCode == 46 || event.keyCode == 8 || event.keyCode == 9) {
       var htmlElement = document.getElementById(document.activeElement.id) as HTMLInputElement;
       if (htmlElement != undefined && htmlElement.value.endsWith(",5")) {
-        console.log("WARNING");
-        //htmlElement.value = "";
         htmlElement.dispatchEvent(new Event("input"));
       }
     }else if (event.keyCode < 48 || event.keyCode > 52) { // Si no esta entre 0 o 4
