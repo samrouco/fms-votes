@@ -45,7 +45,7 @@ export class AppComponent implements OnInit {
     this.audio = new Audio();
 
     this.audio.addEventListener('ended', (event) => {
-      if(this.player !== undefined){
+      if (this.player !== undefined) {
         this.player.unMute();
       }
     });
@@ -53,28 +53,30 @@ export class AppComponent implements OnInit {
     if (this.eventEmitterService.loadVideoSubscription == undefined) {
       this.eventEmitterService.loadVideoSubscription = this.eventEmitterService.
         loadYTvideo.subscribe((videoId: string) => {
-          console.log("PLAY " + videoId);
-          this.video = videoId;
-          this.visible = true;
-          this.init();
+
+          if (!this.visible) {
+            this.video = videoId;
+            this.visible = true;
+            this.init();
+          }
         });
     }
 
-    if(this.eventEmitterService.stopVideoSubscription == undefined){
+    if (this.eventEmitterService.stopVideoSubscription == undefined) {
       this.eventEmitterService.stopVideoSubscription = this.eventEmitterService.
-        stopYTvideo.subscribe(() =>{
+        stopYTvideo.subscribe(() => {
           this.stopYTVideo();
           this.visible = false;
         });
     }
 
-    if(this.eventEmitterService.stopIntroAudioSubscription == undefined){
+    if (this.eventEmitterService.stopIntroAudioSubscription == undefined) {
       this.eventEmitterService.stopIntroAudioSubscription = this.eventEmitterService.stopIntroAudio.subscribe(() => {
         this.audio.pause();
       })
     }
 
-    if(this.eventEmitterService.startIntroAudioSubscription == undefined){
+    if (this.eventEmitterService.startIntroAudioSubscription == undefined) {
       this.eventEmitterService.startIntroAudioSubscription = this.eventEmitterService.startIntroAudio.subscribe((path: string) => {
         this.audio.src = path;
         this.audio.load();
@@ -84,15 +86,15 @@ export class AppComponent implements OnInit {
 
   }
 
-  stopYTVideo(){
-    if(this.player !== undefined){
+  stopYTVideo() {
+    if (this.player !== undefined) {
       this.player.stopVideo();
     }
   }
 
   startVideo() {
     this.reframed = false;
-    if(this.player === undefined){
+    if (this.player === undefined) {
       this.player = new window['YT'].Player('player', {
         start: 0,
         playerVars: {
@@ -111,12 +113,12 @@ export class AppComponent implements OnInit {
           'onReady': this.onPlayerReady.bind(this),
         }
       });
-    }else{
+    } else {
       this.player.loadVideoById(this.video, 1);
-      if(!this.audio.ended){
+      if (!this.audio.ended) {
         console.log("YES");
         this.player.mute();
-      }else{
+      } else {
         console.log("NO")
       }
     }
@@ -127,7 +129,7 @@ export class AppComponent implements OnInit {
 
     document.getElementById("player").setAttribute("style", "border: 3px solid #1F5A2E; width: 800px; height:400px; border-radius: 20px; box-shadow: 0px 0px 10px 3px #1F5A2E;");
 
-    event.target.loadVideoById(this.video,1);
+    event.target.loadVideoById(this.video, 1);
     if (this.isRestricted) {
       event.target.mute();
       event.target.playVideo();
@@ -135,7 +137,7 @@ export class AppComponent implements OnInit {
       event.target.playVideo();
     }
 
-    if(!this.audio.ended){
+    if (!this.audio.ended) {
       this.player.mute();
     }
 
