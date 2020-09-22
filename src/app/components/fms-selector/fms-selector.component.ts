@@ -16,23 +16,23 @@ export class FmsSelectorComponent implements OnInit {
   }
 
   irfmsarg(){
-    this.router.navigate(['/FmsArg'])
+    this.router.navigate(['/fmsArg'])
   }
 
   irfmsesp(){
-    this.router.navigate(['/FmsEsp'])
+    this.router.navigate(['/fmsEsp'])
   }
 
   irfmsmex(){
-    this.router.navigate(['/FmsMex'])
+    this.router.navigate(['/fmsMex'])
   }
 
   irfmschi() {
-    this.router.navigate(['/FmsChi'])
+    this.router.navigate(['/fmsChi'])
   }
 
   irfmsper(){
-    this.router.navigate(['/FmsPer'])
+    this.router.navigate(['/fmsPer'])
   }
 
 }
