@@ -47,7 +47,7 @@ export class BaseComponentComponent implements OnInit {
   }
 
   playAudio(mcName: string, introsCount: number, folder: string): void{
-    this.eventEmitterservice.startIntro("../../../assets/sounds/"+folder+"/"+ mcName + "/" + mcName + "_intro" + this.getRandom(introsCount) + ".mp3");
+    this.eventEmitterservice.startIntro("assets/sounds/"+folder+"/"+ mcName + "/" + mcName + "_intro" + this.getRandom(introsCount) + ".mp3");
   }
 
   getRandom(max: number){

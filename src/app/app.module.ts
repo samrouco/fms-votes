@@ -1,6 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-
+import { HashLocationStrategy, LocationStrategy  } from '@angular/common';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { McSelectorComponent } from './components/mc-selector/mc-selector.component';
@@ -76,6 +76,7 @@ import { RictoComponent } from './components/fms-chi/ricto/ricto.component';
 import { AcertijoComponent } from './components/fms-chi/acertijo/acertijo.component';
 import { TeoremaComponent } from './components/fms-chi/teorema/teorema.component';
 import { JoqerrComponent } from './components/fms-chi/joqerr/joqerr.component';
+import { EventEmitterService } from './services/event-emmiter.service';
 
 
 @NgModule({
@@ -159,8 +160,9 @@ import { JoqerrComponent } from './components/fms-chi/joqerr/joqerr.component';
     FormsModule
   ],
   providers: [
+    {provide : LocationStrategy , useClass: HashLocationStrategy},
     SharingService,
-    EventEmitter
+    EventEmitterService
   ],
   bootstrap: [AppComponent]
 })

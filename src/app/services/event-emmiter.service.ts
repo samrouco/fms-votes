@@ -1,10 +1,8 @@
 import { Injectable } from '@angular/core';
 import { EventEmitter } from '@angular/core';
-import { Subscription } from 'rxjs/internal/Subscription';
+import { Subscription } from 'rxjs';
 
-@Injectable({
-  providedIn: 'root'
-})
+
 export class EventEmitterService {
 
   loadYTvideo = new EventEmitter();
