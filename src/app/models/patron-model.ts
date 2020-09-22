@@ -1,5 +1,5 @@
 export class PatronModel {
-  score: number;
+  score: string;
   extra: boolean;
 
   constructor() {
@@ -8,6 +8,6 @@ export class PatronModel {
   }
 
   getTotalScore(): number {
-    return +(this.extra ? parseInt(this.score.toString()) + 1 : this.score);
+    return +(this.extra ? parseFloat(this.score.toString()) + 1 : this.score);
   }
 }

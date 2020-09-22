@@ -19,7 +19,7 @@ export class RoundModel {
     this.patrons.forEach( patron => {
 
       if (patron.score !== undefined && patron.getTotalScore !== undefined) {
-        result += parseInt(patron.getTotalScore().toString());
+        result += parseFloat(patron.getTotalScore().toString());
       }
     } );
 

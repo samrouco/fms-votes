@@ -37,7 +37,7 @@ export class ResultsComponent implements OnInit {
     var concatToUrl = "";
 
     if(winnerMc === null && loserMc === null){
-      concatToUrl = "REPLICA! " + this.scoreData.Mc1.name + " " + scoreMc1 + " puntos frente a " + this.scoreData.Mc2.name + " con " + scoreMc2  + " puntos";
+      concatToUrl = "REPLICA! " + this.scoreData.Mc1.name + " " + scoreMc1 + " puntos frente a " + this.scoreData.Mc2.name + " con " + scoreMc2  + " puntos. %0D%0D%23VotosFMS";
     }else{
       concatToUrl = "Ganador: " + winnerMc.name.toUpperCase() + " con " + winnerMc.result + " puntos frente a " + loserMc.name.toUpperCase() + " con " + loserMc.result + " puntos. %0D%0D%23VotosFMS";
     }

@@ -24,8 +24,8 @@ export class McModel {
   }
 
   calculateTotal() {
-    this.result = +(parseInt(this.easyMode.getRoundScore().toString()) + parseInt(this.hardMode.getRoundScore().toString()) +
-      parseInt(this.thematic1.getRoundScore().toString()) + parseInt(this.thematic2.getRoundScore().toString()) + parseInt(this.characters.getRoundScore().toString()) + parseInt(this.blood1.getRoundScore().toString()) +
-      parseInt(this.blood2.getRoundScore().toString()) + parseInt(this.deluxe.getRoundScore().toString()));
+    this.result = +(parseFloat(this.easyMode.getRoundScore().toString()) + parseFloat(this.hardMode.getRoundScore().toString()) +
+      parseFloat(this.thematic1.getRoundScore().toString()) + parseFloat(this.thematic2.getRoundScore().toString()) + parseFloat(this.characters.getRoundScore().toString()) + parseFloat(this.blood1.getRoundScore().toString()) +
+      parseFloat(this.blood2.getRoundScore().toString()) + parseFloat(this.deluxe.getRoundScore().toString()));
   }
 }

@@ -20,9 +20,9 @@ export class PatronNumberDirective {
 
       if (htmlElement != undefined) {
         if (htmlElement.value.length == 0) {
-          htmlElement.value = "0,5";
-        } else if (!htmlElement.value.endsWith(",5") && htmlElement.value != "4") {
-          htmlElement.value = htmlElement.value + ",5";
+          htmlElement.value = "0.5";
+        } else if (!htmlElement.value.endsWith(".5") && htmlElement.value != "4") {
+          htmlElement.value = htmlElement.value + ".5";
         }
 
         htmlElement.dispatchEvent(new Event("input"));
@@ -33,7 +33,6 @@ export class PatronNumberDirective {
     if (event.keyCode == 46 || event.keyCode == 8 || event.keyCode == 9) {
       var htmlElement = document.getElementById(document.activeElement.id) as HTMLInputElement;
       if (htmlElement != undefined && htmlElement.value.endsWith(",5")) {
-        htmlElement.value = "";
         htmlElement.dispatchEvent(new Event("input"));
       }
     }else if (event.keyCode < 48 || event.keyCode > 52) { // Si no esta entre 0 o 4

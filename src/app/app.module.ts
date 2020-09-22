@@ -1,6 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { HashLocationStrategy, LocationStrategy  } from '@angular/common';
+//import { HashLocationStrategy, LocationStrategy  } from '@angular/common';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { McSelectorComponent } from './components/mc-selector/mc-selector.component';
@@ -160,7 +160,7 @@ import { EventEmitterService } from './services/event-emmiter.service';
     FormsModule
   ],
   providers: [
-    {provide : LocationStrategy , useClass: HashLocationStrategy},
+    //{provide : LocationStrategy , useClass: HashLocationStrategy},
     SharingService,
     EventEmitterService
   ],
